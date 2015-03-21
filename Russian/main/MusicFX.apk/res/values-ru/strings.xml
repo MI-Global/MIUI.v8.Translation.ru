@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MusicFX</string>
+    <string name="no_effects">Эффекты недоступны</string>
+    <string name="main_toggle_effects_title">Аудиоэффекты</string>
+    <string name="eq_dialog_title">Эквалайзер</string>
+    <string name="headset_plug">Подключите наушники для этих эффектов</string>
+    <string name="bass_boost_strength">Усиление низких частот</string>
+    <string name="virtualizer_strength">Эффект 3D</string>
+    <string name="pr_title">Реверберация:</string>
+    <string name="pr_summary">Дополнительные эффекты реверберации в помещении</string>
+    <string name="pr_dialog_title">Шаблон ревербератора</string>
+    <string name="setup">Настройка</string>
+    <string name="ci_extreme">Усилитель FX</string>
+    <string name="user">Пользователь</string>
+    <string name="picker_title">Управление звуковыми эффектами</string>
+    <string name="classical">Классическая</string>
+    <string name="dance">Танцевальная</string>
+    <string name="eq_custom">Для использования своих настроек выберите пользовательскую установку</string>
+    <string name="flat">Стандартная</string>
+    <string name="folk">Фолк</string>
+    <string name="heavy_metal">Тяжелый металл</string>
+    <string name="hip_hop">Хип Хоп</string>
+    <string name="jazz">Джаз</string>
+    <string name="largehall">Большой зал</string>
+    <string name="largeroom">Большая комната</string>
+    <string name="mediumhall">Средний зал</string>
+    <string name="mediumroom">Средняя комната</string>
+    <string name="none">Нет</string>
+    <string name="normal">Нормальный</string>
+    <string name="plate">Плита</string>
+    <string name="pop">Поп</string>
+    <string name="power_on_prompt">Нажмите на кнопку вверху справа</string>
+    <string name="rock">Рок</string>
+    <string name="smallroom">Маленькая комната</string>
+</resources>

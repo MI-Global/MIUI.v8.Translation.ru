@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with NXT -->
+<resources>
+     <string name="account_setup_options_mail_window_1day">Один день</string>
+     <string name="account_setup_options_mail_window_1month">Один месяц</string>
+     <string name="account_setup_options_mail_window_1week">Одна неделя</string>
+     <string name="account_setup_options_mail_window_2weeks">Две недели</string>
+     <string name="account_setup_options_mail_window_3days">Три дня</string>
+     <string name="account_setup_options_mail_window_all">Все</string>
+     <string name="account_setup_options_mail_window_auto">Автоматическая</string>
+     <string name="app_name">Службы Exchange</string>
+     <string name="auth_error_notification_text">Коснитесь, чтобы изменить параметры учетной записи для %s</string>
+     <string name="auth_error_notification_title">Ошибка аутентификации</string>
+     <string name="exception_cancel">Это событие было отменено: %s</string>
+     <string name="exception_updated">Подробности этого мероприятия были изменены на: %s</string>
+     <string name="exchange_name">Корпоративный</string>
+     <string name="exchange_name_alternate">Microsoft Exchange ActiveSync</string>
+     <string name="mailbox_name_server_all_unread">Непрочитанные</string>
+     <string name="mailbox_name_server_starred">Избранные</string>
+     <string name="meeting_accepted">Приняты: %s</string>
+     <string name="meeting_allday">Когда: %s (весь день)</string>
+     <string name="meeting_allday_recurring">Когда: %s (весь день, повтор)</string>
+     <string name="meeting_canceled">Отменено: %s</string>
+     <string name="meeting_declined">Отклонено: %s</string>
+     <string name="meeting_recurring">Когда: %s (recurring)</string>
+     <string name="meeting_tentative">Возможно: %s</string>
+     <string name="meeting_updated">Обновлено: %s</string>
+     <string name="meeting_when">Когда: %s</string>
+     <string name="meeting_where">Где: %s</string>
+     <string name="notification_exchange_calendar_added">Добавлен календарь Exchange</string>
+     <string name="policy_app_blacklist">Запретить указанные приложения</string>
+     <string name="policy_app_whitelist">Разрешить только определенные приложения</string>
+     <string name="policy_bluetooth_restricted">Запретить использования Bluetooth</string>
+     <string name="policy_dont_allow_attachments">"Запретить вложения"</string>
+     <string name="policy_dont_allow_browser">"Запретить браузеры"</string>
+     <string name="policy_dont_allow_consumer_email">"Запретить электронную почту"</string>
+     <string name="policy_dont_allow_html">"Запретить HTML почту"</string>
+     <string name="policy_dont_allow_internet_sharing">"Запретить общий доступ Интернет"</string>
+     <string name="policy_dont_allow_irda">"Запретить соединения через инфракрасный порт"</string>
+     <string name="policy_dont_allow_pop_imap">"Запретить аккаунты POP3 или IMAP"</string>
+     <string name="policy_dont_allow_storage_cards">"Запретить карты памяти"</string>
+     <string name="policy_dont_allow_text_messaging">"Запретить текстовые сообщения"</string>
+     <string name="policy_dont_allow_unsigned_apps">"Запретить не неподписанные приложения"</string>
+     <string name="policy_dont_allow_unsigned_installers">"Запретить не неподписанные установщики приложений"</string>
+     <string name="policy_dont_allow_wifi">"Запретить Wi-Fi"</string>
+     <string name="policy_html_truncation">Запрет по размеру HTML почты</string>
+     <string name="policy_max_attachment_size">Запрет по размеру вложения</string>
+     <string name="policy_require_encryption">Требовать шифрование устройства</string>
+     <string name="policy_require_manual_sync_roaming">Разрешить только ручную синхронизацию при нахождении в роуминге</string>
+     <string name="policy_require_sd_encryption">Требовать шифрование SD-карты</string>
+     <string name="policy_require_smime">Требовать сообщения SMIME</string>
+     <string name="policy_text_truncation">Запрет по размеру электронной почты</string>
+</resources>

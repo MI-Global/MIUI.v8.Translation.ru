@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="movie_channel_tabs">
+        <item>Рекомендуемые</item>
+        <item>Топ</item>
+        <item>Лучшие</item>
+        <item>Новые</item>
+    </string-array>
+    <string-array name="variety_channel_tabs">
+        <item>Рекомендуемые</item>
+        <item>Лучшие</item>
+    </string-array>
+    <string-array name="channel_tabs">
+        <item>Лучшие</item>
+        <item>Топ</item>
+        <item>Новые</item>
+    </string-array>
+    <string-array name="channel_featured_tabs">
+        <item>Лучшие</item>
+        <item>Топ</item>
+        <item>Новые</item>
+    </string-array>
+    <string-array name="home_tabs">
+        <item>Онлайн</item>
+        <item>Телефон</item>
+    </string-array>
+    <string-array name="series_detail_tabs">
+        <item>Эпизод</item>
+        <item>Описание</item>
+    </string-array>
+    <string-array name="addon_list_tabs">
+        <item>Все лучшие</item>
+        <item>Мои лучшие</item>
+    </string-array>
+</resources>

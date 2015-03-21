@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Документы</string>
+    <string name="title_open">Открыть</string>
+    <string name="title_save">Сохранить</string>
+    <string name="menu_create_dir">Создать папку</string>
+    <string name="menu_grid">Сетка</string>
+    <string name="menu_list">Список</string>
+    <string name="menu_sort">Сортировка</string>
+    <string name="menu_search">Поиск</string>
+    <string name="menu_settings">Настройки</string>
+    <string name="menu_open">Открыть</string>
+    <string name="menu_save">Сохранить</string>
+    <string name="menu_share">Отправить</string>
+    <string name="menu_delete">Удалить</string>
+    <string name="mode_selected_count">Выбрано: %1$d</string>
+    <string name="sort_name">По имени</string>
+    <string name="sort_date">По дате</string>
+    <string name="sort_size">По размеру</string>
+    <string name="drawer_open">Показать корневую папку</string>
+    <string name="drawer_close">Скрыть кореневую папку</string>
+    <string name="save_error">Ошибка сохранения документа</string>
+    <string name="create_error">Ошибка создания файла</string>
+    <string name="query_error">Ошибка открытия документа</string>
+    <string name="root_recent">Недавние</string>
+    <string name="root_available_bytes">Свободно: %1$s</string>
+    <string name="root_type_service">Тип хранения</string>
+    <string name="root_type_shortcut">Ярлыки</string>
+    <string name="root_type_device">Устройства</string>
+    <string name="root_type_apps">Другие приложения</string>
+    <string name="pref_advanced_devices">Отображать другие устройства</string>
+    <string name="pref_file_size">Отображать размер файла</string>
+    <string name="pref_device_size">Отображать размер устройства</string>
+    <string name="empty">Пусто</string>
+    <string name="toast_no_application">Невозможно открыть файл</string>
+    <string name="toast_failed_delete">Невозможно удалить некоторые элементы</string>
+    <string name="share_via">Способ отправки</string>
+    <string name="toast_not_show_thumbnail">Не хватает оперативной памяти для отображения эскиза</string>
+</resources>

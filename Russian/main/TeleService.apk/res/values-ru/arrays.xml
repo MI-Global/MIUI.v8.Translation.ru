@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ims_call_cap_types">
+        <item>Голос</item>
+        <item>Видео</item>
+    </string-array>
+    <string-array name="ims_call_types">
+        <item>Голос</item>
+        <item>Видео</item>
+        <item>Голос с коммутацией</item>
+    </string-array>
+    <string-array name="ims_video_cs_call_types">
+        <item>Видео</item>
+        <item>Голос с коммутацией</item>
+    </string-array>
+    <string-array name="ims_voice_cs_call_types">
+        <item>Голос</item>
+        <item>Голос с коммутацией</item>
+    </string-array>
+    <string-array name="cs_call_type">
+        <item>Голос с коммутацией</item>
+    </string-array>
+    <string-array name="dtmf_tone_entries">
+        <item>Обычные</item>
+        <item>Длинные</item>
+    </string-array>
+    <string-array name="uplmn_prefer_network_mode_w_choices">
+        <item>GSM</item>
+        <item>WCDMA</item>
+        <item>LTE</item>
+        <item>Тройной режим</item>
+    </string-array>
+    <string-array name="preferred_network_mode_choices">
+        <item>TD-SCDMA/LTE/GSM/WCDMA/CDMA/EVDO</item>
+        <item>TD-SCDMA/GSM/WCDMA/CDMA/EVDO</item>
+        <item>TD-SCDMA/GSM/WCDMA/LTE</item>
+        <item>TD-SCDMA/WCDMA/LTE</item>
+        <item>TD-SCDMA/GSM/WCDMA</item>
+        <item>TD-SCDMA/GSM/LTE</item>
+        <item>TD-SCDMA/GSM</item>
+        <item>TD-SCDMA/LTE</item>
+        <item>TD-SCDMA/WCDMA</item>
+        <item>TD-SCDMA</item>
+        <item>LTE / WCDMA</item>
+        <item>LTE</item>
+        <item>Глобальная сеть</item>
+        <item>GSM/WCDMA/LTE</item>
+        <item>CDMA + LTE/EvDo</item>
+        <item>CDMA/EvDo/GSM/WCDMA</item>
+        <item>EvDo</item>
+        <item>CDMA без EvDo</item>
+        <item>CDMA/EvDo автоматически</item>
+        <item>GSM/WCDMA автоматически</item>
+        <item>WCDMA</item>
+        <item>GSM</item>
+        <item>Предпочтительно GSM/WCDMA</item>
+    </string-array>
+    <string-array name="cdma_system_select_choices">
+        <item>Только домашняя</item>
+        <item>Автоматически</item>
+    </string-array>
+    <string-array name="list_language_entries">
+        <item>Английский</item>
+        <item>Французский</item>
+        <item>Испанский</item>
+        <item>Японский</item>
+        <item>Корейский</item>
+        <item>Китайский</item>
+        <item>Иврит</item>
+    </string-array>
+    <string-array name="clir_display_values">
+        <item>По умолчанию</item>
+        <item>Скрыть номер</item>
+        <item>Показать номер</item>
+    </string-array>
+</resources>

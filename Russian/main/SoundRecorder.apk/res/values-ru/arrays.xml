@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="record_scenes_entries">
+        <item>Музыка</item>
+        <item>Голос</item>
+    </string-array>
+    <string-array name="interview_record_scenes_entries">
+        <item>Музыка</item>
+        <item>Голос</item>
+        <item>Интервью</item>
+    </string-array>
+    <string-array name="x5_record_scenes_entries">
+        <item>Музыка</item>
+        <item>Голос</item>
+        <item>Интервью</item>
+    </string-array>
+</resources>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dialog_insufficient_space_on_external">SD карта заполнена</string>
+    <string name="dialog_insufficient_space_on_cache">Не хватает памяти на внутренней памяти</string>
+    <string name="auto_restart_under_wifi">Автоматически загрузить файл через Wi-Fi</string>
+    <string name="task_already_exist">Загрузка уже существует</string>
+    <string name="privacy_tip_title">Использовать сервис Xunlei?</string>
+    <string name="privacy_tip_content">Сервис ускорения Xunlei позволяет загружать файлы на максимальной скорости. Ваша информация о Mi аккаунта будет синхронизирована для проверки активных подписок на этот сервис.</string>
+    <string name="privacy_tip_cancel">Отмена</string>
+    <string name="privacy_tip_ok">ОК</string>
+    <string name="privacy_notif_title">Ускорение загрузки Xunlei включено</string>
+    <string name="privacy_notif_content">Нажмите для просмотра информации</string>
+    <string name="notif_text_engine_on">Ускорение…</string>
+    <string name="notif_text_engine_off">Сервис ускорения загрузки Xunlei выключен</string>
+    <string name="notif_title_single_downloading">Загрузка: %1$s</string>
+    <string name="notif_title_multiple_downloading">Загрузка файлов: %1$d</string>
+    <string name="notif_title_file_size">Размер: %1$d</string>
+    <string name="app_label">Диспетчер загрузки</string>
+    <string name="permlab_downloadManager">Доступ к менеджеру загрузки</string>
+    <string name="permdesc_downloadManager">Приложение получит доступ к диспетчеру загрузок и сможет загружать файлы через него. Вредоносные программы смогут таким образом прерывать загрузки и просматривать личную информацию</string>
+    <string name="permlab_downloadManagerAdvanced">Расширенные функции менеджера загрузки</string>
+    <string name="permdesc_downloadManagerAdvanced">Приложение получит доступ к расширенным функциям диспетчера загрузок. Вредоносные программы смогут таким образом прерывать загрузки и просматривать личную информацию</string>
+    <string name="permlab_downloadCompletedIntent">Отправить оповещение о загрузке</string>
+    <string name="permdesc_downloadCompletedIntent">Приложение сможет отправлять оповещения о завершенных загрузках. Вредоносные программы смогут таким образом мешать работе приложений, загружающих файлы</string>
+    <string name="permlab_seeAllExternal">Просмотреть все загрузки на SD карту</string>
+    <string name="permdesc_seeAllExternal">Приложение получит доступ ко всем загрузкам на SD карте независимо от того, через какое ПО они были загружены</string>
+    <string name="permlab_downloadCacheNonPurgeable">Резервировать место в кэше загрузки</string>
+    <string name="permdesc_downloadCacheNonPurgeable">Приложение сможет загружать файлы в кэш загрузки (который не может быть автоматически очищен), если менеджеру загрузки потребуется больше места</string>
+    <string name="permlab_downloadWithoutNotification">Загрузка файлов без уведомлений</string>
+    <string name="permdesc_downloadWithoutNotification">Приложение сможет загружать файлы через диспетчер загрузок без уведомления пользователя</string>
+    <string name="permlab_accessAllDownloads">Доступ ко всем загрузкам</string>
+    <string name="permdesc_accessAllDownloads">Приложение сможет открывать и изменять загрузки независимо от того, через какое ПО они были загружены</string>
+    <string name="download_unknown_title">&lt;без названия></string>
+    <string name="notification_download_complete">Загрузка завершена</string>
+    <string name="notification_download_failed">Не удалось загрузить файл</string>
+    <string name="notification_need_wifi_for_size">Ожидание сети Wi-Fi</string>
+    <string name="notification_paused_in_background">Загрузка приостановлена</string>
+    <string name="wifi_required_title">Слишком большой файл для сети оператора</string>
+    <string name="wifi_required_body" formatted="false">"Для завершения загрузки файла размером %s необходимо подключение к сети Wi-Fi.
+
+Чтобы продолжить загрузку позже через Wi-Fi, нажмите %s"</string>
+    <string name="wifi_recommended_title">Загрузки</string>
+    <string name="wifi_recommended_body" formatted="false">"При загрузке через мобильную сеть возможно чрезмерное потребление трафика.
+
+Чтобы выполнить загрузку позже по Wi-Fi, нажмите \"Добавить в очередь\". 
+
+%s(%s)"</string>
+    <string name="button_queue_for_wifi">Позже</string>
+    <string name="button_cancel_download">Отмена</string>
+    <string name="button_start_now">Загрузить</string>
+    <string name="download_percent">%d%%</string>
+    <string name="download_remaining">Осталось %s</string>
+    <string name="download_no_application_title">Не удается открыть файл</string>
+    <string name="root_downloads">Загрузки</string>
+    <string name="download_queued">В очереди</string>
+    <string name="download_running">В процессе</string>
+    <string name="download_error">Ошибка загрузки</string>
+    <string name="download_running_percent">Процесс: %d%%</string>
+</resources>

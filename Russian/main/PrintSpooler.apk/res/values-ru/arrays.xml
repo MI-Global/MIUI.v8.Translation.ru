@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="color_mode_labels">
+        <item>Черно-белый</item>
+        <item>Цветной</item>
+    </string-array>
+    <string-array name="orientation_labels">
+        <item>Портретная</item>
+        <item>Ландшафт</item>
+    </string-array>
+    <string-array name="page_options_labels">
+        <item>Все</item>
+        <item>Диапазон</item>
+    </string-array>
+</resources>

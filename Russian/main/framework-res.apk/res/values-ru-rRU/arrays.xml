@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="emailAddressTypes">
+        <item>Домашний</item>
+        <item>Рабочий</item>
+        <item>Прочий</item>
+        <item>Выбрать</item>
+    </string-array>
+    <string-array name="imProtocols">
+        <item>AIM</item>
+        <item>Windows Live</item>
+        <item>Yahoo</item>
+        <item>Skype</item>
+        <item>QQ</item>
+        <item>Google Talk</item>
+        <item>ICQ</item>
+        <item>Jabber</item>
+    </string-array>
+    <string-array name="organizationTypes">
+        <item>Рабочий</item>
+        <item>Другое</item>
+        <item>Выбрать</item>
+    </string-array>
+    <string-array name="phoneTypes">
+        <item>Домашний</item>
+        <item>Мобильный</item>
+        <item>Рабочий</item>
+        <item>Рабочий факс</item>
+        <item>Домашний факс</item>
+        <item>Пейджер</item>
+        <item>Прочий</item>
+        <item>Выбрать</item>
+    </string-array>
+    <string-array name="postalAddressTypes">
+        <item>Домашний</item>
+        <item>Рабочий</item>
+        <item>Прочий</item>
+        <item>Выбрать</item>
+    </string-array>
+    <string-array name="app_ops_labels">
+        <item>Попытка получения доступа к местоположению</item>
+        <item>Попытка получения доступа к местоположению</item>
+        <item>Попытка получения доступа к местоположению</item>
+        <item>Попытка использования вибрации</item>
+        <item>Попытка чтения контактов</item>
+        <item>Попытка изменения контактов</item>
+        <item>Попытка чтения журнала вызовов</item>
+        <item>Попытка изменения журнала вызовов</item>
+        <item>Попытка чтения календаря</item>
+        <item>Попытка изменения календаря</item>
+        <item>Попытка получения доступа к местоположению</item>
+        <item>Попытка вывода уведомления</item>
+        <item>Попытка получения доступа к местоположению</item>
+        <item>Попытка совершения вызова</item>
+        <item>Попытка чтения сообщений</item>
+        <item>Попытка чтения и изменения сообщений</item>
+        <item>Попытка получения сообщения</item>
+        <item>Попытка получения сообщения</item>
+        <item>Попытка получения сообщения</item>
+        <item>Попытка получения сообщения</item>
+        <item>Попытка отправки сообщения</item>
+        <item>Попытка чтения сообщений</item>
+        <item>Попытка чтения и изменения сообщений</item>
+        <item>Попытка изменения настроек</item>
+        <item>Попытка подъема</item>
+        <item>Попытка получения доступа к уведомлениям</item>
+        <item>Попытка получения доступа к камере</item>
+        <item>Попытка записи звука</item>
+        <item>Попытка воспроизведения звука</item>
+        <item>Попытка чтения буфера обмена</item>
+        <item>Попытка изменения буфера обмена</item>
+        <item>Попытка использования кнопок медиа</item>
+        <item>Попытка использования фокуса звука</item>
+        <item>Попытка использования общей громкости</item>
+        <item>Попытка использования громкости разговора</item>
+        <item>Попытка использования громкости вызова</item>
+        <item>Попытка использования громкости медиа</item>
+        <item>Попытка использования громкости будильника</item>
+        <item>Попытка использования громкости уведомлений</item>
+        <item>Попытка использования громкости bluetooth</item>
+        <item>Попытка удерживать экран включенным</item>
+        <item>Попытка получения доступа к местоположению</item>
+        <item>Попытка получения доступа к местоположению</item>
+        <item>Попытка включения/выключения Wi-Fi</item>
+        <item>Попытка включения/выключения Bluetooth</item>
+        <item>Попытка включения/выключения мобильного интернета</item>
+        <item>Попытка отправки MMS</item>
+        <item>Попытка чтения MMS</item>
+        <item>Попытка создания MMS</item>
+        <item>Попытка запуска</item>
+    </string-array>
+    <integer-array name="maps_starting_lat_lng">
+        <item>55750449</item>
+        <item>37621136</item>
+    </integer-array>
+    <integer-array name="maps_starting_zoom">
+        <item>2</item>
+    </integer-array>
+    <string-array name="imAddressTypes">
+        <item>Домашний</item>
+        <item>Рабочий</item>
+        <item>Прочий</item>
+        <item>Выбрать</item>
+    </string-array>
+</resources>

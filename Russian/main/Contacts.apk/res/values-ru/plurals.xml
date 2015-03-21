@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="listTotalPhoneContacts">
+        <item quantity="other">Контакты с номерами телефонов: %d</item>
+        <item quantity="one">Контакты с номерами телефона: 1</item>
+    </plurals>
+    <plurals name="listTotalAllContacts">
+        <item quantity="other">Контактов: %d</item>
+        <item quantity="one">Контактов: 1</item>
+    </plurals>
+    <plurals name="listFoundAllContacts">
+        <item quantity="other">Найдено: %d</item>
+        <item quantity="one">Найдено: 1</item>
+    </plurals>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">Найдено: %d</item>
+        <item quantity="one">Найдено: 1</item>
+    </plurals>
+    <plurals name="merge_info">
+        <item quantity="other">Объединено из нескольких источников (%0$d)</item>
+        <item quantity="one">Не объединен</item>
+    </plurals>
+    <plurals name="num_groups_in_account">
+        <item quantity="other">Групп: %0$d</item>
+        <item quantity="one">Групп: 1</item>
+    </plurals>
+    <plurals name="num_contacts_in_group">
+        <item quantity="other">%2$s | Контактов: %1$d</item>
+        <item quantity="one">%2$s | Контактов: %1$d</item>
+    </plurals>
+    <plurals name="group_list_num_contacts_in_group">
+        <item quantity="other">Контактов: %1$d</item>
+        <item quantity="one">Контактов: %1$d</item>
+    </plurals>
+    <plurals name="group_list_num_numbers_in_group">
+        <item quantity="other">Номеров: %1$d</item>
+        <item quantity="one">Номеров: %1$d</item>
+    </plurals>
+    <plurals name="notification_voicemail_title">
+        <item quantity="other">Голосовые сообщения: %1$d</item>
+        <item quantity="one">Голосовая почта</item>
+    </plurals>
+    <plurals name="number_of_items_selected">
+        <item quantity="other">Выбрано: %1$d</item>
+        <item quantity="one">Выбрано: %1$d</item>
+    </plurals>
+    <plurals name="pick_favorites_list_title">
+        <item quantity="other">Избранных: %1$d</item>
+        <item quantity="one">Избранных: %1$d</item>
+    </plurals>
+    <plurals name="pick_recent_list_title">
+        <item quantity="other">Недавних контактов: %1$d</item>
+        <item quantity="one">Недавних контактов: 1</item>
+    </plurals>
+    <plurals name="hint_search_contacts">
+        <item quantity="other">Контактов: %1$d</item>
+        <item quantity="one">Контактов: %1$d</item>
+    </plurals>
+    <plurals name="hint_search_phone_numbers">
+        <item quantity="other">Номеров: %1$d</item>
+        <item quantity="one">Номеров: %1$d</item>
+    </plurals>
+    <plurals name="hint_search_emails">
+        <item quantity="other">Адресов Email: %1$d</item>
+        <item quantity="one">Адресов Email: 1</item>
+    </plurals>
+    <plurals name="pick_favorites_contacts_list_title">
+        <item quantity="other">Избранных: %1$d</item>
+        <item quantity="one">Избранных: %1$d</item>
+    </plurals>
+    <plurals name="pick_recent_contacts_list_title">
+        <item quantity="other">Недавних контактов: %1$d</item>
+        <item quantity="one">Недавних контактов: %1$d</item>
+    </plurals>
+    <plurals name="group_add_success_toast">
+        <item quantity="other">Добавлено контактов: %1$d</item>
+        <item quantity="one">Добавлено контактов: %1$d</item>
+    </plurals>
+    <plurals name="smart_group_member_count">
+        <item quantity="other">Выбрано: %1$d</item>
+        <item quantity="one">Выбрано: %1$d</item>
+    </plurals>
+    <plurals name="device_import_done_toast">
+        <item quantity="other">Импортировано контактов: %1$d</item>
+        <item quantity="one">Импортировано контактов: %1$d</item>
+    </plurals>
+    <plurals name="numSelectedSimContacts">
+        <item quantity="other">Выбрано: %1$d</item>
+        <item quantity="zero">Выбрано: %1$d</item>
+        <item quantity="one">Выбрано: %1$d</item>
+    </plurals>
+    <plurals name="callNoAnswerTimeFormat">
+        <item quantity="other">гудков %d</item>
+        <item quantity="one">гудок %d</item>
+    </plurals>
+</resources>

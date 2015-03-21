@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="note_count_in_folder">
+        <item quantity="other">Заметок: %1$s</item>
+        <item quantity="one">Заметок: 1</item>
+    </plurals>
+    <plurals name="search_results_title">
+        <item quantity="other">Поиск \"%2$s\" (найдено: %1$s)</item>
+        <item quantity="one">Поиск \"%2$s\" (найдено: %1$s)</item>
+    </plurals>
+    <plurals name="note_terms">
+        <item quantity="other">%1$s</item>
+        <item quantity="one">%1$s</item>
+    </plurals>
+    <plurals name="folder_terms">
+        <item quantity="other">%1$s</item>
+        <item quantity="one">%1$s</item>
+    </plurals>
+</resources>

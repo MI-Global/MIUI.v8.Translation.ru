@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string name="accessibility_nfc_enabled">Nfc включено</string>
+     <string name="app_name">Служба Nfc</string>
+     <string name="beam_canceled">Передача отменена</string>
+     <string name="beam_complete">Передача завершена</string>
+     <string name="beam_failed">Передача не выполнена</string>
+     <string name="beam_handover_not_supported">Устройство получателя не поддерживает передачу больших объемов данных через Android Beam</string>
+     <string name="beam_outgoing">Отправка содержимого…</string>
+     <string name="beam_progress">Входящая передача…</string>
+     <string name="beam_touch_to_view">Нажмите для просмотра</string>
+     <string name="beam_try_again">Снова поднесите устройства друг к другу</string>
+     <string name="cancel">Отмена</string>
+     <string name="complete_with">Завершить с</string>
+     <string name="confirm_pairing">Подключить устройство Bluetooth %s?</string>
+     <string name="connect_headset_failed">Не удалось подключиться</string>
+     <string name="connected_headset">Подключено</string>
+     <string name="connecting_headset">Подключение</string>
+     <string name="could_not_use_app">Невозможно использовать %1$s</string>
+     <string name="default_pay_app_removed">Ваш предпочтительный сервис для нажатия и оплаты был удален. Хотите выберать другой?</string>
+     <string name="disconnected_headset">Отключено</string>
+     <string name="disconnecting_headset">Отключение…</string>
+     <string name="failed_to_enable_bt">Не удалось включить Bluetooth</string>
+     <string name="inbound_me_profile_text">Нажмите, чтобы добавить контакт</string>
+     <string name="inbound_me_profile_title">Контактные данные получены через Nfc</string>
+     <string name="nfcUserLabel">Nfc</string>
+     <string name="outbound_me_profile_text">Нажмите, чтобы передать свои контактные данные</string>
+     <string name="outbound_me_profile_title">Взаимодействие с Nfc завершено</string>
+     <string name="pair_no">Нет</string>
+     <string name="pair_yes">Да</string>
+     <string name="pairing_headset">Подключение…</string>
+     <string name="pairing_headset_failed">Сбой соединения</string>
+     <string name="pay_with">Оплатить с помощью</string>
+     <string name="tap_again_to_complete">Нажмите снова, чтобы завершить %1$s</string>
+     <string name="tap_again_to_pay">Нажмите снова, чтобы оплатить %1$s</string>
+     <string name="touch">Прикоснитесь, чтобы передать</string>
+     <string name="transaction_failure">Эта операция не может быть завершена с %1$s</string>
+</resources>
