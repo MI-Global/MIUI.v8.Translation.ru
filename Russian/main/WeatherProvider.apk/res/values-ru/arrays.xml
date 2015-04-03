@@ -5,20 +5,20 @@
         <item>Облачно</item>
         <item>Пасмурно</item>
         <item>Туман</item>
-        <item>Буря</item>
-        <item>Шторм</item>
-        <item>Сильный ливень</item>
-        <item>Гроза</item>
-        <item>Дождь</item>
         <item>Ливень</item>
+        <item>Сильный дождь</item>
+        <item>Ливень с ураганом</item>
+        <item>Гроза</item>
+        <item>Слабый дождь</item>
+        <item>Сильный дождь</item>
+        <item>Умеренный дождь</item>
         <item>Дождь</item>
-        <item>Небольшой дождь</item>
-        <item>Снег с дождем</item>
+        <item>Мокрый снег</item>
         <item>Метель</item>
         <item>Снег</item>
-        <item>Снегопад</item>
+        <item>Сильный снег</item>
         <item>Легкий снег</item>
-        <item>Небольшой снег</item>
+        <item>Снег с ветром</item>
         <item>Пыльный шторм</item>
         <item>Песчаная буря</item>
         <item>Умеренная пыль</item>
@@ -26,24 +26,24 @@
         <item>Град</item>
         <item>Пыль</item>
         <item>Дымка</item>
-        <item>Морозный дождь</item>
+        <item>Дождь со снегом</item>
         <item>Нет данных</item>
     </string-array>
     <string-array name="weather_indexes_uv_level">
-        <item>Низкий</item>
+        <item>Слабый</item>
+        <item>Маленький</item>
         <item>Средний</item>
-        <item>Умеренный</item>
-        <item>Высокий</item>
-        <item>Опасный</item>
+        <item>Большой</item>
+        <item>Сильный</item>
     </string-array>
     <string-array name="wind_direction">
-        <item>Ветер С</item>
-        <item>Ветер СВ</item>
-        <item>Ветер В</item>
-        <item>Ветер ЮВ</item>
-        <item>Ветер Ю</item>
-        <item>Ветер ЮВ</item>
-        <item>Ветер З</item>
-        <item>Ветер СЗ</item>
+        <item>С ветер</item>
+        <item>СВ ветер</item>
+        <item>В ветер</item>
+        <item>ЮВ ветер</item>
+        <item>Ю ветер</item>
+        <item>ЮЗ ветер</item>
+        <item>З ветер</item>
+        <item>СЗ ветер</item>
     </string-array>
 </resources>
