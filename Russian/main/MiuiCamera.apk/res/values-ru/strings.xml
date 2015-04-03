@@ -13,7 +13,8 @@
     <string name="confirm_restore_title">Сброс настроек</string>
     <string name="confirm_restore_message">Восстановить настройки по умолчанию?</string>
     <string name="confirm_location_title">Сохранять местоположение</string>
-    <string name="confirm_location_message">Сохранять местоположение в сведениях о фото?</string>
+    <string name="confirm_location_message">Пометить ваши фотографии и видео координатами мест, где они получены. Другие приложения могут получать эту информацию при просмотре.</string>
+    <string name="confirm_location_alert">Сохранять местоположение</string>
     <string name="save">ОК</string>
     <string name="no_save">Отмена</string>
     <string name="pref_camera_recordlocation_title">Сохранять местоположение</string>
