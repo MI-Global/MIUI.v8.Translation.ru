@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="privacy_mode_title">Гостевой режим</string>
+    <string name="privacy_mode_summary">Персональные данные будут скрыты от гостя</string>
+    <string name="device_security_settings_title">Конфиденциальность</string>
+
+    <string name="security_settings_title">Конфиденциальность</string>
     <string name="status_bar_settings_enable_notification">Включить уведомления</string>
     <string name="status_bar_settings_show_home_message">Счетчик на иконке</string>
     <string name="status_bar_settings_show_keyguard_notification">Всплывающее окно</string>
@@ -373,7 +378,6 @@
     <string name="show_profile_info_on_lockscreen_label">Отображать информацию профиля на экране блокировки</string>
     <string name="profile_info_settings_title">Информация профиля</string>
     <string name="location_settings_title">Местоположение</string>
-    <string name="security_settings_title">Конфиденциальность</string>
     <string name="security_settings_summary">Настройка функции \"Местоположение\", разблокировка экрана и блокировка хранилища регистрационных данных</string>
     <string name="cdma_security_settings_summary">Настройка функции \"Местоположение\", разблокировка экрана и блокировка хранилища регистрационных данных</string>
     <string name="security_passwords_title">Пароли</string>
