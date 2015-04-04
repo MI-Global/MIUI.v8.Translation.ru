@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="status_bar_settings_enable_notification">Включить уведомления</string>
+    <string name="status_bar_settings_show_home_message">Счетчик на иконке</string>
+    <string name="status_bar_settings_show_keyguard_notification">Всплывающее окно</string>
+    <string name="status_bar_settings_show_keyguard_notification_summary">Показывать уведомления во всплывающем окне и на экране блокировки</string>
+    <string name="status_bar_settings_notification_led">Светодиод</string>
+    <string name="status_bar_settings_notification_sound_vibrate">Звук и вибрация</string>
     <string name="music_audio_effect_optimize">Гарнитура</string>
     <string name="music_audio_effect_optimize_summary">Дополнительные настройки звука и гарнитуры</string>
     <string name="music_audio_effect_optimize_summary_with_hifi">Дополнительные настройки звука, Hi-Fi и гарнитуры.</string>
