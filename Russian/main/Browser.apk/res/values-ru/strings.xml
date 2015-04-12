@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="search_yicha">Видео</string>
+    <string name="search_easou">Фото</string>
+    <string name="search_sogou">Фото</string>
+    <string name="search_taobao">Видео</string>
+    <string name="search_dianping">Яндекс</string>
+    <string name="search_shipin">Видео</string>
+    <string name="search_tupian">Фото</string>
     <string name="miui_search_notification_title">Поиск в браузере</string>
     <string name="miui_search_notification_message">Нажмите, чтобы открыть.</string>
     <string name="miui_quicksearch_enable_pref_title">Быстрый поиск</string>
@@ -379,16 +386,6 @@
     <string name="search_cancel">Отмена</string>
     <string name="search">Поиск</string>
     <string name="clear_search_history">Очистить историю</string>
-    <string name="search_baidu">Baidu</string>
-    <string name="search_sogou">Segou</string>
-    <string name="search_google">Google</string>
-    <string name="search_yahoo">Yahoo</string>
-    <string name="search_bing">Bing</string>
-    <string name="search_taobao">Taobao</string>
-    <string name="search_yicha">Yicha</string>
-    <string name="search_dianping">Яндекс</string>
-    <string name="search_shipin">Видео</string>
-    <string name="search_tupian">Фото</string>
     <string name="MIUI_startpage">Стартовая страница</string>
     <string name="find_on_page">Найти на странице</string>
     <string name="url_copy_done">URL скопирован</string>
@@ -511,7 +508,7 @@
     <string name="error_unauthorized">Синхронизация отключена из-за большого количество попыток входа в аккаунт</string>
     <string name="error_forbidden">Синхронизация отключена из-за проблем с Mi аккаунтом</string>
     <string name="error_not_acceptable">Синхронизация отключена</string>
-    <string name="tab_hotpage">Популярное</string>
+    <string name="tab_hotpage">Яндекс</string>
     <string name="voice_title">Говорите…</string>
     <string name="voice_sub_title">Не знаете что говорить? Попробуйте сказать: Open mi.com!</string>
     <string name="voice_title_please">Говорите…</string>
@@ -596,33 +593,6 @@
     <string name="color_picker_button_yellow">Желтый</string>
     <string name="color_picker_button_black">Черный</string>
     <string name="color_picker_button_white">Белый</string>
-    <string name="miui_content_select">Выбрать</string>
-    <string name="miui_content_select_all">Выбрать все</string>
-    <string name="miui_content_cut">Вырезать</string>
-    <string name="miui_content_copy">Копировать</string>
-    <string name="miui_content_paste">Вставить</string>
-    <string name="miui_content_web_search">Поиск</string>
-    <string name="miui_content_share">Отправить</string>
-    <string name="miuichromium_save_password_message">Запомнить пароль?</string>
-    <string name="miuichromium_save_password_notnow">Не сейчас</string>
-    <string name="miuichromium_save_password_remember">Запомнить</string>
-    <string name="miuichromium_save_password_never">Никогда</string>
-    <string name="webview_js_dialog_before_unload_title">Подтверждение перехода</string>
-    <string name="webview_js_dialog_before_unload_positive_button">Покинуть страницу</string>
-    <string name="webview_js_dialog_before_unload_negative_button">Остаться на странице</string>
-    <string name="webview_js_dialog_before_unload">"%s 
-
-Покинуть эту страницу?"</string>
-    <string name="webview_ok">ОК</string>
-    <string name="webview_cancel">Отмена</string>
-    <string name="webview_js_dialog_title">Страница \"%s\" отвечает:</string>
-    <string name="webview_js_dialog_title_default">JavaScript</string>
-    <string name="webview_no_matches">Нет совпадений</string>
-    <string name="webview_find_on_page">Найти на странице</string>
-    <string name="webview_yesterday">Вчера</string>
-    <string name="webview_today">Сегодня</string>
-    <string name="webview_last_month">В прошлом месяце</string>
-    <string name="webview_older">Ранее</string>
     <string name="date_picker_dialog_other_button_label">Другие</string>
     <string name="copy_to_clipboard_failure_message">Не удалось скопировать в буфер обмена</string>
     <string name="miuichromium_error_page_title">Не удается найти страницу</string>
@@ -632,6 +602,14 @@
     <string name="miuichromium_error_page_reason_server">Невозможно загрузить страницу</string>
     <string name="miuichromium_error_page_reload">Перезагрузить</string>
     <string name="miuichromium_error_page_url">Показать URL страницы</string>
+    <string name="miui_content_select">Выбрать</string>
+    <string name="miui_content_select_all">Выбрать все</string>
+    <string name="miui_content_cut">Вырезать</string>
+    <string name="miui_content_copy">Копировать</string>
+    <string name="miui_content_paste">Вставить</string>
+    <string name="miui_content_web_search">Поиск</string>
+    <string name="miui_content_share">Отправить</string>
+    <string name="webview_find_on_page">Найти на странице</string>
     <string name="dump_counters">Сбросить счетчики V8</string>
     <string name="dump_dom_tree">Дамп DOM в файл</string>
     <string name="dump_render_tree">Дамп дерева рендеринга в файл</string>
@@ -639,6 +617,8 @@
     <string name="common_use_phrase_bottom_bar_paste_analytic_txt">Вставить</string>
     <string name="common_use_phrase_bottom_bar_up_analytic_txt">Развернуть</string>
     <string name="common_use_phrase_bottom_bar_down_analytic_txt">Свернуть</string>
+    <string name="common_use_phrase_bottom_bar_text_next">Далее</string>
+    <string name="common_use_phrase_bottom_bar_text_previous">Назад</string>
     <string name="action_menu_text_bookmark">Добавить закладку</string>
     <string name="action_menu_text_share">Отправить</string>
     <string name="action_menu_text_history">Закладки/История</string>
@@ -698,9 +678,10 @@
     <string name="block_ads_choice_continue">Продолжить</string>
     <string name="block_ads_choice_block">Блокировать</string>
     <string name="empty_history_hint">История пуста</string>
-    <string name="enter_developer_mode">Режим для разработчиков</string>
-    <string name="empty_snapshot_hint">Пусто</string>
-    <string name="action_menu_text_snapshot">Сохранить страницу</string>
+    <string name="suggest_access_item_app_size">%.2f Мб</string>
+    <string name="suggest_access_item_app_update">Обновление: %s</string>
+    <string name="suggest_access_appstore">Mi Маркет</string>
+    <string name="suggest_access_music">Mi Музыка</string>
     <string name="close_ads_title">Предупреждение</string>
     <string name="close_ads_message">"Блокировать эту рекламу автоматически? 
 Заблокированное содержание будет отображаться в дополнительных настройках браузера."</string>
@@ -709,18 +690,16 @@
     <string name="adblock_websites_settings_title">Заблокированное содержание</string>
     <string name="adblock_websites_settings_empyt_hint">Пусто</string>
     <string name="adblock_rules_restore">Восстановить</string>
-    <string name="maximum_input_alert">Максимум 2048 символов</string>
+    <string name="enter_developer_mode">Режим для разработчиков</string>
     <string name="data_traffic_prompt_title">Предупреждение</string>
     <string name="data_traffic_prompt_message">При использовании браузера через мобильный интернет может взиматься дополнительная плата за трафик</string>
     <string name="data_traffic_prompt_change">При воспроизведении видео через мобильный интернет может взиматься дополнительная плата за трафик</string>
+    <string name="maximum_input_alert">Максимум 2048 символов</string>
+    <string name="empty_snapshot_hint">Пусто</string>
+    <string name="action_menu_text_snapshot">Сохранить страницу</string>
     <string name="video_project_title">Внешний экран</string>
     <string name="video_project_msg">Отображение на %s</string>
     <string name="video_project_button">Стоп</string>
-    <string name="clear_history_by_group_alert">Очистить историю %s?</string>
-    <string name="suggest_access_item_app_size">%.2f Мб</string>
-    <string name="suggest_access_item_app_update">Обновление: %s</string>
-    <string name="suggest_access_appstore">Mi Маркет</string>
-    <string name="suggest_access_music">Mi Музыка</string>
     <string name="webapp_app_name">Веб маркет приложений</string>
     <string name="webapp_dialog_title">Добавить приложение на рабочий стол</string>
     <string name="webapp_add_to_desktop">На рабочий стол</string>
@@ -825,10 +804,28 @@
     <string name="accessibility_state_frozen">Сохраненная страница</string>
     <string name="accessibility_transition_navscreen">Менеджер вкладок</string>
     <string name="accessibility_button_bookmarks_folder_up">Предыдущая папка</string>
+    <string name="miuichromium_save_password_message">Запомнить пароль?</string>
+    <string name="miuichromium_save_password_notnow">Не сейчас</string>
+    <string name="miuichromium_save_password_remember">Запомнить</string>
+    <string name="miuichromium_save_password_never">Никогда</string>
+    <string name="webview_js_dialog_before_unload_title">Подтверждение перехода</string>
+    <string name="webview_js_dialog_before_unload_positive_button">Покинуть страницу</string>
+    <string name="webview_js_dialog_before_unload_negative_button">Остаться на странице</string>
+    <string name="webview_js_dialog_before_unload">"%s 
+
+Покинуть эту страницу?"</string>
+    <string name="webview_ok">ОК</string>
+    <string name="webview_cancel">Отмена</string>
+    <string name="webview_js_dialog_title">Страница \"%s\" отвечает:</string>
+    <string name="webview_js_dialog_title_default">JavaScript</string>
+    <string name="webview_no_matches">Нет совпадений</string>
+    <string name="webview_yesterday">Вчера</string>
+    <string name="webview_today">Сегодня</string>
+    <string name="webview_last_month">В прошлом месяце</string>
+    <string name="webview_older">Ранее</string>
+    <string name="clear_history_by_group_alert">Очистить историю %s?</string>
     <string name="bookmark_URL_already_exisit">Сайт уже добавлен в закладки</string>
     <string name="tab_videopage">Видео</string>
-    <string name="common_use_phrase_bottom_bar_text_next">Далее</string>
-    <string name="common_use_phrase_bottom_bar_text_previous">Назад</string>
     <string name="adblock_rules_number_text">Блокировано: %d</string>
     <string name="find_on_page_matches">Совпадений: %d</string>
     <string name="add">Добавить</string>

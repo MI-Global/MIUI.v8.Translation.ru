@@ -6,7 +6,23 @@
         <item>http://www.google.com/favicon.ico</item>
         <item>http://www.google.com/search?hl={language}&amp;ie={inputEncoding}&amp;source=android-browser&amp;q={searchTerms}</item>
         <item>UTF-8</item>
-        <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;language={language}</item>
+        <item>http://suggestqueries.google.com/complete/search?output=toolbar&amp;hl={language}&amp;q={searchTerms}</item>
+    </string-array>
+    <string-array name="tupian">
+        <item>Фото</item>
+        <item>google.com</item>
+        <item>http://image.baidu.com/favicon.ico</item>
+        <item>http://www.google.ru/search?newwindow=1&amp;tbm=isch&amp;q={searchTerms}</item>
+        <item>UTF-8</item>
+        <item>http://suggestqueries.google.com/complete/search?output=toolbar&amp;hl={language}&amp;q={searchTerms}</item>
+    </string-array>
+    <string-array name="shipin">
+        <item>Видео</item>
+        <item>google.com</item>
+        <item>http://youtube.com/favicon.ico</item>
+        <item>http://www.google.ru/search?newwindow=1&amp;tbm=vid&amp;q={searchTerms}</item>
+        <item>UTF-8</item>
+        <item>http://suggestqueries.google.com/complete/search?output=toolbar&amp;hl={language}&amp;q={searchTerms}</item>
     </string-array>
     <string-array name="dianping">
         <item>Яндекс</item>
@@ -16,12 +32,70 @@
         <item>UTF-8</item>
         <item>http://suggest.yandex.net/suggest-ff.cgi?part={searchTerms}</item>
     </string-array>
+    <string-array name="easou">
+        <item>Фото</item>
+        <item>m.yandex.ru</item>
+        <item>http://yandex.ru/favicon.ico</item>
+        <item>http://yandex.ru/images/search?text={searchTerms}</item>
+        <item>UTF-8</item>
+        <item>http://suggest.yandex.net/suggest-ff.cgi?part={searchTerms}</item>
+    </string-array>
+    <string-array name="yicha">
+        <item>Видео</item>
+        <item>yicha.cn</item>
+        <item>http://yandex.ru/favicon.ico</item>
+        <item>http://yandex.ru/video/search?text={searchTerms}</item>
+        <item>UTF-8</item>
+        <item>http://suggest.yandex.net/suggest-ff.cgi?part={searchTerms}</item>
+    </string-array>
+
+
+    <string-array name="bing">
+        <item>Bing</item>
+        <item>bing.com</item>
+        <item>http://www.bing.com/s/wlflag.ico</item>
+        <item>http://www.bing.com/search?q={searchTerms}</item>
+        <item>UTF-8</item>
+        <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;language={language}</item>
+    </string-array>
+    <string-array name="sogou">
+        <item>Фото</item>
+        <item>bing.com</item>
+        <item>http://image.baidu.com/favicon.ico</item>
+        <item>http://www.bing.com/images/search?q={searchTerms}</item>
+        <item>UTF-8</item>
+        <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;language={language}</item>
+    </string-array>
+    <string-array name="taobao">
+        <item>Видео</item>
+        <item>bing.com</item>
+        <item>http://youtube.com/favicon.ico</item>
+        <item>http://www.bing.com/videos/search?q={searchTerms}</item>
+        <item>UTF-8</item>
+        <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;language={language}</item>
+    </string-array>
+
+
+
     <string-array name="search_engines_rCN">
-        <item>baidu</item>
         <item>google</item>
         <item>dianping</item>
         <item>bing</item>
     </string-array>
+    <string-array name="search_bar_search_engines_rCN">
+        <item>google</item>
+        <item>tupian</item>
+        <item>shipin</item>
+        <item>dianping</item>
+        <item>easou</item>
+        <item>yicha</item>
+        <item>bing</item>
+        <item>sogou</item>
+        <item>taobao</item>
+    </string-array>
+
+
+
     <string-array name="search_engines_default">
         <item>google</item>
         <item>dianping</item>
@@ -39,11 +113,6 @@
         <item>" "</item>
         <item>" "</item>
         <item>" "</item>
-    </string-array>
-    <string-array name="dianping_in_list">
-        <item>search_dianping</item>
-        <item>ic_search_engine_dianping</item>
-        <item>dianping</item>
     </string-array>
     <string-array name="pref_content_plugins_choices">
         <item>Да</item>
@@ -123,4 +192,5 @@
         <item>Нормальный</item>
         <item>Мелкий</item>
     </string-array>
+
 </resources>
