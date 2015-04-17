@@ -3,7 +3,8 @@
     <string name="privacy_mode_title">Гостевой режим</string>
     <string name="privacy_mode_summary">Персональные данные будут скрыты от гостя</string>
     <string name="device_security_settings_title">Конфиденциальность</string>
-
+    <string name="location_access_on">Вкл</string>
+    <string name="location_access_off">Выкл</string>
     <string name="security_settings_title">Конфиденциальность</string>
     <string name="status_bar_settings_enable_notification">Включить уведомления</string>
     <string name="status_bar_settings_show_home_message">Счетчик на иконке</string>
