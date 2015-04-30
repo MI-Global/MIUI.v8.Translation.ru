@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="save_password_message">Запомнить этот пароль?</string>
+    <string name="save_password_notnow">Не сейчас</string>
+    <string name="save_password_remember">Запомнить</string>
+    <string name="save_password_never">Никогда</string>
     <string name="search_yicha">Видео</string>
     <string name="search_easou">Фото</string>
     <string name="search_sogou">Фото</string>
