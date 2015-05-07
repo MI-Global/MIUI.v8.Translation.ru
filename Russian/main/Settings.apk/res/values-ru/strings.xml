@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="status_bar_app_disable_notification">Уведомления отключены</string>
+    <string name="status_bar_app_enable_on_notificationBar">Статусбар</string>
+    <string name="status_bar_app_enable_on_keyguard_and_notificationBar">Локскрин, статусбар</string>
     <string name="privacy_mode_title">Гостевой режим</string>
     <string name="privacy_mode_summary">Персональные данные будут скрыты от гостя</string>
     <string name="device_security_settings_title">Конфиденциальность</string>
