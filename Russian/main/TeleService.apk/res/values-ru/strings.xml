@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="flash_when_ring_summary">Мигать вспышкой при входящем звонке</string>
+    <string name="flash_when_ring_title">Мигать вспышкой</string>
     <string name="mo_code_unconditional_cf_active">Безусловная активация\nпереадресации вызова</string>
     <string name="mo_code_some_cf_active">Условная\nпереадресация вызова</string>
     <string name="mo_code_call_forwarded">Вызов переадресован</string>
