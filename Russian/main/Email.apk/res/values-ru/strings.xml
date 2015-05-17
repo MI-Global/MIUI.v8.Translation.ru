@@ -52,6 +52,7 @@
     <string name="account_settings_login_dialog_reason_fmt" formatted="false">Ошибка авторизации в %s. Ответ сервера: %s. Обновить логин и пароль?</string>
     <string name="account_settings_login_dialog_title">Не удалось войти в аккаунт</string>
     <string name="account_settings_mail_check_frequency_label">Частота проверки сообщений</string>
+    <string name="account_settings_mibill_resolve_label">Анализ счетов в сообщениях</string>
     <string name="account_settings_name_label">Имя</string>
     <string name="account_settings_notifications">Уведомления</string>
     <string name="account_settings_notify_label">Уведомления о почте</string>
@@ -73,6 +74,7 @@
     <string name="account_settings_sync_email_summary">Синхронизировать почту этого аккаунта</string>
     <string name="account_settings_unsupported_label">Недопустимая политика</string>
     <string name="account_settings_unsupported_summary">Пусто</string>
+    <string name="account_settings_using_ringtone">Мелодия</string>
     <string name="account_settings_vibrate_when_label">Вибрация</string>
     <string name="account_setup_account_type_headline">Тип аккаунта</string>
     <string name="account_setup_account_type_instructions">Выберите тип аккаунта</string>
