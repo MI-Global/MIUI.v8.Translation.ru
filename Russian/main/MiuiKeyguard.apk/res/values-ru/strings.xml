@@ -34,7 +34,7 @@ EEEE"</string>
     <string name="phone_locked_timeout_seconds_string">Повторите попытку через %s сек.</string>
     <string name="phone_locked_timeout_minutes_string">Повторите попытку через %s мин.</string>
     <string name="input_password_hint_text">Введите пароль</string>
-    <string name="unlock_sim_string">Введите PIN</string>
+    <string name="unlock_sim_string">Разблок. SIM</string>
     <string name="lockscreen_glogin_submit_button">Вход</string>
     <string name="lockscreen_access_pattern_start">Начало ключа</string>
     <string name="lockscreen_access_pattern_cleared">Ключ очищен</string>
