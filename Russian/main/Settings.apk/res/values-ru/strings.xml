@@ -3010,4 +3010,6 @@
     <string name="move_app_to_sdcard_dlg_title">Переместить приложение на SD карту?</string>
     <string name="tnhwrevision_settings_list_item_summary">Описание HW устройства</string>
     <string name="tnhwrevision_settings_list_item_title">Информация HW устройства</string>
+    <string name="eng_mode">Инженерное меню</string>
+    <string name="eng_mode_summary">Вход в Инженерное меню</string>
 </resources>
