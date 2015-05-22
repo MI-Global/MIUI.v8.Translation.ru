@@ -3012,4 +3012,5 @@
     <string name="tnhwrevision_settings_list_item_title">Информация HW устройства</string>
     <string name="eng_mode">Инженерное меню</string>
     <string name="eng_mode_summary">Вход в Инженерное меню</string>
+    <string name="performance_category">Производительность</string>
 </resources>
