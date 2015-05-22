@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="fluency_mode_confirm_will_normal_mode_text">Включение анмиации и большее использование памяти может привести к снижению производительности на некоторых устройствах.</string>
+    <string name="fluency_mode_confirm_title">Перезагрузить?</string>
+    <string name="fluency_mode_confirm_will_fluency_mode_text">Перезагрузить сейчас для применения изменений?</string>
+    <string name="search_fluency_mode">Повысить производительность</string>
+    <string name="fluency_mode">Повысить производительность</string>
+    <string name="fluency_mode_enabled_name">Повысить производительность</string>
+    <string name="fluency_mode_summary">Отключить анимацию и освободить память</string>
     <string name="status_bar_app_disable_notification">Уведомления отключены</string>
     <string name="status_bar_app_enable_on_notificationBar">Статусбар</string>
     <string name="status_bar_app_enable_on_keyguard_and_notificationBar">Локскрин, статусбар</string>
