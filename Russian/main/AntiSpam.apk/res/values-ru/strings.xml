@@ -302,4 +302,9 @@
     <string name="SMS_MODENAME">Черный список</string>
     <string name="fw_blocked_count_call">"вызовов: %d | "</string>
     <string name="fw_blocked_count_sms">SMS: %d</string>
-</resources>
+    <string name="antispam_notification_setting_title">Уведомления о блокировке</string>
+    <string name="antispam_notificaiton_type_show_all">Всех номеров</string>
+    <string name="antispam_notificaiton_type_show_except_blacklist">Всех, кроме черного списка</string>
+    <string name="antispam_notificaiton_type_show_none">Не уведомлять</string>
+</resources
+>

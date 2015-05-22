@@ -258,4 +258,22 @@
     <string name="wifi_sync">Синхронизация по Wi-Fi</string>
     <string name="finish">Завершено</string>
     <string name="micloud">Mi Cloud</string>
+
+    <string name="micloud_storage">Хранилище</string>
+    <string name="micloud_member">Mi Cloud аккаунт</string>
+    <string name="micloud_buy_member">Премиум опции</string>
+    <string name="micloud_member_advantage">Купить место</string>
+    <string name="micloud_main_title_sync_fail">Ошибка синхронизации</string>
+    <string name="micloud_main_title_sync_on_wifi">Синхронизация по Wi-Fi</string>
+    <string name="micloud_main_title_sync_off">Не синхронизировать</string>
+    <string name="micloud_sync_alert_dialog_title">Использовать Mi Cloud</string>
+    <string name="micloud_sync_alert_dialog_message">Снхронизировать фото, контакты, заметки, и другое на всех ваших устройствах.</string>
+    <string name="micloud_sync_alert_dialog_negative">Отмена</string>
+    <string name="micloud_sync_alert_dialog_positive">OK</string>
+    <string name="cloud_back_up_title">Сохранять компоновку рабочего стола</string>
+    <string name="cloud_back_up_open_info">"Сохранять компоновку рабочего стола при подключении Wi-Fi каждые %1$s
+Последний бэкап: %2$s"</string>
+    <string name="micloud_setting_deskclock_summary">Часы и будильник</string>
+    <string name="micloud_setting_antispam_summary">Исключения бесшумного режима и номера черного списка.</string>
+
 </resources>

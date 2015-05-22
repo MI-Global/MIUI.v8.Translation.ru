@@ -3020,4 +3020,9 @@
     <string name="eng_mode">Инженерное меню</string>
     <string name="eng_mode_summary">Вход в Инженерное меню</string>
     <string name="performance_category">Производительность</string>
+    <string name="install_no_market_app_title">Неизвестные источники</string>
+    <string name="install_no_market_app_summary">Разрешить установку приложений не из маркета</string>
+    <string name="lock_screen_secure_after_timeout_title">Задержка блокировки</string>
+    <string name="lock_screen_secure_after_timeout_summary">Блокировка паролем через %1$s</string>
+    <string name="lock_screen_secure_after_timeout_immediately_summary">Блокировка паролем без задержки</string>
 </resources>
