@@ -652,4 +652,16 @@
         <item>Баланс</item>
         <item>Качество</item>
     </string-array>
+    <string-array name="fluency_mode_entries">
+        <item>Отключение системной анимации</item>
+        <item>Включение системной анимации</item>
+    </string-array>
+    <string-array name="fluency_mode_summaries">
+        <item>"Отключение системной анимации для ускорения производительности устройства"</item>
+        <item>"Вкючение системной анимации может сизить производитеьность устройства"</item>
+    </string-array>
+    <string-array name="fluency_mode_confirms">
+        <item>Перезагрузить устройство, чтобы задействовать эти параметры?</item>
+        <item>Перезагрузить устройство, чтобы задействовать эти параметры?</item>
+    </string-array>
 </resources>
