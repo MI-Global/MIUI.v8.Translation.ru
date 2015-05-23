@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="skip_lock_screen_confirm_msg">Виджеты, уведомления, камера, телефон будут отключены на экране блокировки</string>
+    <string name="fluency_mode_confirm_and_reboot">Перезагрузить</string>
     <string name="fluency_mode_confirm_will_normal_mode_text">Включение анмиации и большее использование памяти может привести к снижению производительности на некоторых устройствах.</string>
     <string name="fluency_mode_confirm_title">Перезагрузить?</string>
     <string name="fluency_mode_confirm_will_fluency_mode_text">Перезагрузить сейчас для применения изменений?</string>
