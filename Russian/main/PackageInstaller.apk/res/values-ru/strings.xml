@@ -110,7 +110,9 @@
     <string name="installer_name">Источник: %1$s</string>
     <string name="main_title">Установить приложение</string>
     <string name="permission_warn_hint">Разрешения приложения:</string>
-    <string name="permission_warn_title">Приложение загружено из неизвестного истончика</string>
+    <string name="permission_warn_title">Приложение загружено из неизвестного источника</string>
+    <string name="lift_ban_once">Установить</string>
+    <string name="dlg_appstore_notice">Загрузите приложение из &lt;u>&lt;font color=#91c727>Google Play&lt;/font>&lt;/u></string>
     <string name="progress_verifying">Проверка…</string>
     <string name="update_log_default">Нет списка изменений</string>
     <string name="update_time">%4$s дата выпуска: %2$s/%3$s/%1$s.</string>
