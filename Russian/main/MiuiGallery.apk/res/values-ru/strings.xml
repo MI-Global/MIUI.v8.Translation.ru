@@ -462,7 +462,7 @@
     <string name="unpublishing">Закрытие доступа…</string>
     <string name="operation_too_often">Выполняется слишком много действий, попробуйте позже.</string>
     <string name="cannot_remove_creator">Невозможно удалить отправителя</string>
-    <string name="exit">ОК</string>
+    <string name="exit">Выход</string>
     <string name="album_share_exit_confirm">Выйти из альбома?</string>
     <string name="get_album_info_in_process">Загрузка информации облачного альбома…</string>
     <string name="album_share_stat_content">Приглашения</string>
