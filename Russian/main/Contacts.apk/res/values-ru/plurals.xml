@@ -90,7 +90,7 @@
         <item quantity="one">Выбрано: %1$d</item>
     </plurals>
     <plurals name="callNoAnswerTimeFormat">
-        <item quantity="other">гудков %d</item>
-        <item quantity="one">гудок %d</item>
+        <item quantity="other">Звонков %d</item>
+        <item quantity="one">Звонков %d</item>
     </plurals>
 </resources>
