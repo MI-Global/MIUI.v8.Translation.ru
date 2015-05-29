@@ -20,12 +20,12 @@
     <string name="main_alert_message_no_mobile_package">Трафик не настроен</string>
     <string name="main_alert_message_no_imsi">Нет SIM карты</string>
     <string name="main_alert_message_slot_no_data_connection">Слот SIM карты не поддерживает доступ в интернет</string>
-    <string name="main_primary_message_traffic_enough">Трафик заканчивается</string>
+    <string name="main_primary_message_traffic_enough">Трафик в норме</string>
     <string name="main_primary_message_traffic_warning">Предупреждение</string>
     <string name="main_primary_message_traffic_overlimit">Предел трафика превышен</string>
     <string name="main_primary_message_traffic_overlimit_purchase">Необходимо пополнить трафик</string>
     <string name="main_primary_message_traffic_purchase">Необходимо пополнить трафик</string>
-    <string name="main_primary_message_traffic_cur_normal">Трафик заканчивается</string>
+    <string name="main_primary_message_traffic_cur_normal">Трафик в норме</string>
     <string name="main_primary_message_traffic_cur_normal_warning">Предупреждение</string>
     <string name="main_primary_message_traffic_cur_normal_overlimit">Предел трафика превышен</string>
     <string name="main_primary_message_traffic_cur_leisure">Дополнительный трафик</string>
@@ -38,6 +38,7 @@
     <string name="main_secondary_message_traffic_detail_leisure">"
 Дополнительный трафик: %1$s осталось | %2$s использовано"</string>
     <string name="main_secondary_message_traffic_used_noleisure">%s превышение | дополнительный трафик недоступен</string>
+    <string name="main_alert_message_month_limit_error">Введен неверный предел трафика</string>
     <string name="firewall_activity_lable">Ограничение трафика приложений</string>
     <string name="firewall_applist">Приложения</string>
     <string name="firewall_rule_group_title_mobile">2G/3G</string>
@@ -47,12 +48,15 @@
     <string name="firewall_fragment_sys_listempty">Пусто</string>
     <string name="firewall_fragment_nonesys_listempty">Пусто</string>
     <string name="firewall_service_network_blocked">%1$s: запрет сети %2$s</string>
+    <string name="firewall_network_restrict_notify_title">\"%1$s\" запрещено использовать %2$s</string>
+    <string name="firewall_network_restrict_notify_message">Нажмите для изменения настроек</string>
     <string name="usage_sorted_activity_lable">Трафик</string>
     <string name="usage_sorted_loading_text">Загрузка…</string>
     <string name="usage_sorted_empty_text">Пусто</string>
     <string name="person_hotpot">Мобильные точки доступа</string>
     <string name="system_app">Системные приложения</string>
     <string name="deleted_apps">Удаленные приложения</string>
+    <string name="root">Система</string>
     <string name="sorted_button">Сортировка</string>
     <string name="app_detail">Информация</string>
     <string name="app_version">Версия</string>
@@ -185,8 +189,18 @@
     <string name="data_usage_no_total_package_body_dual">Установить предел трафика для %s?</string>
     <string name="network_assistant_upgraded_title">Предел трафика не установлен</string>
     <string name="network_assistant_upgraded_body">Нажмите для настройки</string>
-    <string name="lock_screen_traffic_warn_title">Предупреждение о трафике</string>
-    <string name="lock_screen_traffic_notify_body">Трафик при выключенном экране: %s</string>
+    <string name="lock_screen_traffic_warn_title">Трафик в спящем режиме</string>
+    <string name="lock_screen_traffic_notify_body">Использовано: %3$s | %2$s | %1$s</string>
+    <string name="lock_screen_setting_summary">Показывать уведомление, если использовано более 100 Кб в заблокированном режиме.</string>
+    <string name="timeshow_h_m">%1$d ч. %2$d мин.</string>
+    <string name="timeshow_m_s">%1$d мин. %2$d сек.</string>
+    <string name="timeshow_s">%d сек.</string>
+    <string name="timeshow_m">%d мин.</string>
+    <string name="timeshow_h">%.1f ч.</string>
+    <string name="timeshow_h_int">%d ч.</string>
+    <string name="lock_screen_traffic_guide_notification_title">Использовано трафика: %s</string>
+    <string name="lock_screen_traffic_guide_notification_summary">Использованный трафик при выключенном экране</string>
+    <string name="lock_screen_traffic_purchase_textview">Купить трафик</string>
     <string name="free_time_traffic_title">Введите предел трафика</string>
     <string name="free_time_traffic_hint">Введите предел трафика</string>
     <string name="traffic_protection_label">Предупреждение о трафике</string>
@@ -201,6 +215,7 @@
     <string name="traffic_correction_start_correction_failed">Ошибка запроса. Проверьте настройки оператора.</string>
     <string name="traffic_correction_success">Трафик обновлен</string>
     <string name="traffic_correction_failed">Не удается получить информацию о трафике</string>
+    <string name="traffic_correction_success_notify_message">Нажмите для просмотра информации</string>
     <string name="traffic_config_alert_title">Разница: %s</string>
     <string name="traffic_config_alert_ok">ОК</string>
     <string name="traffic_config_alert_cancel">Отмена</string>
@@ -216,6 +231,10 @@
     <string name="traffic_config_alert_body_extra_notset">"
 Вы приобрели %s дополнительного трафика в этом месяце. Это не влияет на месячный трафик, который вы ввели вручную."</string>
     <string name="traffic_config_alert_setted">Ввести трафик</string>
+    <string name="traffic_limit_error_alert_title">Напоминание о трафике %s</string>
+    <string name="traffic_limit_error_alert_iknow">ОК</string>
+    <string name="traffic_limit_error_alert_reset">Сбросить трафик</string>
+    <string name="traffic_limit_error_alert_body">Данные вашего оператора указывают, что в этом месяце превышено %1$s. Это больше, чем вы установили предел трафика вручную %2$s.</string>
     <string name="dual_setting_simcard1">SIM 1</string>
     <string name="dual_setting_simcard2">SIM 2</string>
     <string name="datausage_purchase_title_pkglist">Купить трафик</string>
@@ -341,14 +360,13 @@
     <string name="privacy_prompt_traffic_adjust_message">Ваш номер телефона и информация об операторе будут загружены на сервер Xiaomi, чтобы обновить шаблон запроса SMS и проверить доступность этой возможности в вашем регионе.</string>
     <string name="privacy_prompt_traffic_purchase_message">Ваш номер телефона и информация об операторе будут загружены на сервер Xiaomi, чтобы получить информацию о способах оплаты.</string>
     <string name="privacy_prompt_tc_sms_report_message">Ваш номер телефона и информация об операторе будут загружены на сервер Xiaomi, чтобы получить информацию о трафике.</string>
-    <string name="privacy_prompt_purchase_history_message">Ваш номер телефона и информация об операторе будут загружены на сервер Xiaomi, чтобы получить историю платежей.</string>
     <string name="title_limit_traffic_per_day">Ежедневный трафик</string>
     <string name="pref_title_traffic_limit_number">Предел трафика</string>
     <string name="pref_title_over_traffic_limit_warning">Действие</string>
-    <string name="reach_daily_limit_value_title">Предел трафика превышен</string>
-    <string name="reach_daily_limit_value_body">Ограничьте использование мобильного интернета</string>
+    <string name="reach_daily_limit_value_title">Предупреждение о трафике</string>
+    <string name="reach_daily_limit_value_body">Превышен предел дневного трафика</string>
     <string name="daily_limit_network_available_body">Нажмите для просмотра трафика</string>
-    <string name="daily_limit_over_message">Превышен дневной предел трафика</string>
+    <string name="daily_limit_over_message">Превышен предел дневного трафика</string>
     <string name="three_percent_total_pkg">%s (3%% от ежемесячного трафика)</string>
     <string name="five_percent_total_pkg">%s (5%% от ежемесячного трафика)</string>
     <string name="ten_percent_total_pkg">%s (10%% от ежемесячного трафика)</string>
@@ -373,6 +391,19 @@
     <string name="roaming_start_body">Разрешить приложениям из списка исключений подключаться к интернету в международном роуминге</string>
     <string name="dialog_app_roaming_title">Международный роуминг не включен для %1$s</string>
     <string name="dialog_app_roaming_message">Когда вы находитесь в международном роуминге, доступ к интернету будут иметь приложения только из списка исключений. Приложение \"%1$s\" не добавлено в список исключений. Открыть список исключений?</string>
+    <string name="add_miservice_dialog_title">MIUI service framework</string>
+    <string name="add_miservice_dialog_content">%s пытается добавить MIUI service framework в список исключений. Вы сможете получать уведомления от системных и сторонних приложений.</string>
+    <string name="pref_roaming_daily_limit_setting">Дневной трафик в роуминге</string>
+    <string name="dialog_roaming_apps_sorted_title">Сортировка</string>
+    <string name="hints_install_apps_new">Не запускалось</string>
+    <string name="hints_install_apps_today">Запускалось сегодня</string>
+    <string name="mian_page_primary_txt">Международный роуминг</string>
+    <string name="hints_input_roaming_daily_limit">Введите предел трафика</string>
+    <string name="roaming_limit_notification_title">Достигнут дневной трафик в роуминге</string>
+    <string name="roaming_limit_warning_notification_body">Нажмите для просмотра</string>
+    <string name="roaming_limit_network_notification_body">Нажмите для просмотра сетей</string>
+    <string name="roaming_limit_dialog_message">Достигнут дневной предел трафика</string>
+    <string name="search_input_txt">"&lt;font color='#ff0000'>%s&lt;/font>"</string>
     <string name="traffic_setting_completed">ОК</string>
     <string name="traffic_setting_extra_pkg_title">Дополнительно</string>
     <string name="traffic_setting_extra_pkg_summary">Настройки тарифного плана и трафика</string>
@@ -382,17 +413,104 @@
     <string name="traffic_setting_step_num">Настройки тарифа</string>
     <string name="traffic_setting_open">Включено</string>
     <string name="traffic_setting_app_count">Приложений: %d</string>
-    <string name="traffic_warning_purchase_title">Уведомлять, если баланс меньше %d%%</string>
+    <string name="traffic_setting_update_template_falure">Не удается подключиться к интернету</string>
+    <string name="traffic_warning_purchase_title">Трафик в спящем режиме</string>
     <string name="traffic_purchase_body">Рекомендуется пополнить счет</string>
     <string name="traffic_purchse_suggestion">Время пополнить счет</string>
     <string name="traffic_over_purchase_title">Трафик превышен</string>
     <string name="traffic_over_purchase_body">Нажмите для просмотра</string>
     <string name="traffic_over_purchase_link">"Достигнут предел трафика.&lt;br/>За дальнейшее использование мобильного интернета может взиматься дополнительная плата оператором.&lt;br/>&lt;br/>&lt;font color='#0000ff'>&lt;U>Рекомендуется пополнить трафик.&lt;/U>&lt;/font>"</string>
+    <string name="repair_loading_text">Загрузка…</string>
+    <string name="network_diagnostics">Диагностика интернета</string>
+    <string name="btn_start_diagnostic">Начать</string>
+    <string name="btn_stop_diagnostic">Остановить</string>
+    <string name="btn_finish_diagnostic">ОК</string>
+    <string name="main_toolbar_internet_by_pc_brige">Подключение интернета по USB</string>
+    <string name="main_toolbar_internet_by_wifi">Подключение по сети Wi-Fi</string>
+    <string name="main_toolbar_internet_by_mobiledata">Подключение мобильного интернета</string>
+    <string name="connect_internet_by_usbshare">Подключение интернета по USB</string>
+    <string name="connect_internet_by_mobiledata">Подключение мобильного интернета</string>
+    <string name="connect_internet_by_wifi">Подключение по сети Wi-Fi</string>
+    <string name="unable_connect_internet">Не удается подключиться к интернету</string>
+    <string name="enable_network">Включите мобильный интернет</string>
+    <string name="disable_air_mode">Выключите режим полета</string>
+    <string name="repair">Исправить</string>
+    <string name="check_network_state">Проверьте параметры интернета</string>
+    <string name="current_network_state_not_need_diagnose">Диагностика не требуется</string>
+    <string name="apn_exception_title">Настройки APN</string>
+    <string name="apn_exception_summary">Получить информацию о точке доступа от оператора</string>
+    <string name="dns_exception_title">Тест DNS</string>
+    <string name="dns_exception_summary">Настройки DNS у роутера недоступны</string>
+    <string name="wifi_exception_title">Тест Wi-Fi</string>
+    <string name="wifi_exception_summary">Тест доступной сети Wi-Fi</string>
+    <string name="signal_exception_title">Сигнал интернета</string>
+    <string name="signal_exception_summary">Не удается подключиться к интернету в этом регионе</string>
+    <string name="usbsharenet_exception_title">Тест интернета по USB</string>
+    <string name="usbsharenet_exception_summary">Не удается протестировать интернет, который передается от Mi PC Suite.</string>
+    <string name="usbsharenet_pc_exception_summary">Не удается подключиться к публичной сети</string>
+    <string name="gateway_exception_title">Тест роутера</string>
+    <string name="gateway_exception_summary">Проверьте ваш роутер и повторите попытку</string>
+    <string name="other_exception_title">Обнаружение других проблем</string>
+    <string name="other_exception_summary">Интернет недоступен</string>
+    <string name="see_detail">Информация</string>
+    <string name="choose">Выбор</string>
+    <string name="pay_charge">Пополнить</string>
+    <string name="replace_dns">Автоматическая замена</string>
+    <string name="load_fail">Не удается загрузить</string>
+    <string name="notify_setting_pkg_title">Установить ежемесячный трафик</string>
+    <string name="notify_setting_pkg_title_for_slotnum">Установить месячный предел для %s</string>
+    <string name="notify_weekly_pkg_body">На этой неделе: %s. Нажмите для изменения.</string>
+    <string name="notify_daily_data_usage_body">Сегодня: %s. Нажмите для изменения.</string>
+    <string name="notify_month_traffic_body">В этом месяце: %s. Нажмите для изменения.</string>
+    <string name="notify_daily_limit_title">Установить ежедневный трафик</string>
+    <string name="notify_daily_limit_title_for_slotnum">Установить дневной предел для %s</string>
+    <string name="notify_daily_limit_body">На этой неделе: %s. Нажмите для изменения.</string>
+    <string name="network_blocked_notification_summary">Нажмите для просмотра информации</string>
+    <string name="network_blocked_switch_wifi">Переключить сеть</string>
+    <string name="wifi_network_blocked_notification_title">Интернет недоступен</string>
+    <string name="data_network_blocked_notification_title">Интернет недоступен</string>
+    <string name="sim_state_exception_summary">SIM статус означает о наличии возможных пробем с SIM картой</string>
+    <string name="network_operator_exception_summary">Не удается активировать SIM карту. Убедитесь, что SIM карта установлена корректно, и на ней активирован тарифный план.</string>
+    <string name="network_blocked_connected_open_wifi">Подключено к публичной сети</string>
+    <string name="captive_portal_exception_title">Подключиться к публичной сети</string>
+    <string name="protocol_exception_title">Диагностика сетевых протоколов</string>
+    <string name="protocol_loop_back_exception_summary">Ошибка теста протоколов сети. Вы можете отправить отчет об ошибке через соответствующее приложение.</string>
+    <string name="ip_address_exception_summary">Не удается получить IP адрес. Если проблема повторится, попробуйте использовать статический IP адрес.</string>
+    <string name="local_ip_exception_summary">Не удается получить локальный IP адрес. Вы можете отправить отчет об ошибке через соответствующее приложение.</string>
+    <string name="renew_ip">Повтор</string>
+    <string name="network_permission_exception_tips">Не удается использовать мобильный интернет</string>
+    <string name="open_now">Разрешить приложению использовать мобильный интернет</string>
+    <string name="network_roaming_exception_tips">Не удается использовать мобильный интернет в роуминге</string>
+    <string name="network_mobile_exception_detail">"Возможные проблемы подключения к интернету:
+
+ 1. Убедитесь, что предел трафика не превышен.
+ 2. Если вы пополнили баланс, попробуйте перезагрузить устройство.
+ 3. Убедитесь, что в вашем текущем местоположении нормальный сигнал сети."</string>
+    <string name="network_sim_exception_detail">"Возможные проблемы SIM карты:
+
+ 1. Убедитесь, что ваша SIM карта обслуживается оператором. Попробуйте использовать другую и проверить подключение к сети.
+ 2. Если вы используете две SIM карты, попробуйте переключиться на другую и проверить подключение к сети.
+ 3. Убедитесь, что ваша SIM карта и слот и не повреждены, и SIM карта правильно вставлена в слот."</string>
+    <string name="network_route_exception_detail">"Возможные проблемы с маршрутизатором:
+
+
+"<b>1. Проблемы публичной сети Wi-Fi</b>"
+Если вы подключены к публичной сети Wi-Fi, скорость может зависеть от количества подключенных пользователей. Попробуйте подключиться к другой сети и повторить попытку.
+"<b>2. Проблемы сети оператора</b>"
+Убедитесь, что ваш тарифный план поддерживает подключение к интернету.
+"<b>3. Проблемы ПО маршрутизатора</b>"
+Попробуйте перезагрузить маршрутизатор или проверить права администратора.
+"<b>4. Другие проблемы маршрутизатора</b>"
+Изучите инструкцию маршрутизатора и попробуйте сбросить его настройки к заводским.
+"<b>5. Убедитесь, что ваш маршрутизатор подключен правильно</b>"
+Попробуйте использовать другой кабель Ethernet для подключения маршрутизатора или обратитесь к интернет провайдеру."</string>
     <string name="notification_content_title">Использовано трафика в режиме сна: %1$s</string>
     <string name="notification_title">%1$s-%2$s: %3$s использовано</string>
     <string name="pkg_total_traffic">Всего: %s</string>
     <string name="remained_traffic">Осталось: %s</string>
     <string name="today_used_traffic">Сегодня: %s</string>
     <string name="total_over_flow">Превышение: %s</string>
-    <string name="pref_roaming_daily_limit_setting">Ежедневный лимит трафика для роуминга</string>
+    <string name="privacy_prompt_purchase_history_message">Ваш номер телефона и информация об операторе будут загружены на сервер Xiaomi, чтобы получить историю платежей.</string>
+    <string name="arrearage_exception_summary">Необходимо пополнить баланс</string>
+    <string name="arrearage_exception_title">Баланс</string>
 </resources>

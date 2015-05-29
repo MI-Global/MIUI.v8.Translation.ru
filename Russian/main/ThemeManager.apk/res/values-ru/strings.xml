@@ -107,6 +107,7 @@
     <string name="resource_title_select_ringtone">Выберите мелодию</string>
     <string name="resource_tip_select_none">Не выбрано</string>
     <string name="resource_select_ringtone_confirm">Выбрать эту мелодию?</string>
+    <string name="resource_select_ringtone_confirm_picker">Выбрать эту мелодию?</string>
     <string name="loading_resource_detail_info">Загрузка…</string>
     <string name="loading_resource_detail_fail">Не удалось загрузить ресурс</string>
     <string name="resource_expand_full_text">Развернуть</string>
