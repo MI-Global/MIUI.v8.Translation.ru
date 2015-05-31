@@ -1408,7 +1408,7 @@
   <string name="volume_call">Громкость при разговоре</string>
   <string name="volume_icon_description_bluetooth">Bluetooth</string>
   <string name="volume_icon_description_incall">Вызов</string>
-  <string name="volume_icon_description_media">Мультимедиа</string>
+  <string name="volume_icon_description_media">Медиа</string>
   <string name="volume_icon_description_notification">Уведомление</string>
   <string name="volume_icon_description_ringer">Звонок</string>
   <string name="volume_music">Громкость мультимедиа</string>
