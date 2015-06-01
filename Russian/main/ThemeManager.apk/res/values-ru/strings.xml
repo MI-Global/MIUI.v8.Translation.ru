@@ -293,6 +293,8 @@
     <string name="theme_user_agreement_remind_never">Запомнить</string>
     <string name="theme_user_agreement_remind_again">Запрашивать доступ к интернету</string>
     <string name="theme_user_agreement_remind_summary">Запрос доступа к интернету при каждом запуске приложения</string>
+    <string name="theme_is_external_priority_storage">Сохранять на SD-карту</string>
+    <string name="theme_is_external_priority_storage_summary">Приложение будет перезагружено для применения настроек</string>
     <string name="theme_favorite_add_success">Тема добавлена в избранные</string>
     <string name="theme_favorite_add_fail">Не удается добавить в избранные</string>
     <string name="theme_favorite_delete_success">Тема удалена из избранных</string>
