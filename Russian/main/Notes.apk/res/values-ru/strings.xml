@@ -25,6 +25,7 @@
     <string name="menu_move">Переместить</string>
     <string name="menu_stick">Закрепить</string>
     <string name="menu_unstick">Открепить</string>
+    <string name="menu_folders">Папки</string>
     <string name="folder_exist">Папка с таким названием уже существует</string>
     <string name="menu_send_to_desktop">Виджет на рабочий стол</string>
     <string name="menu_title_select_folder">Выберите папку</string>
