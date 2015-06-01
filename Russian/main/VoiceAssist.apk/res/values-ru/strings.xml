@@ -435,4 +435,5 @@
     <string name="wifi_setting">Настройки Wi-Fi</string>
     <string name="yellow_page">Желтые страницы</string>
     <string name="you_can_say_so">Вы можете сказать, что это:</string>
+    <string name="confirm_and_continue">продолжить</string>
 </resources>
