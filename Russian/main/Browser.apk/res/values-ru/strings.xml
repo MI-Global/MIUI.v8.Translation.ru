@@ -512,7 +512,7 @@
     <string name="error_unauthorized">Синхронизация отключена из-за большого количество попыток входа в аккаунт</string>
     <string name="error_forbidden">Синхронизация отключена из-за проблем с Mi аккаунтом</string>
     <string name="error_not_acceptable">Синхронизация отключена</string>
-    <string name="tab_hotpage">Яндекс</string>
+    <string name="tab_hotpage">Популярное</string>
     <string name="voice_title">Говорите…</string>
     <string name="voice_sub_title">Не знаете что говорить? Попробуйте сказать: Open mi.com!</string>
     <string name="voice_title_please">Говорите…</string>
