@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="msensor_toast_text">Калибровка компаса. Проведите телефоном в воздухе, изображая цифру 8</string>
     <string name="keyguard_pinword_enter_pinword_code">Введите PIN код для разблокировки</string>
     <string name="badPin2">Введенный PIN2 неправильный</string>
     <string name="badPuk2">Введенный PUK2 неправильный</string>

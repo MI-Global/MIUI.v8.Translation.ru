@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="preference_tip_rename">Указывать имя вручную</string>
     <string name="app_name">Диктофон</string>
     <string name="recording">Запись…</string>
     <string name="recording_stopped">Запись остановлена</string>

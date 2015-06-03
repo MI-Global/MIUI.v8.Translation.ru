@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="upload_log">Отправить журнал отладки</string>
+    <string name="upload_log_failed">Ошибка отправки</string>
+    <string name="upload_log_success">Отправлено</string>
+    <string name="upload_log_title">Отправить журнал отладки?</string>
+    <string name="uploading_logs">Отправка журнала отладки</string>
     <string name="Folders">Папки</string>
     <string name="abc_action_bar_home_description">Домой</string>
     <string name="abc_action_bar_up_description">Вверх</string>
@@ -371,6 +376,8 @@
     <string name="donot_disturb_starttime_title">Начало</string>
     <string name="donot_disturb_summary">В назначенное время уведомления о почте будут отключены</string>
     <string name="donot_disturb_title">Не беспокоить</string>
+    <string name="save_power_summary">В назначенное время уведомления о почте будут отключены</string>
+    <string name="save_power_title">Не беспокоить</string>
     <string name="downlaod_cancel_confirm_download">ОК</string>
     <string name="downlaod_cancel_continue_download">Отмена</string>
     <string name="downlaod_confirm_download">ОК</string>

@@ -1,5 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="develop_version">Версия для разработки</string>
+    <string name="receive_develop_summary">Уведомлять, если доступна новая версия для разработки</string>
+    <string name="version_select">Выбор версии</string>
+    <string name="version_select_summary">Выбрать alpha, developing или stable версию</string>
+    <string name="app_version">Версия приложения</string>
+    <string name="check_app_version">Поиск новой версии...</string>
+    <string name="app_latest_version">Установлена последняя версия</string>
+    <string name="video_bbs_url">Присоединяйтесь к нам, чтобы улучшить это приложение</string>
+    <string name="video_bbs">Помочь в разработке</string>
+    <string name="performance_mode">Производительность</string>
+    <string name="performance_mode_desc">Максимальная производительность</string>
+    <string name="install_plugin">Установить расширение</string>
+    <string name="video_plugin">Видео расширения</string>
+    <string name="video_plugin_prepare">Инициализация расширения, немного подождите</string>
+    <string name="video_plugin_downloading">Загрузка…</string>
+    <string name="vp_player_plugin_dlg_neg_btn">Закрыть</string>
+    <string name="vp_player_plugin_dlg_title">Модули</string>
+    <string name="vp_player_plugin_dlg_no_content">Модулей не обнаружено</string>
+    <string name="player_plugin_title">Подключаемые модули</string>
+    <string name="player_plugin_des">Список подключенных модулей</string>
+
     <string name="app_name">Видео</string>
     <string name="xiaomi_account_type_unsupported">Ваша система не поддерживает Mi аккаунт</string>
     <string name="no_login_xiaomi_account">Необходимо войти в Mi аккаунт</string>
