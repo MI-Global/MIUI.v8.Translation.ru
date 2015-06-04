@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="miui_reminder_minutes_labels">
+        <item>Не напоминать</item>
+        <item>По факту</item>
+        <item>За 5 минут</item>
+        <item>За 10 минут</item>
+        <item>За 15 минут</item>
+        <item>За 30 минут</item>
+        <item>За 1 час</item>
+        <item>За 1 день</item>
+        <item>За 2 дня</item>
+        <item>За 1 неделю</item>
+     </string-array>
     <string-array name="reminder_methods_labels">
         <item>Уведомление</item>
         <item>Электронное сообщение</item>
