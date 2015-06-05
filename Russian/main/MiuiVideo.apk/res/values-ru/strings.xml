@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="develop_version">Версия для разработки</string>
+    <string name="development_setting">Для разработчиков</string>
+    <string name="develop_version">Для разработчиков</string>
     <string name="receive_develop_summary">Уведомлять, если доступна новая версия для разработки</string>
     <string name="version_select">Выбор версии</string>
     <string name="version_select_summary">Выбрать alpha, developing или stable версию</string>

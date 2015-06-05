@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="install_non_market_app_entries">
+	<item>Спрашивать разрешение на установку</item>
+	<item>Разрешить установку</item>
+    </string-array>
+    <string-array name="install_non_market_app_contents">
+        <item>Запретить</item>
+        <item>Разрешить</item>
+    </string-array>
     <string-array name="timezone_filters">
         <item>Америка</item>
         <item>Европа</item>
