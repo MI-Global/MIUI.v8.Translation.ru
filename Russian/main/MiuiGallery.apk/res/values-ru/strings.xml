@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="cant_delete_system_album">%s - это системный альбом, его удалить нельзя!</string>
     <string name="single_device_project_dialog_title">Транслировать на %s</string>
     <string name="single_device_project_dialog_checkbox_text">Запомнить этот монитор</string>
     <string name="photoeditor_name">Фотостудия</string>

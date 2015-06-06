@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="confirm_delete_album">
+        <item quantity="other">Удалить %1$s альбомов (%2$s)?</item>
+        <item quantity="one">Удалить %1$s альбом (%2$s)?</item>
+    </plurals>
     <plurals name="confirm_delete_has_cloud_image">
         <item quantity="other">Удалить %s фото из Mi Cloud?</item>
         <item quantity="one">Удалить %s фото из Mi Cloud?</item>

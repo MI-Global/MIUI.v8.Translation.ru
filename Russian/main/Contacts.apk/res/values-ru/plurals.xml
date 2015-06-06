@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="btn_delete_multi_contacts">
+        <item quantity="other">Удалить %d контактов</item>
+        <item quantity="one">Удалить контакт</item>
+    </plurals>
     <plurals name="listTotalPhoneContacts">
         <item quantity="other">Контакты с номерами телефонов: %d</item>
         <item quantity="one">Контакты с номерами телефона: 1</item>

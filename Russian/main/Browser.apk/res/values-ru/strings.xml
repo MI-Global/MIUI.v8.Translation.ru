@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="miui_content_open_url">Перейти</string>
     <string name="save_password_message">Запомнить этот пароль?</string>
     <string name="save_password_notnow">Не сейчас</string>
     <string name="save_password_remember">Запомнить</string>
