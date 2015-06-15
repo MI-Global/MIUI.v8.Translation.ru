@@ -170,7 +170,11 @@ d MMMM yyyy"</string>
     <string name="ext_media_safe_remove">Отключить</string>
     <string name="status_bar_network_flow_today">Сегодня: %1$s</string>
     <string name="status_bar_network_flow">Сегодня: %1$s | Осталось: %2$s | Всего: %3$s</string>
+    <string name="status_bar_network_flow_content">"Сегодня: %1$s | Осталось: %2$s"</string>
+    <string name="status_bar_network_flow_exceed_content">Сегодня: %1$s | Превышение: &lt;font color=%2$s>%3$s&lt;/font></string>
+    <string name="status_bar_network_flow_purchase">"   Купить >"</string>
     <string name="status_bar_network_flow_exceed">Сегодня: %1$s | Превышение: &lt;font color=%2$s>%3$s&lt;/font> | Всего: %4$s</string>
+    <string name="status_bar_network_flow_limit">"   Месячный лимит: %1$s"</string>
     <string name="drive_mode_tip">Вы находитесь в автомобиле. Пожалуйста, будьте осторожны за рулем при работе с телефоном.</string>
     <string name="no_notification_tips">Нет уведомлений</string>
     <string name="notification_otg_mouse_in">Мышь подключена</string>
