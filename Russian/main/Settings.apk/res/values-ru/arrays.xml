@@ -477,6 +477,15 @@
         <item>8 секунд</item>
         <item>9 секунд</item>
     </string-array>
+    <string-array name="led_color_entries">
+        <item>Синий</item>
+        <item>Красный</item>
+        <item>Желтый</item>
+        <item>Зеленый</item>
+        <item>Голубой</item>
+        <item>Белый</item>
+        <item>Фиолетовый</item>
+    </string-array>
     <string-array name="mi1_led_color_entries">
         <item>Синий</item>
         <item>Красный</item>
@@ -485,10 +494,12 @@
         <item>Фиолетовый</item>
         <item>Пурпурный</item>
     </string-array>
-    <string-array name="led_color_entries">
-        <item>Синий</item>
+    <string-array name="pink_panel_led_color_entries">
+        <item>Фиолетовый</item>
         <item>Красный</item>
+        <item>Желтый</item>
         <item>Зеленый</item>
+    <item>Пурпурный</item>
     </string-array>
     <string-array name="screen_key_press_action">
         <item>Недавние приложения</item>
