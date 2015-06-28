@@ -317,4 +317,6 @@
     <string name="image_download">Загрузить</string>
     <string name="image_share">Отправить</string>
     <string name="init">Запуск…</string>
+    <string name="action_mode_select_all">Выбрать все</string>
+    <string name="action_mode_deselect_all">Снять выбор</string>
 </resources>

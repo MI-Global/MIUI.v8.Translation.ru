@@ -50,6 +50,7 @@
     <string name="action_item_download">Загрузить</string>
     <string name="action_item_hide">Скрыть</string>
     <string name="action_item_add_to_favorite_playlist">Избранные</string>
+    <string name="action_item_favorite">Избранные</string>
     <string name="online_music">Онлайн</string>
     <string name="my_music">Локально</string>
     <string name="fragment_more">Еще</string>
@@ -295,4 +296,5 @@
 Может взиматься дополнительная плата."</string>
     <string name="allow_to_use_traffic_title">Предупреждение</string>
     <string name="use_traffic_toast">Не удается подключиться к интернету</string>
+    <string name="impunity_declaration_negative_text">Выход</string>
 </resources>

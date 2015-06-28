@@ -1012,4 +1012,5 @@ SIM карта будет очищена при неудачной попытк�
     <string name="wait_prompt_str">"Отправить следующие тона?
 "</string>
     <string name="wild_prompt_str">Заменить символ</string>
+    <string name="voip_setting">Настройки VoIP</string>
 </resources>
