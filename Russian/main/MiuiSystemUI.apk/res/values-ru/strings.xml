@@ -245,7 +245,7 @@
   <string name="vpn_text_long">Подключено к %s. Нажмите для информации.</string>
   <string name="vpn_title">VPN активно</string>
   <string name="vpn_title_long">Подключение к VPN используя %s</string>
-  <string name="disable_notification_summary">Не отобрпжпть уведомления этого приложения.</string>
+  <string name="disable_notification_summary">Не отображать уведомления этого приложения.</string>
   <string name="disable_notification_title">Блок уведомлений</string>
   <string name="expanded_notification_manager">Управление уведомлениями</string>
   <string name="notification_template_text">" имеет уведомление. Просмотр."</string>
