@@ -499,6 +499,8 @@
   <string name="sp_category_bank">Сообщения службы банка</string>
   <string name="sp_category_title_prefix">%s</string>
   <string name="sp_conversation_title">Уведомления сообщений</string>
+  <string name="title_show_blocked_messages">Показывать заблокированные SMS</string>
+  <string name="pref_show_blocked_messages_summary">Показывать заблокированные SMS в списке бесед</string>
   <string name="sp_mark_as_read">Отметить все сообщения как прочитанные?</string>
   <string name="sp_mark_as_read_progress">Чтение сообщений…</string>
   <string name="sp_mark_as_read_title">Отметить как прочитанные</string>
