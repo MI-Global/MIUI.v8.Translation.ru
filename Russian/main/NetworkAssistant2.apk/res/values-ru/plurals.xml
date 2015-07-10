@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="hints_traffic_enable_title">
+        <item quantity="other">Приложения без отслеживания трафика: %d</item>
+        <item quantity="one">Приложения без отслеживания трафика: %d</item>
+    </plurals>
+    <plurals name="hints_traffic_disable_title">
+        <item quantity="other">Приложения с отслеживанием трафика: %d</item>
+        <item quantity="one">Приложения с отслеживанием трафика: %d</item>
+    </plurals>
+    <plurals name="hints_traffic_saving_optimized">
+        <item quantity="other">Сжатие включено: %d</item>
+        <item quantity="one">Сжатие включено: %d</item>
+    </plurals>
+    <plurals name="hints_traffic_saving_need_optimize">
+        <item quantity="other">Без сжатия: %d</item>
+        <item quantity="one">Без сжатия: %d</item>
+    </plurals>
+    <plurals name="hints_traffic_saving_enable_title">
+        <item quantity="other">Приложения без экономии трафика: %d</item>
+        <item quantity="one">Приложения без экономии трафика: %d</item>
+    </plurals>
+    <plurals name="hints_traffic_saving_disable_title">
+        <item quantity="other">Приложения с экономией трафика: %d</item>
+        <item quantity="one">Приложения с экономией трафика: %d</item>
+    </plurals>
+    <plurals name="hints_install_apps_interval">
+        <item quantity="other">Запускалось %d дн. назад</item>
+        <item quantity="one">Запускалось вчера</item>
+    </plurals>
+    <plurals name="search_app_count_txt">
+        <item quantity="other">Поиск в приложениях: %d</item>
+        <item quantity="one">Поиск в приложениях: %d</item>
+    </plurals>
+    <plurals name="hints_roaming_enable_title">
+        <item quantity="other">Приложения с доступом к интернету в роуминге: %d</item>
+        <item quantity="one">Приложения с доступом к интернету в роуминге: %d</item>
+    </plurals>
+    <plurals name="hints_roaming_disable_title">
+        <item quantity="other">Приложения без доступа к интернету в роуминге: %d</item>
+        <item quantity="one">Приложения без доступа к интернету в роуминге: %d</item>
+    </plurals>
+    <plurals name="hints_roaming_found_app_count_title">
+        <item quantity="other">Найдено приложений: %d</item>
+        <item quantity="one">Найдено приложений: %d</item>
+    </plurals>
+</resources>
