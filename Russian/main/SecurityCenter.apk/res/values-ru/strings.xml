@@ -735,4 +735,18 @@
     <string name="item_garbage_time_daily">Ежедневно</string>
     <string name="item_garbage_time_never">Никогда</string>
     <string name="power_center_auto_shutdown_summary">Время выключения и включения</string>
+    <string name="month_report_activity_label">Ежемесячный отчет</string>
+    <string name="month_report_disconnect_tip">Нет соединения</string>
+    <string name="month_report_click_reconnect_network">Попробуйте еще раз</string>
+    <string name="month_report_month_report_switch">Ежемесячный отчет</string>
+    <string name="month_report_warning_dialog_title">Ежемесячный отчет по безопасности</string>
+    <string name="month_report_warning_dialog_description">Для получения ежемесячных отчетов включите эту функцию в настройках безопасности.</string>
+    <string name="month_report_warning_dialog_positive">Включить</string>
+    <string name="month_report_history_activity_label">История отчетов</string>
+    <string name="month_report_result_share">Поделиться</string>
+    <string name="month_report_share_img_fail">Не могу поделиться</string>
+    <string name="month_report_share_loading">Загрузка</string>
+    <string name="month_report_network_dialog_title">Не могу загрузить новости безопасности</string>
+    <string name="month_report_network_dialog_description">Разрешить менеджеру безопасности доступ в интернет?</string>
+    <string name="month_report_network_dialog_positive">Разрешить</string>
 </resources>
