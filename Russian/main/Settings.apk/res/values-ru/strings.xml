@@ -3028,4 +3028,8 @@
     <string name="lock_screen_secure_after_timeout_title">Задержка блокировки</string>
     <string name="lock_screen_secure_after_timeout_summary">Блокировка паролем через %1$s</string>
     <string name="lock_screen_secure_after_timeout_immediately_summary">Блокировка паролем без задержки</string>
+    <string name="background_location_requests_title">Разрешить фоновое определение местоположения</string>
+    <string name="background_location_requests_summary">"Разрешает приложениям использовать сервис определения местоположения когда вы не пользуетесь ими"</string>
+    <string name="background_location_control_title">Доступ к местоположению в фоне</string>
+    <string name="background_location_control_summary">"Разрешить или запретить приложениям получение информации о местоположении вашего устройства в фоновом режиме"</string>
 </resources>
