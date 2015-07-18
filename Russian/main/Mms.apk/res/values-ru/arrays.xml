@@ -55,6 +55,18 @@
         <item>Через MMS</item>
         <item>Через облачное сообщение</item>
     </string-array>
+    <string-array name="entries_sms_validity_period">
+        <item>Не установлено</item>
+        <item>1 час</item>
+        <item>6 часов</item>
+        <item>12 часов</item>
+        <item>1 день</item>
+        <item>Без ограничений</item>
+    </string-array>
+    <string-array name="entries_mms_validity_period">
+        <item>Без ограничений</item>
+        <item>Два дня</item>
+    </string-array>
     <string-array name="select_dialog_items">
         <item>1 сек.</item>
         <item>2 сек.</item>

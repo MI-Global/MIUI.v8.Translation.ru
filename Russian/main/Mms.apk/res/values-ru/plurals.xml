@@ -20,6 +20,16 @@
     </plurals>
     <plurals name="recipient_count">
         <item quantity="other">%1$s чел.</item>
+        <item quantity="one">%1$s чел.</item>
+    </plurals>
+    <plurals name="cloud_sms_count">
+        <item quantity="other">Сообщений: %d</item>
+        <item quantity="zero">Сообщений: %d</item>
+        <item quantity="one">Сообщений: %d</item>
+    </plurals>
+    <plurals name="cloud_state_unsynced_count">
+        <item quantity="other">Сообщений не синхронизировано: %d</item>
+        <item quantity="one">Сообщений не синхронизировано: %d</item>
     </plurals>
     <plurals name="message_count">
         <item quantity="other">Сообщений: %1$s</item>
