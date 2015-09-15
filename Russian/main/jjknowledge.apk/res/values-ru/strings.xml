@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="jeejen_text_cancel">Отмена</string>
+    <string name="jeejen_text_loading">Загрузка...</string>
+    <string name="knowledge_app_name">Знание зоровья</string>
+    <string name="knowledge_app_name_home">Здоровье</string>
+    <string name="img_desc">Знание здоровья</string>
+    <string name="fav_sratch_hint">Поиск</string>
+    <string name="search_title">Поиск</string>
+    <string name="menu_action_del_choose">Выберите</string>
+    <string name="menu_action_del_all">Удалить все</string>
+    <string name="menu_action_cancel">Отмена</string>
+    <string name="menu_confirm_ok_title">OK</string>
+    <string name="menu_confirm_cancel_title">Отмена</string>
+    <string name="menu_confirm_bar_all_title">Удалить все выбранное?</string>
+    <string name="menu_confirm_bar_choosed_title">Удалить выбранное</string>
+    <string name="del_btn_title">Удалить</string>
+    <string name="no_fav_data_tip">Пусто</string>
+    <string name="no_search_result">Ничего не найдено</string>
+    <string name="add_fav_article">Добавить в коллекцию</string>
+    <string name="add_fav_added">Добавлено в избранное</string>
+    <string name="menu_first_tip_title">Для нормальной работы приложения будет использоваться интернет и определение местоположения</string>
+    <string name="menu_first_tip_btn_txt">OK</string>
+    <string name="use_network_alert">Для нормальной работы приложения требуется подключение к сети</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Отмена</string>
+    <string name="web_err_network_error">Нет подключения к сети</string>
+    <string name="web_err_error">Ошибка доступа</string>
+</resources>

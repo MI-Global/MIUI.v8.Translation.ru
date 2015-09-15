@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="store_app_name">Магазин</string>
+    <string name="store_app_name_for_jeejen">Магазин</string>
+    <string name="web_err_network_error">Нет подключения к сети</string>
+    <string name="web_err_error">Ошибка сети</string>
+    <string name="text_loading">Загрузка</string>
+    <string name="use_network_alert">Требуется подключение к сети для нормальной работы приложения</string>
+    <string name="store_ok">OK</string>
+    <string name="store_cancel">Отмена</string>
+    <string name="v3_string_alert_btn_i_known">OK</string>
+    <string name="v3_string_alert_btn_ok_text">OK</string>
+    <string name="v3_string_alert_btn_cancel_text">Отмена</string>
+</resources>
