@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="power_center_battery_day">
-        <item quantity="other">%d дн.</item>
-        <item quantity="one">%d дн.</item>
+        <item quantity="other">"%d дн. "</item>
+        <item quantity="one">"%d дн. "</item>
     </plurals>
     <plurals name="power_center_battery_hour">
-        <item quantity="other">%d ч.</item>
-        <item quantity="one">%d ч.</item>
+        <item quantity="other">"%d ч. "</item>
+        <item quantity="one">"%d ч. "</item>
     </plurals>
     <plurals name="power_center_battery_minute">
-        <item quantity="other">%d мин.</item>
-        <item quantity="one">%d мин.</item>
+        <item quantity="other">"%d мин. "</item>
+        <item quantity="one">"%d мин. "</item>
     </plurals>
     <plurals name="hints_auto_start_enable_title">
         <item quantity="other">Приложения с автозапуском (%d)</item>

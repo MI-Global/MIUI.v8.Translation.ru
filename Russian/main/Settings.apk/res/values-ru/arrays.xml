@@ -1,13 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="install_non_market_app_entries">
-	<item>Спрашивать разрешение на установку</item>
-	<item>Разрешить установку</item>
-    </string-array>
-    <string-array name="install_non_market_app_contents">
-        <item>Запретить</item>
-        <item>Разрешить</item>
-    </string-array>
     <string-array name="timezone_filters">
         <item>Америка</item>
         <item>Европа</item>
@@ -48,10 +40,12 @@
         <item>30 минут</item>
     </string-array>
     <string-array name="entries_font_size">
-        <item>Мелкий</item>
-        <item>Нормальный</item>
-        <item>Средний</item>
-        <item>Большой</item>
+        <item>XS</item>
+        <item>S</item>
+        <item>M</item>
+        <item>L</item>
+        <item>XL</item>
+        <item>XXL</item>
     </string-array>
     <string-array name="tts_rate_entries">
         <item>Очень медленная</item>
@@ -97,7 +91,7 @@
         <item>Нет подключения</item>
         <item>Сбой</item>
         <item>Заблокировано</item>
-        <item>Избежание слабого сигнала</item>
+        <item>Cлабый сигнал</item>
     </string-array>
     <string-array name="wifi_ap_security">
         <item>Без шифрования</item>
@@ -499,7 +493,7 @@
         <item>Красный</item>
         <item>Желтый</item>
         <item>Зеленый</item>
-    <item>Пурпурный</item>
+        <item>Пурпурный</item>
     </string-array>
     <string-array name="screen_key_press_action">
         <item>Недавние приложения</item>
@@ -553,7 +547,7 @@
     </string-array>
     <string-array name="msd_pc_system_install_finish_summary">
         <item>Если вы установите этот драйвер, память телефона появится на компьютере.</item>
-        <item>В Windows Vista или версиях выше, музыкальный проигрыватель появится на вашем компьютере автоматически.</item>
+        <item>В Windows Vista или версиях выше, музыкальный проигрыватель появится на Вашем компьютере автоматически.</item>
         <item>Если вы установите этот драйвер, компьютер автоматически откроет и прочитает память телефона.</item>
         <item></item>
     </string-array>
@@ -629,6 +623,7 @@
         <item>Галерея</item>
         <item>Музыка</item>
         <item>Почта</item>
+        <item>Видео</item>
     </string-array>
     <string-array name="network_speed_slow_summary">
         <item>Медленная скорость из-за большой нагрузки</item>
@@ -666,29 +661,89 @@
         <item>ТЕПЛЫЙ</item>
         <item>ХОЛОДНЫЙ</item>
     </string-array>
+    <string-array name="install_non_market_app_entries">
+        <item>Запрашивать</item>
+        <item>Разрешить</item>
+    </string-array>
+    <string-array name="install_non_market_app_contents">
+        <item>Запрашивать</item>
+        <item>Разрешить</item>
+    </string-array>
+    <string-array name="lock_screen_secure_after_timeout_entries">
+        <item>сразу</item>
+        <item>через 1 минуту</item>
+        <item>через 2 минуты</item>
+        <item>через 5 минут</item>
+        <item>через 15 минут</item>
+        <item>через 30 минут</item>
+    </string-array>
+    <string-array name="fluency_mode_entries">
+        <item>Отключить системную анимацию</item>
+        <item>Включить системную анимацию</item>
+    </string-array>
+    <string-array name="fluency_mode_summaries">
+        <item>Для слабых устройств</item>
+        <item>Для производительных устройств</item>
+    </string-array>
+    <string-array name="fluency_mode_confirms">
+        <item>Перезагрузить устройство для применения настроек?</item>
+        <item>Перезагрузить устройство для применения настроек?</item>
+    </string-array>
+    <string-array name="alarm_repeat_type">
+        <item>Ежедневно</item>
+        <item>По выходным</item>
+        <item>Выбрать дни</item>
+    </string-array>
+    <string-array name="alarm_repeat_type_no_workdays">
+        <item>Ежедневно</item>
+        <item>По выходным</item>
+        <item>Выбрать дни</item>
+    </string-array>
     <string-array name="miracast_policies">
         <item>Производительность</item>
         <item>Баланс</item>
         <item>Качество</item>
     </string-array>
-    <string-array name="fluency_mode_entries">
-        <item>Отключение системной анимации</item>
-        <item>Включение системной анимации</item>
+    <string-array name="data_usage_data_range">
+        <item>За последние 30 дней</item>
+        <item>Цикл использования данных</item>
     </string-array>
-    <string-array name="fluency_mode_summaries">
-        <item>"Отключение системной анимации для ускорения производительности устройства"</item>
-        <item>"Вкючение системной анимации может снизить производитеьность устройства"</item>
+    <string-array name="entries_zen_mode">
+        <item>ВЫКЛ</item>
+        <item>Ограниченное число прерываний</item>
+        <item>Без прерываний</item>
     </string-array>
-    <string-array name="fluency_mode_confirms">
-        <item>Перезагрузить устройство, чтобы задействовать эти параметры?</item>
-        <item>Перезагрузить устройство, чтобы задействовать эти параметры?</item>
+    <string-array name="proc_stats_memory_states">
+        <item>Нормальное</item>
+        <item>Умеренное</item>
+        <item>Низкое</item>
+        <item>Высокое</item>
     </string-array>
-    <string-array name="lock_screen_secure_after_timeout_entries">
-        <item>Без задержки</item>
-        <item>1 минута</item>
-        <item>2 минуты</item>
-        <item>5 минут</item>
-        <item>15 минут</item>
-        <item>30 минут</item>
+    <string-array name="proc_stats_process_states">
+        <item>Стабильное</item>
+        <item>Наиболее частое действие</item>
+        <item>Важное (активный режим)</item>
+        <item>Важное (фоновый режим)</item>
+        <item>Резервное копирование</item>
+        <item>Большой объем данных</item>
+        <item>Служба (работает)</item>
+        <item>Служба (перезапуск)</item>
+        <item>Получатель</item>
+        <item>Главная</item>
+        <item>Последнее действие</item>
+        <item>Кешировано (действие)</item>
+        <item>Кешировано (клиент)</item>
+        <item>Кешировано (пусто)</item>
+    </string-array>
+    <string-array name="select_logd_size_summaries">
+        <item>Буфер: макс. 64 КБ</item>
+        <item>Буфер: макс. 256 КБ</item>
+        <item>Буфер: макс. 1 МБ</item>
+        <item>Буфер: макс. 4 МБ</item>
+        <item>Буфер: макс. 16 МБ</item>
+    </string-array>
+    <string-array name="screen_resolution_entries">
+        <item>Ультравысокое (2K)</item>
+        <item>Обычное (720P)</item>
     </string-array>
 </resources>

@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="moon_desc">
+        <item>Новолуние</item>
+        <item>Молодая луна</item>
+        <item>Первая четверть</item>
+        <item>Прибывающая луна</item>
+        <item>Полнолуние</item>
+        <item>Убывающая луна</item>
+        <item>Последняя четверть</item>
+        <item>Убывающий месяц</item>
+        <item>Старая луна</item>
+    </string-array>
     <string-array name="weather_type">
         <item>Ясно</item>
         <item>Облачно</item>
@@ -37,24 +48,13 @@
         <item>Опасный</item>
     </string-array>
     <string-array name="wind_direction">
-        <item>Ветер С</item>
-        <item>Ветер СВ</item>
-        <item>Ветер В</item>
-        <item>Ветер ЮВ</item>
-        <item>Ветер Ю</item>
-        <item>Ветер ЮВ</item>
-        <item>Ветер З</item>
-        <item>Ветер СЗ</item>
-    </string-array>
-    <string-array name="moon_desc">
-        <item>Новолуние</item>
-        <item>Молодая луна</item>
-        <item>Первая четверть</item>
-        <item>Прибывающая луна</item>
-        <item>Полнолуние</item>
-        <item>Убывающая луна</item>
-        <item>Последняя четверть</item>
-        <item>Убывающий месяц</item>
-        <item>Старая луна</item>
+        <item>Ветер С↓</item>
+        <item>Ветер СВ↙</item>
+        <item>Ветер В←</item>
+        <item>Ветер ЮВ↖</item>
+        <item>Ветер Ю↑</item>
+        <item>Ветер ЮЗ↗</item>
+        <item>Ветер З→</item>
+        <item>Ветер СЗ↘</item>
     </string-array>
 </resources>

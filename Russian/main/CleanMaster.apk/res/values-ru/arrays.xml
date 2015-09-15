@@ -13,9 +13,9 @@
         <item>По размеру</item>
     </string-array>
     <string-array name="auto_clean_time">
-        <item>Ежедневно</item>
+        <item>Каждый день</item>
         <item>Каждые 3 дня</item>
-        <item>Каждые 7 дней</item>
+        <item>Каждую неделю</item>
     </string-array>
     <string-array name="auto_clean_size">
         <item>100 Мб</item>
@@ -28,52 +28,24 @@
         <item>Очищать в фоне</item>
         <item>Уведомлять после очистки</item>
     </string-array>
-    <string-array name="auto_memory_clean">
-        <item>Через 1 минуту</item>
-        <item>Через 5 минут</item>
-        <item>Через 10 минут</item>
-        <item>Никогда</item>
+    <string-array name="cache_clean_menu">
+        <item>Очистка</item>
+        <item>Файл</item>
+        <item>Исключения</item>
     </string-array>
-    <string-array name="power_dialog_auto_clean_memory_items">
-        <item>Через 1 минуту</item>
-        <item>Через 5 минут</item>
-        <item>Через 10 минут</item>
-        <item>Никогда</item>
+    <string-array name="empty_floder_clean_menu">
+        <item>Очистка</item>
     </string-array>
-    <string-array name="power_dialog_sleep_items">
-        <item>15 секунд</item>
-        <item>30 секунд</item>
-        <item>1 минута</item>
-        <item>2 минуты</item>
-        <item>5 минут</item>
-        <item>10 минут</item>
-        <item>Никогда</item>
+    <string-array name="apk_clean_menu">
+        <item>Очистка</item>
+        <item>Файл</item>
+        <item>Исключения</item>
+        <item>Установить</item>
     </string-array>
-    <string-array name="power_dialog_cpu_state_items">
-        <item>Производительность</item>
-        <item>Баланс</item>
-    </string-array>
-    <string-array name="power_dialog_wifi_internet_state_items">
-        <item>Выключить</item>
-        <item>Включить</item>
-        <item>Не изменять</item>
-    </string-array>
-    <string-array name="power_dialog_vibration_items">
-        <item>Никогда</item>
-        <item>В режиме \"Без звука\"</item>
-        <item>Всегда</item>
-    </string-array>
-    <string-array name="alarm_repeat_type">
-        <item>Однократно</item>
-        <item>Ежедневно</item>
-        <item>В рабочие дни</item>
-        <item>По будням</item>
-        <item>Выбрать дни</item>
-    </string-array>
-    <string-array name="alarm_repeat_type_no_workdays">
-        <item>Однократно</item>
-        <item>Ежедневно</item>
-        <item>По будням</item>
-        <item>Выбрать дни</item>
+    <string-array name="app_clean_menu">
+        <item>Информация</item>
+        <item>Файл</item>
+        <item>Бэкап и удаление</item>
+        <item>Удалить</item>
     </string-array>
 </resources>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cube_ptr_pull_down">Потяните вниз для обновления</string>
+    <string name="cube_ptr_pull_down_to_refresh">Потяните вниз для обновления</string>
+    <string name="cube_ptr_release_to_refresh">Отпустите для обновления</string>
+    <string name="cube_ptr_refreshing">Обновление…</string>
+    <string name="cube_ptr_refresh_complete">Обновлено</string>
+    <string name="cube_ptr_last_update">Последнее обновление: </string>
+    <string name="cube_ptr_seconds_ago"> сек. назад</string>
+    <string name="cube_ptr_minutes_ago"> мин. назад</string>
+    <string name="cube_ptr_hours_ago"> ч. назад</string>
+    <string name="app_name">Mi Vip</string>
+    <string name="level">Уровень</string>
+    <string name="level_detail">Ежедневный лимит заданий: %d</string>
+    <string name="action">Показать</string>
+    <string name="task">Задания</string>
+    <string name="today_task">Задания за сегодня</string>
+    <string name="passive_task">Пассивные задания</string>
+    <string name="task_score">Очков: %d</string>
+    <string name="task_ongoing">Постоянная</string>
+    <string name="task_done">Завершено</string>
+    <string name="task_start">Начать</string>
+    <string name="task_take_award">Получить награды</string>
+    <string name="query_user_tasks_fail">Не удается получить информацию о заданиях</string>
+    <string name="my_award">Мои награды</string>
+    <string name="validity">Действует до %s</string>
+    <string name="validity_unknown">Неизвестный срок действия</string>
+    <string name="expired">Окончено</string>
+    <string name="award_time">Получено на %s</string>
+    <string name="no_award">Нет наград</string>
+    <string name="query_level_fail">Ошибка получения информации</string>
+    <string name="award_taken">Очки получены</string>
+    <string name="task_begin">Действует…</string>
+    <string name="in_progress">Отправка запроса…</string>
+    <string name="privilege">Привилегии</string>
+    <string name="promote">Новый уровень</string>
+    <string name="level_info_format" formatted="false">"Уровень %d %d/%d
+%s"</string>
+    <string name="no_network">Ошибка подключения к интернету</string>
+    <string name="task_limit">Сегодня больше нет заданий</string>
+    <string name="no_task">Все задания завершены</string>
+    <string name="fail_reach_server">Ошибка подключения к серверу</string>
+    <string name="no_app">Нет необходимого приложения</string>
+    <string name="use">Использовать</string>
+    <string name="already_used">Используется</string>
+    <string name="unlimited_task">Специальные задания</string>
+    <string name="take_awarded_package">Выкупить</string>
+    <string name="awarded_package_is_expired">Окончено</string>
+    <string name="awarded_package_was_redeemed">Выкуплено</string>
+    <string name="take_awarded_package_failed">Не удается выкупить подарок</string>
+    <string name="invalid_json">Неверная строка JSON</string>
+    <string name="task_select_title">Выберите задание</string>
+    <string name="task_not_completed">Не выполнено</string>
+    <string name="task_completed">Выполнено</string>
+    <string name="exp_buff">+%s%% опыта</string>
+    <string name="upgraded">Новый уровень!</string>
+    <string name="experience">Опыт</string>
+    <string name="giveup">Сдаться</string>
+    <string name="browse">Просмотр</string>
+    <string name="buff_enable">[ включить ]</string>
+    <string name="hello">Добро пожаловать!</string>
+    <string name="days">%d дн.</string>
+    <string name="hours">%d ч.</string>
+    <string name="minutes">%d мин.</string>
+    <string name="seconds">%d сек.</string>
+    <string name="millis">%d мс.</string>
+</resources>
