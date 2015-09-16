@@ -5,6 +5,18 @@
         <item>15 минут</item>
         <item>30 минут</item>
         <item>1 час</item>
-        <item>Бесконечно</item>
+        <item>Всегда</item>
+    </string-array>
+    <string-array name="baby_sexy">
+        <item>Мальчик</item>
+        <item>Девочка</item>
+    </string-array>
+    <string-array name="owner_relation">
+        <item>Папа</item>
+        <item>Мама</item>
+        <item>Дедушка</item>
+        <item>Бабушка</item>
+        <item>Дедушка</item>
+        <item>Бабушка</item>
     </string-array>
 </resources>

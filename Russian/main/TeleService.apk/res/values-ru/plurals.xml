@@ -12,8 +12,4 @@
         <item quantity="other">Выбранные действия недоступны в режиме экстренных обратных вызовов. Телефон будет оставаться в этом режиме еще %s мин. Выйти из режима?</item>
         <item quantity="one">Выбранное действие недоступно в режиме экстренных обратных вызовов. Телефон будет оставаться в этом режиме еще %s мин. Выйти из режима?</item>
     </plurals>
-    <plurals name="call_recording_notification_complete">
-        <item quantity="other">Записано вызовов: %d</item>
-        <item quantity="one">Записано вызовов: 1</item>
-    </plurals>
 </resources>

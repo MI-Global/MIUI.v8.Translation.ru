@@ -64,4 +64,92 @@
         <item quantity="few"> (файлов: %1$d)</item>
         <item quantity="many"> (файлов: %1$d)</item>
     </plurals>
+    <plurals name="search_head_hint_app">
+        <item quantity="other">Поиск по запросу \"%1$s\" (элементов: %2$d)</item>
+        <item quantity="zero">Поиск по запросу \"%1$s\" (элементов: %2$d)</item>
+        <item quantity="one">Поиск по запросу \"%1$s\" (элементов: %2$d)</item>
+        <item quantity="two">Поиск по запросу \"%1$s\" (элементов: %2$d)</item>
+        <item quantity="few">Поиск по запросу \"%1$s\" (элементов: %2$d)</item>
+        <item quantity="many">Поиск по запросу \"%1$s\" (элементов: %2$d)</item>
+    </plurals>
+    <plurals name="search_head_hint_file">
+        <item quantity="other">Файлы по запросу \"%1$s\" (элементов: %2$d)</item>
+        <item quantity="zero">Файлы по запросу \"%1$s\" (элементов: %2$d)</item>
+        <item quantity="one">Файлы по запросу \"%1$s\" (элементов: %2$d)</item>
+        <item quantity="two">Файлы по запросу \"%1$s\" (элементов: %2$d)</item>
+        <item quantity="few">Файлы по запросу \"%1$s\" (элементов: %2$d)</item>
+        <item quantity="many">Файлы по запросу \"%1$s\" (элементов: %2$d)</item>
+    </plurals>
+    <plurals name="search_head_hint_tag">
+        <item quantity="other">Теги по запросу \"%1$s\" (элементов: %2$d)</item>
+        <item quantity="zero">Теги по запросу \"%1$s\" (элементов: %2$d)</item>
+        <item quantity="one">Теги по запросу \"%1$s\" (элементов: %2$d)</item>
+        <item quantity="two">Теги по запросу \"%1$s\" (элементов: %2$d)</item>
+        <item quantity="few">Теги по запросу \"%1$s\" (элементов: %2$d)</item>
+        <item quantity="many">Теги по запросу \"%1$s\" (элементов: %2$d)</item>
+    </plurals>
+    <plurals name="mins_ago">
+        <item quantity="other">%1$d мин. назад</item>
+        <item quantity="zero">%1$d мин. назад</item>
+        <item quantity="one">%1$d мин. назад</item>
+        <item quantity="two">%1$d мин. назад</item>
+        <item quantity="few">%1$d мин. назад</item>
+        <item quantity="many">%1$d мин. назад</item>
+    </plurals>
+    <plurals name="hours_ago">
+        <item quantity="other">%1$d ч. назад</item>
+        <item quantity="zero">%1$d ч. назад</item>
+        <item quantity="one">%1$d ч. назад</item>
+        <item quantity="two">%1$d ч. назад</item>
+        <item quantity="few">%1$d ч. назад</item>
+        <item quantity="many">%1$d ч. назад</item>
+    </plurals>
+    <plurals name="days_ago">
+        <item quantity="other">%1$d дн. назад</item>
+        <item quantity="zero">%1$d дн. назад</item>
+        <item quantity="one">%1$d дн. назад</item>
+        <item quantity="two">%1$d дн. назад</item>
+        <item quantity="few">%1$d дн. назад</item>
+        <item quantity="many">%1$d дн. назад</item>
+    </plurals>
+    <plurals name="found_new_files">
+        <item quantity="other">Новых файлов: %1$d</item>
+        <item quantity="zero">Новых файлов: %1$d</item>
+        <item quantity="one">Новых файлов: %1$d</item>
+        <item quantity="two">Новых файлов: %1$d</item>
+        <item quantity="few">Новых файлов: %1$d</item>
+        <item quantity="many">Новых файлов: %1$d</item>
+    </plurals>
+    <plurals name="file_notify_title">
+        <item quantity="other">Приложение %2$s (файлов: %1$d)</item>
+        <item quantity="zero">Приложение %2$s (файлов: %1$d)</item>
+        <item quantity="one">Приложение %2$s (файлов: %1$d)</item>
+        <item quantity="two">Приложение %2$s (файлов: %1$d)</item>
+        <item quantity="few">Приложение %2$s (файлов: %1$d)</item>
+        <item quantity="many">Приложение %2$s (файлов: %1$d)</item>
+    </plurals>
+    <plurals name="file_notify_title_wechat_video">
+        <item quantity="other">Получено файлов WeChat: %1$d</item>
+        <item quantity="zero">Получено файлов WeChat: %1$d</item>
+        <item quantity="one">Получено файлов WeChat: %1$d</item>
+        <item quantity="two">Получено файлов WeChat: %1$d</item>
+        <item quantity="few">Получено файлов WeChat: %1$d</item>
+        <item quantity="many">Получено файлов WeChat: %1$d</item>
+    </plurals>
+    <plurals name="file_notify_title_wechat_video_expire">
+        <item quantity="other">Срок действия %1$d видео WeChat истек</item>
+        <item quantity="zero">Срок действия %1$d видео WeChat истек</item>
+        <item quantity="one">Срок действия %1$d видео WeChat истек</item>
+        <item quantity="two">Срок действия %1$d видео WeChat истек</item>
+        <item quantity="few">Срок действия %1$d видео WeChat истек</item>
+        <item quantity="many">Срок действия %1$d видео WeChat истек</item>
+    </plurals>
+    <plurals name="backup_message_wechat_video">
+        <item quantity="other">Будет удалено %1$d кэшированных видео WeChat. Выполнить бэкап?</item>
+        <item quantity="zero">Будет удалено %1$d кэшированных видео WeChat. Выполнить бэкап?</item>
+        <item quantity="one">Будет удалено %1$d кэшированное видео WeChat. Выполнить бэкап?</item>
+        <item quantity="two">Будет удалено %1$d кэшированных видео WeChat. Выполнить бэкап?</item>
+        <item quantity="few">Будет удалено %1$d кэшированных видео WeChat. Выполнить бэкап?</item>
+        <item quantity="many">Будет удалено %1$d кэшированных видео WeChat. Выполнить бэкап?</item>
+    </plurals>
 </resources>

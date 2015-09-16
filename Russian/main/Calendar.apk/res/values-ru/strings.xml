@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="sync_notice_title">Запрос синхронизации</string>
-    <string name="sync_notice_message">Mi-календарь еще не синхронизирован. Включить синхронизацию?</string>
-    <string name="sync_notice_ok">Включить</string>
     <string name="app_label">Календарь</string>
     <string name="what_label">Что</string>
     <string name="where_label">Где</string>
@@ -14,7 +11,7 @@
     <string name="today_at_time_fmt">Сегодня в %s</string>
     <string name="tomorrow_at_time_fmt">Завтра в %s</string>
     <string name="repeats_label">Повтор</string>
-    <string name="no_title_label">(нет заголовка)</string>
+    <string name="no_title_label">Мероприятие</string>
     <string name="calendar_refresh">Обновить</string>
     <string name="show_day_view">Показать день</string>
     <string name="agenda_view">События</string>
@@ -120,7 +117,7 @@
     <string name="change_response_title">Изменить ответ</string>
     <string name="menu_general_preferences">Общие настройки</string>
     <string name="menu_about_preferences">О календаре</string>
-    <string name="preferences_title">Настройки</string>
+    <string name="preferences_title">Календарь</string>
     <string name="preferences_general_title">События</string>
     <string name="preferences_reminder_title">Настройки напоминаний</string>
     <string name="preferences_hide_declined_title">Скрыть отклоненные</string>
@@ -175,6 +172,7 @@
     <string name="add_calendar">Подписка</string>
     <string name="exist_calendar">Уже существует</string>
     <string name="delete_calendar">Удалить подписку</string>
+    <string name="add_topic_unsuccess">Не удалось подписаться на \"%s\"</string>
     <string name="calendar_server_error">Ошибка сети</string>
     <string name="calendar_network_error">Ошибка сети</string>
     <string name="label_recent_events">Недавние события</string>
@@ -187,12 +185,15 @@
     <string name="topic_event_list_header_label">Предстоящие события</string>
     <string name="topic_list_header_label">Подписки</string>
     <string name="setting_wifi_mode">Синхронизировать подписки только по Wi-Fi</string>
-    <string name="user_notice_online_title">Уведомление</string>
-    <string name="user_notice_online_ok">Продолжить</string>
+    <string name="notice_title_agreement">Пользовательское соглашение</string>
+    <string name="notice_button_ok_and_go_on">ОК</string>
+    <string name="online_notice_message">Разрешить приложению подключаться к интернету? %1$s, %2$s</string>
+    <string name="birthday_notice_message">Подключитесь к интернету для просмотра информации о дне рождения</string>
     <string name="data_notice_online_large_image">Для экономии трафика рекомендуется включить синхронизацию только по Wi-Fi</string>
     <string name="data_notice_change_settings">Изменить настройки</string>
     <string name="data_notice_continue_confirm">ОК</string>
     <string name="not_exist_topic_list">Нет информации</string>
+    <string name="topic_dialog_title">Подписка</string>
     <string name="online_reminder_header_text">Настройки напоминания</string>
     <string name="online_reminder_slider_text">Включить оповещения</string>
     <string name="online_reminder_minutes_text">Время напоминания</string>
@@ -211,6 +212,8 @@
     <string name="time_zone">Часовой пояс</string>
     <string name="event_all_day_label">Весь день</string>
     <string name="today_no_events">Сегодня нет событий</string>
+    <string name="event_info_reminders_label_1">Напоминание</string>
+    <string name="event_info_reminders_label_more">Напоминание %d</string>
     <string name="event_account">Аккаунт календаря</string>
     <string name="event_show_more">Еще</string>
     <string name="event_hide_more">Скрыть</string>
@@ -263,6 +266,7 @@
     <string name="birthday_event_description">Сегодня %4$s: %1$s</string>
     <string name="jump_date">Перейти</string>
     <string name="jump_date_full">Перейти к дате</string>
+    <string name="select_date">Выберите дату</string>
     <string name="miui_chinese_week_range_single" />
     <string name="miui_chinese_week_range_double" />
     <string name="miui_menu_create_event">Новое событие</string>
@@ -294,13 +298,47 @@
     <string name="repeat_label_choose_week">Выберите неделю</string>
     <string name="repeat_label_choose_month">Выберите месяц</string>
     <string name="repeat_end_label">Окончание повтора</string>
+    <string name="notice_title_request">Запрос</string>
+    <string name="notice_button_ok">ОК</string>
+    <string name="sync_notice_title">Запрос синхронизации</string>
+    <string name="sync_notice_message">Включить синхроизацию данных календаря с Mi Cloud?</string>
+    <string name="sync_notice_ok">ОК</string>
+    <string name="sync_notice_ok_toast_message">Локальные данные календаря будут синхронизироваться с Mi Cloud</string>
+    <string name="sync_notice_cancel_toast_message">Локальные данные календаря не будут синхронизироваться с Mi Cloud</string>
+    <string name="alert_reminder_expired">Истекло</string>
+    <string name="travel_local">Место назначения</string>
+    <string name="travel_loading">Загрузка…</string>
+    <string name="travel_loaded">Поддержка: Veryzhun</string>
+    <string name="travel_load_failed">Не удается загрузить</string>
+    <string name="travel_item_trafic">Трафик</string>
+    <string name="travel_item_weather_forecast">Погода</string>
+    <string name="travel_item_weather_now">Текущая погода</string>
+    <string name="travel_item_reminder">Напоминание</string>
+    <string name="travel_item_reminder_overdue">Внимание</string>
+    <string name="travel_item_virtual_sim">Виртуальная SIM-карта</string>
+    <string name="travel_item_hotel">Отель</string>
+    <string name="travel_airport">аэропорта</string>
+    <string name="travel_train_station">Станция поезда</string>
+    <string name="travel_train_number_text">Поезд</string>
+    <string name="travel_carriage_number_text">автомобиля</string>
+    <string name="travel_seat_number_text">Место</string>
+    <string name="travel_ets_advice">%2$s до %1$s</string>
+    <string name="travel_eta_advice">%2$s мин. до %1$s</string>
+    <string name="travel_event_add_successfully">Мероприятие создано</string>
+    <string name="travel_event_add_unsuccessfully">Не удается создать мероприятие</string>
+    <string name="travel_event_added">Мероприятие создано</string>
+    <string name="travel_event_delete_successfully">Мероприятие удалено</string>
+    <string name="travel_event_delete_unsuccessfully">Не удается удалить мероприятие</string>
+    <string name="travel_event_title_flight">Самолет: %1$s-%2$s %3$s</string>
+    <string name="travel_event_title_train">Поезд: %1$s-%2$s %3$s</string>
+    <string name="travel_event_title_train_only_dep">Поезд: %1$s %2$s</string>
+    <string name="travel_notice_message">Для отображения информации о путешествии требуется доступ к интернету и вашему местоположению</string>
     <string name="more_string">Еще %1$s…</string>
     <string name="copy_email">Скопировать адрес почты</string>
     <string name="copy_number">Скопировать номер телефона</string>
     <string name="done">Готово</string>
     <string name="holiday_label">Праздник</string>
     <string name="setting_online_calendar">Подписка</string>
-    <string name="event_not_found">Событие не найдено</string>
     <string name="accessibility_email_notification">Гости Email</string>
     <string name="accessibility_pick_recurrence">Повтор события</string>
     <string name="acessibility_recurrence_choose_end_date_description">Изменить дату окончания</string>
@@ -320,6 +358,7 @@
     <string name="endByDate">; до %s</string>
     <string name="event_color_picker_dialog_title">Цвет события</string>
     <string name="event_color_set_to_default">Установить цвет календаря по умолчанию</string>
+    <string name="event_not_found">Событие не найдено</string>
     <string name="hint_time_zone_search">Введите название страны</string>
     <string name="hour_picker_description">Круговой слайдер часов</string>
     <string name="item_is_selected">Выбрано %1$s</string>
@@ -349,5 +388,9 @@
     <string name="select_hours">Выберите часы</string>
     <string name="select_minutes">Выберите минуты</string>
     <string name="select_year">Выберите год</string>
+    <string name="user_notice_online_ok">Продолжить</string>
+    <string name="user_notice_online_title">Уведомление</string>
     <string name="year_picker_description">Список</string>
+    <string name="action_label">Вернуться</string>
+    <string name="birthday_notification_text_three_days_later_with_activity">Скоро день рождения</string>
 </resources>
