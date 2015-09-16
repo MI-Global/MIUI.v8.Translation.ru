@@ -13,18 +13,11 @@
     <string name="sync_item_sms_summary">Прочитанные SMS сообщения будут автоматически синхронизироваться</string>
     <string name="sub_sync_item_sms_title_wifi_only">Только по Wi-Fi</string>
     <string name="sub_sync_item_sms_summary">Рекомендуется включить, иначе будет использоваться мобильный интернет</string>
-<<<<<<< HEAD
     <string name="pref_title_sync_contacts_title">Синхронизация контактов</string>
     <string name="pref_title_sync_display_photo_on_wifi_only">Только по Wi-Fi</string>
     <string name="pref_summary_sync_display_photo_on_wifi_only">Рекомендуется включить, иначе будет использоваться мобильный интернет</string>
     <string name="pref_title_sync_video_on_wifi_only">Видео только по Wi-Fi</string>
     <string name="pref_summary_sync_video_on_wifi_only">Синхронизировать видео профиля только по сети Wi-Fi</string>
-=======
-    <string name="pref_title_sync_my_profile_title">Синхронизация профиля</string>
-    <string name="pref_title_sync_contacts_title">Синхронизация контактов</string>
-    <string name="pref_title_sync_display_photo_on_wifi_only">Только по Wi-Fi</string>
-    <string name="pref_summary_sync_display_photo_on_wifi_only">Рекомендуется включить, иначе будет использоваться мобильный интернет</string>
->>>>>>> origin/master
     <string name="find_device_stop_noise">Нажмите ОК, чтобы остановить сигнал</string>
     <string name="find_device_noise_title">Поиск устройства</string>
     <string name="error_title">Ошибка синхронизации</string>
@@ -44,11 +37,7 @@
     <string name="vcode">Проверочный код</string>
     <string name="bad_authentication">Неверный пароль или имя пользователя</string>
     <string name="header_data_and_synchronization">Данные синхронизации</string>
-<<<<<<< HEAD
     <string name="header_other_settings">Другие настройки</string>
-=======
-    <string name="header_other_settings">Дополнительно</string>
->>>>>>> origin/master
     <string name="title_reg">Создание аккаунта</string>
     <string name="unactivated_user">Отключен</string>
     <string name="error_network">Ошибка подключения к сети</string>
@@ -62,15 +51,9 @@
     <string name="sync_on">Вкл.</string>
     <string name="sync_off">Выкл.</string>
     <string name="mx_dspt">Облачные сообщения</string>
-<<<<<<< HEAD
     <string name="mx_voip_dspt">Mi общение</string>
     <string name="mx_sub_dspt_provision">Облачные сообщения</string>
     <string name="mx_sub_dspt_provision_with_voip">VoIP звонки</string>
-=======
-    <string name="mx_voip_dspt">Облачные сообщения и VoIP</string>
-    <string name="mx_sub_dspt_provision">Облачные сообщения</string>
-    <string name="mx_sub_dspt_provision_with_voip">Интернет вызов VoIP</string>
->>>>>>> origin/master
     <string name="voip_choose_sim">Выберите номер для активации VoIP</string>
     <string name="activate_number_change_dialog_message">Выберите основной номер, который будет видеть собеседник во время вызова VoIP.</string>
     <string name="phone_number_may_required_dspt_provision">Этой услуге может потребоваться Ваш номер телефона.</string>
@@ -98,11 +81,7 @@
     <string name="mx_dspt_provision">"Облачные сообщения позволяют Вам бесплатно отправлять сообщения другим пользователям MIUI.
 
 Вы можете включить или отключить эту функцию позже в настройках."</string>
-<<<<<<< HEAD
     <string name="mx_dspt_provision_with_voip">Звоните другим пользователям MIUI бесплатно через интернет. Вы можете в любое время включить или выключить эту функцию в настройках. VoIP предоставляется сервисом Weihui Политика конфиденциальности Weihui.</string>
-=======
-    <string name="mx_dspt_provision_with_voip">С помощью функции VoIP пользовати MIUI могут общаться бесплатно через интернет. Политика конфиденциальности</string>
->>>>>>> origin/master
     <string name="mx_dspt_provision_with_voip2">Политика конфиденциальности</string>
     <string name="mx_dspt_provision_privacy">"Этой услуге необходим номер Вашего телефона. Для ее активации, может быть отправлено одно обычное сообщение.
 \u0009 
@@ -113,11 +92,7 @@ ID Вашего устройства будет зашифрован и отпр
     <string name="user_agreement_p6">Использование этой функции подлежит</string>
     <string name="user_agreement_p7">Условиям использования Mi Cloud</string>
     <string name="user_agreement_p8">.</string>
-<<<<<<< HEAD
     <string name="user_agreement_title">Условаия использования Mi Cloud</string>
-=======
-    <string name="user_agreement_title">Условия использования Mi Cloud</string>
->>>>>>> origin/master
     <string name="privacy_policy">Политика конфиденциальности</string>
     <string name="loading">Загрузка…</string>
     <string name="license_host_unreachable">Нет подключения к сети. Для просмотра информации перейдите на %s</string>
@@ -163,11 +138,7 @@ ID Вашего устройства будет зашифрован и отпр
     <string name="cloudservice_new_sync">Синхронизация %s с Mi Cloud</string>
     <string name="click_to_enabled">Нажмите для синхронизации</string>
     <string name="calendar_sync">Календарь</string>
-<<<<<<< HEAD
     <string name="antispam_sync">Антиспам</string>
-=======
-    <string name="antispam_sync">Настройки режима \"Не беспокоить\"</string>
->>>>>>> origin/master
     <string name="deskclock_backup">Бэкап часов</string>
     <string name="wipe_data_dialog_msg_separator">, </string>
     <string name="micloud_space_duokan_title">Книги Duokan</string>
@@ -252,11 +223,8 @@ ID Вашего устройства будет зашифрован и отпр
     <string name="micloud_main_space_low">Место заканчивается</string>
     <string name="micloud_main_update_space">Добавить место</string>
     <string name="micloud_detail_syncing">синхронизация…</string>
-<<<<<<< HEAD
     <string name="micloud_detail_upload_syncing">Загрузка %s</string>
     <string name="micloud_detail_download_syncing">Скачивание %s</string>
-=======
->>>>>>> origin/master
     <string name="micloud_detail_pending">ожидание…</string>
     <string name="micloud_detail_success">синхронизировано</string>
     <string name="micloud_detail_fail">ошибка</string>
@@ -337,7 +305,6 @@ ID Вашего устройства будет зашифрован и отпр
     <string name="share_success">Отправка завершена</string>
     <string name="share_cancel">Отправка отменена</string>
     <string name="share_failed">Ошибка отправки</string>
-<<<<<<< HEAD
     <string name="cloud_back_up_title">Бэкап приложений</string>
     <string name="settings_backup_title">Бэкап системных настроек</string>
     <string name="cloud_back_up_open_info_no_backuptime">Создание бэкапа приложений каждые %1$s, когда устройство подключено к сети Wi-Fi</string>
@@ -346,25 +313,12 @@ ID Вашего устройства будет зашифрован и отпр
     <string name="cloud_back_up_interval_long">7 дней</string>
     <string name="cloud_back_up_interval_short">24 часа</string>
     <string name="cloud_back_up_close_info">Нажмите для резервного копирования</string>
-=======
-    <string name="cloud_back_up_title">Бэкап рабочего стола</string>
-    <string name="settings_backup_title">Бэкап системных настроек</string>
-    <string name="cloud_back_up_open_info_no_backuptime">Создание бэкапа рабочего стола каждые %1$s, когда устройство подключено к сети Wi-Fi.</string>
-    <string name="cloud_back_up_open_info">"Создание бэкапа рабочего стола каждые %1$s, когда устройство подключено к сети Wi-Fi.
-Последний бэкап: %2$s"</string>
-    <string name="cloud_back_up_interval_long">7 дней</string>
-    <string name="cloud_back_up_interval_short">60 минут</string>
-    <string name="cloud_back_up_close_info">Бэкап данных рабочего стола</string>
->>>>>>> origin/master
     <string name="cloud_backup_dialog_title">Бэкап в Mi Cloud</string>
     <string name="cloud_back_up_dialog_content">Остановить создание бэкапа?</string>
     <string name="cloud_back_up_button_ok">ОК</string>
     <string name="cloud_back_up_network_unavailable">Ошибка удаления. Проверьте параметры сети.</string>
     <string name="cloud_back_up_remove_success">Бэкап удален</string>
-<<<<<<< HEAD
     <string name="cloud_back_up_date_format">HH:mm d MMMM yyyy</string>
-=======
->>>>>>> origin/master
     <string name="micloud_storage">Память</string>
     <string name="micloud_member">Премиум</string>
     <string name="micloud_buy_member">Добавить место</string>
@@ -376,7 +330,6 @@ ID Вашего устройства будет зашифрован и отпр
     <string name="micloud_sync_alert_dialog_message">Синхронизируйте фото, контакты, заметки и другие данные между устройствами.</string>
     <string name="micloud_sync_alert_dialog_negative">Отмена</string>
     <string name="micloud_sync_alert_dialog_positive">ОК</string>
-<<<<<<< HEAD
     <string name="micloud_intro_01_part_01">Экономия на SMS</string>
     <string name="micloud_intro_01_part_02">MIUI позволяет отправлять бесплатные облачные сообщения</string>
     <string name="micloud_intro_02_part_01">Не нужно ничего делать</string>
@@ -387,14 +340,6 @@ ID Вашего устройства будет зашифрован и отпр
     <string name="app_sync_off">Синхр. приложений отключена</string>
     <string name="cloud_sync_setting_summary_standard">Обычный: синхронизировать фото, видео, сообщения, данные приложений и фото контактов по Wi-Fi, а остальные данные при мобильном интернете</string>
     <string name="cloud_sync_setting_summary_wlan">Wi-Fi: синхронизировать все данные только при Wi-Fi подключении</string>
-=======
-    <string name="sync_setting">Настройки синхронизации</string>
-    <string name="sync_standard">Обычный</string>
-    <string name="only_in_wlan">Только по Wi-Fi</string>
-    <string name="cloud_sync_setting_summary_standard">Обычный: синхронизировать фото, видео, сообщения, данные приложений и фото контактов по Wi-Fi, а остальные данные при мобильном интернете</string>
-    <string name="cloud_sync_setting_summary_wlan">Wi-Fi: синхронизировать все данные только при Wi-Fi подключении</string>
-    <string name="app_sync_off">Синхр. приложений отключена</string>
->>>>>>> origin/master
     <string name="current">текущий</string>
     <string name="data_syncing">Всегда синхр.</string>
     <string name="detail">Сведения</string>
@@ -404,16 +349,11 @@ ID Вашего устройства будет зашифрован и отпр
     <string name="internet_disconnected">Нет подключения к сети</string>
     <string name="less_flow_mode">Режим синхронизации</string>
     <string name="normal">Обычный</string>
-<<<<<<< HEAD
     <string name="only_in_wlan">Только по Wi-Fi</string>
     <string name="space">Память</string>
     <string name="sync">Синхр.</string>
     <string name="sync_setting">Настройки синхронизации</string>
     <string name="sync_standard">Обычный</string>
-=======
-    <string name="space">Память</string>
-    <string name="sync">Синхр.</string>
->>>>>>> origin/master
     <string name="system_sync_off">Системная синхр. отключена</string>
     <string name="wifi">Wi-Fi</string>
     <string name="wifi_disconnected">Нет подключения Wi-Fi</string>
@@ -421,10 +361,7 @@ ID Вашего устройства будет зашифрован и отпр
     <string name="finish">Готово</string>
     <string name="micloud">Mi Cloud</string>
     <string name="micloud_main_space_risk">Данные для синхронизации %d. Обновите место в облаке.</string>
-<<<<<<< HEAD
     <string name="voip_dspt">VoIP</string>
-=======
->>>>>>> origin/master
     <string name="close_cloud_app_backup_cancel">Отмена</string>
     <string name="close_cloud_app_backup_close">Закрыть</string>
     <string name="close_cloud_app_backup_local_backup">Создать бэкап</string>
@@ -435,11 +372,4 @@ ID Вашего устройства будет зашифрован и отпр
     <string name="cloud_app_back_up_quit_notification_content1">Функция бэкапа приложений будет удалена 1 мая 2015 года. Сохраните данные сторонних приложений с помощью локального бэкапа.</string>
     <string name="cloud_app_back_up_quit_notification_content2">Синхронизация контактов, сообщений, фото и других данных будет работать по-прежнему.</string>
     <string name="cloud_app_back_up_quit_notification_content3">Бэкап приложений</string>
-    <string name="voip_dspt">VoIP</string>
-    <string name="micloud_intro_01_part_01">Экономия на SMS</string>
-    <string name="micloud_intro_01_part_02">MIUI позволяет отправлять бесплатные облачные сообщения</string>
-    <string name="micloud_intro_02_part_01">Не нужно ничего делать</string>
-    <string name="micloud_intro_02_part_02">Облачные сервисы синхронизируют контакты, сообщения, фото и другие данные</string>
-    <string name="micloud_intro_03_part_01">Данные в Mi Cloud</string>
-    <string name="micloud_intro_03_part_02">Управление данными, блокировка и очистка на i.mi.com</string>
 </resources>
