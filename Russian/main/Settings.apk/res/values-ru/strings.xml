@@ -2333,7 +2333,7 @@
     <string name="notification_breathing_light_freq_title">Частота мерцания для уведомлений</string>
     <string name="mms_breathing_light_freq_title">Частота мигания</string>
     <string name="breathing_light_freq_summary">Интервал мигания светодиода</string>
-    <string name="led_settings">Индикатор событий</string>
+    <string name="led_settings">Светодиод</string>
     <string name="led_colors_summary">Цвет уведомлений</string>
     <string name="led_frequence_summary">Интервал между миганиями</string>
     <string name="led_pulse_summary">Уведомлять светодиодом о новых событиях</string>
@@ -2864,7 +2864,7 @@
     <string name="local_auto_backup_on">Вкл.</string>
     <string name="local_auto_backup_off">Выкл.</string>
     <string name="other_personal_settings">Еще</string>
-    <string name="other_advanced_settings">Другие настройки</string>
+    <string name="other_advanced_settings">Дополнительно</string>
     <string name="recent_location_requests_title">Запросы местоположения</string>
     <string name="recent_location_requests_summary">Приложения запрашивающие данные о Вашем местоположении</string>
     <string name="background_location_requests_title">Местоположение в фоновом режиме</string>
@@ -3533,7 +3533,7 @@
     <string name="mem_use_total">Итого</string>
     <string name="mem_use_zram_type">ZRam swap</string>
     <string name="miui_allow_alarm">Сигналы будильника</string>
-    <string name="miui_allow_light">Индикатор событий</string>
+    <string name="miui_allow_light">Светодиод</string>
     <string name="miui_allow_music">Медиа</string>
     <string name="miui_allow_vibrate">Вибрацию</string>
     <string name="miui_disturb_title">Выберите режим</string>
