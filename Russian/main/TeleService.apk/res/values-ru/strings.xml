@@ -1013,4 +1013,5 @@ SIM карта будет очищена при неудачной попытк�
 "</string>
     <string name="wild_prompt_str">Заменить символ</string>
     <string name="voip_setting">Настройки VoIP</string>
+    <string name="overseas_roaming_setting">Международный роуминг</string>
 </resources>

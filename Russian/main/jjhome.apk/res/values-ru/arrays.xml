@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="filter_app_from_launcher">
+        <item></item>
+    </string-array>
+    <string-array name="family_album_menu_join_item_arrays">
+        <item>Загрузить</item>
+        <item>Кто в альбоме</item>
+        <item>Пригласить семью</item>
+        <item>Добавить другой альбом</item>
+        <item>Отмена</item>
+    </string-array>
+    <string-array name="family_album_menu_exit_item_arrays">
+        <item>Загрузить</item>
+        <item>Кто в альбоме</item>
+        <item>Пригласить семью</item>
+        <item>Выход в другой альбом</item>
+        <item>Отмена</item>
+    </string-array>
+    <string-array name="photo_manager_menu_item_arrays">
+        <item>Загрузить</item>
+        <item>Удалить</item>
+        <item>Отмена</item>
+    </string-array>
+    <string-array name="weather_week_days_chinese_title">
+        <item>Воскресенье</item>
+        <item>Понедельник</item>
+        <item>Вторник</item>
+        <item>Среда</item>
+        <item>Четверг</item>
+        <item>Пятница</item>
+        <item>Суббота</item>
+    </string-array>
+</resources>

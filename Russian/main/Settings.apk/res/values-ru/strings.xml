@@ -3001,7 +3001,7 @@
     <string name="page_layout_page2_godzilla_summary">Описание пункта</string>
     <string name="smartcover_sensitive_title">Режим \"Smartcover\"</string>
     <string name="oldman_mode_entry_title">Режим для пожилых</string>
-    <string name="oldman_mode_entry_name">Настройки режима для пожилых</string>
+    <string name="oldman_mode_entry_name">Режим для пожилых</string>
     <string name="oldman_mode_settings_caption">Настройки режима для пожилых</string>
     <string name="oldman_mode_enabled_name">Режим для пожилых</string>
     <string name="oldman_mode_summary">Включение или отключение режима для пожилых требует перезагрузки</string>
