@@ -297,4 +297,9 @@
     <string name="allow_to_use_traffic_title">Предупреждение</string>
     <string name="use_traffic_toast">Не удается подключиться к интернету</string>
     <string name="impunity_declaration_negative_text">Выход</string>
+
+    <string name="nav_local_song">Локальные</string>
+    <string name="nav_local_all">Все</string>
+    <string name="nav_local_favorite">Избранные</string>
+    <string name="nav_local_artist">Избранные исполнители</string>
 </resources>

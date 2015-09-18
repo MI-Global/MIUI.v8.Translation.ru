@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="is_setting_wallpaper_message">Установка обоев…</string>
     <string name="wallpaper_scrolling">все</string>
     <string name="application_name">Рабочий стол MIUI</string>
     <string name="folder_name">Папка</string>
