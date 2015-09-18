@@ -2430,7 +2430,7 @@
     <string name="bluetooth_device_searchable">Включить обнаружение</string>
     <string name="usb_charging_title">Только зарядка</string>
     <string name="usb_charging_summary">Отключает обмен данными с компьютером и использует USB-порт только для зарядки батареи</string>
-    <string name="usb_msd_title">Подключение USB</string>
+    <string name="usb_msd_title">USB-накопитель</string>
     <string name="usb_msd_summary">Передача файлов на Windows и Mac</string>
     <string name="usb_msd_driver_installer_title">Установка драйверов (MSD)</string>
     <string name="usb_msd_driver_installer_summary">Вы можете установить драйвера для ОС Windows и MAC здесь</string>
@@ -3080,7 +3080,7 @@
     <string name="deny_sms_title">Запрет SMS</string>
     <string name="deny_sms_message">Запретить приложениям отправлять SMS</string>
     <string name="experience_optimization_category">Оптимизация</string>
-    <string name="advanced_text_layout">Дополнительные настройки текста</string>
+    <string name="advanced_text_layout">Раширенное форматирование текста</string>
     <string name="pref_edge_handgrip">Край корпуса</string>
     <string name="sim_pin_enabled">PIN1 включен!</string>
     <string name="sim_pin_disabled">PIN1 отключен!</string>
