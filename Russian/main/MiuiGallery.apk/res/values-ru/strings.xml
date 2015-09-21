@@ -454,7 +454,7 @@
     <string name="unpublishing">Закрытие доступа…</string>
     <string name="operation_too_often">Выполняется слишком много действий. Попробуйте позже.</string>
     <string name="cannot_remove_creator">Невозможно удалить отправителя</string>
-    <string name="exit">ОК</string>
+    <string name="exit">Выход</string>
     <string name="album_share_exit_confirm">Выйти из альбома?</string>
     <string name="get_album_info_in_process">Загрузка информации облачного альбома…</string>
     <string name="album_share_stat_content">Приглашения</string>
@@ -565,7 +565,7 @@
     <string name="paint_brush">Кисть</string>
     <string name="script">Скрипт</string>
     <string name="mosaic">Мозаика</string>
-    <string name="impunity_declaration_title">Разрешить приложению доступ к интернету?</string>
+    <string name="impunity_declaration_title">Разрешить доступ в интернет?</string>
     <string name="impunity_declaration">При использовании облачных альбомов требуется доступ к интернету</string>
     <string name="impunity_declaration_ignore">Запомнить</string>
     <string name="impunity_declaration_positive_text">Продолжить</string>
