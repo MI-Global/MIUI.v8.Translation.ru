@@ -5,15 +5,19 @@
         <item quantity="one">Заметок: 1</item>
     </plurals>
     <plurals name="search_results_title">
-        <item quantity="other">Поиск \"%2$s\" (найдено: %1$s)</item>
-        <item quantity="one">Поиск \"%2$s\" (найдено: %1$s)</item>
+        <item quantity="other">%1$s найдено \"%2$s\"</item>
+        <item quantity="one">%1$s найдено \"%2$s\"</item>
     </plurals>
     <plurals name="note_terms">
-        <item quantity="other">%1$s</item>
-        <item quantity="one">%1$s</item>
+        <item quantity="other">Заметок: %1$s</item>
+        <item quantity="one">Заметок: %1$s</item>
     </plurals>
     <plurals name="folder_terms">
-        <item quantity="other">%1$s</item>
-        <item quantity="one">%1$s</item>
+        <item quantity="other">Папок: %1$s</item>
+        <item quantity="one">Папок: %1$s</item>
+    </plurals>
+    <plurals name="cloud_state_unsynced_count">
+        <item quantity="other">Не синхронизировано: %1$s</item>
+        <item quantity="one">Не синхронизировано: %1$s</item>
     </plurals>
 </resources>

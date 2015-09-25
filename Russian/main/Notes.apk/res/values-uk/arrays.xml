@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="contact_entries">
+        <item>"Ім'я"</item>
+        <item>Нік</item>
+        <item>Телефон</item>
+        <item>Email</item>
+        <item>Організація</item>
+        <item>IM</item>
+        <item>SIP телефон</item>
+        <item>День народження</item>
+        <item>Сайт</item>
+        <item>Адреса</item>
+        <item>Нотатка</item>
+    </string-array>
+    <string-array name="font_size_names">
+        <item>Дрібний</item>
+        <item>Середній</item>
+        <item>Великий</item>
+        <item>Величезний</item>
+    </string-array>
+    <string-array name="welcome_notes_content">
+        <item>"Тепер ви можете з легкістю записувати нотатки
+"</item>
+        <item>"Прикріплювати фото й контакти
+"</item>
+        <item>"Позначити виконані завдання
+"</item>
+        <item>"А також користуватися іншими функціями
+  - Синхронізувати нотатки з Mi Cloud
+  - Встановлювати нагадування
+
+Щоб довідатися більше, відвідаєте сайт:
+http://www.miui.com/forum.php?lang=1
+"</item>
+    </string-array>
+</resources>
