@@ -443,4 +443,9 @@
     <string name="no_enough_space">Недостаточно памяти</string>
     <string name="ui_bar_txt_download_progress">Файлов осталось: %1$d</string>
     <string name="ui_bar_txt_upload_progress">Загрузка</string>
+    <string name="data_consumption_title">Доступ в интернет</string>
+    <string name="data_consumption_message">Для работы этого приложения требуется доступ в интернет по WiFi.</string>
+    <string name="data_consumption_checkbox_hint">Больше не спрашивать</string>
+    <string name="data_consumption_confirm">OK</string>
+    <string name="data_consumption_cancel">Выход</string>
 </resources>
