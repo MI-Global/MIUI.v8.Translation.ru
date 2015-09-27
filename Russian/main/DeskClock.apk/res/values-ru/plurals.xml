@@ -60,4 +60,8 @@
         <item quantity="other">%d мин.</item>
         <item quantity="one">1 мин.</item>
     </plurals>
+    <plurals name="alarm_alert_snooze_set">
+        <item quantity="other">Отложен на %d мин.</item>
+        <item quantity="one">Отложен на %d минуту</item>
+    </plurals>
 </resources>

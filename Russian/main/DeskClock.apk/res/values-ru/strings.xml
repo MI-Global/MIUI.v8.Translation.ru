@@ -82,7 +82,7 @@
     <string name="time">Время</string>
     <string name="alarm_alert_alert_silenced">Будильник звонил %d мин. назад</string>
     <string name="timer_alert_alert_silenced">Таймер выключен %d мин. назад</string>
-    <string name="alarm_alert_snooze_set">Повтор через %d мин.</string>
+    <string name="alarm_alert_snooze_set">Отложен на %d мин.</string>
     <string name="day">1 день</string>
     <string name="days">%s д.</string>
     <string name="hour">1 час</string>

@@ -248,7 +248,7 @@
     <string name="theme_no">Отмена</string>
     <string name="title_component">Компоненты</string>
     <string name="theme_multiple_button_title_customize">Компоненты</string>
-    <string name="title_system_resource">Системные</string>
+    <string name="title_system_resource">Загруженные</string>
     <string name="long_ringtone_resource">Длинные</string>
     <string name="short_ringtone_resource">Короткие</string>
     <string name="all_ringtone_resource">Все</string>
@@ -343,4 +343,7 @@
     <string name="resource_tip_select_ringtone">Мелодия не выбрана</string>
     <string name="theme_batch_has_update_text">Доступно обновлений: %1$d</string>
     <string name="resource_unable_to_access">Содержимое, которое вы ищите, недоступно в вашей стране.</string>
+    <string name="present_local_themes">Загруженные</string>
+    <string name="present_online_themes">Онлайн</string>
+    <string name="choose_new_themes">Темы</string>
 </resources>

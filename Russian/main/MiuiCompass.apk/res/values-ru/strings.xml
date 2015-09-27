@@ -47,4 +47,6 @@
     <string name="using_camera_confirm_ok">ОК</string>
     <string name="using_camera_confirm_cancel">Отмена</string>
     <string name="shake_enter_tip">Встряхните для калибровки</string>
+    <string name="first_using_dialog_title">Разрешить доступ?</string>
+    <string name="first_using_dialog_message">Для работы требуется разрешить доступ к сетевому подключению, камере и GPS.</string>
 </resources>
