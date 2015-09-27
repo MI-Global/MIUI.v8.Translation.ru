@@ -189,9 +189,9 @@
         <item>GID</item>
     </string-array>
     <string-array name="app_install_location_entries">
-        <item>Внутренняя память</item>
-        <item>SD карта</item>
-        <item>Автоматически</item>
+        <item>Внутренняя память ( /data )</item>
+        <item>Встроенное хранилище ( /sdcard )</item>
+        <item>На усмотрение системы</item>
     </string-array>
     <string-array name="app_ops_categories">
         <item>Местоположение</item>
@@ -474,11 +474,7 @@
     <string-array name="led_color_entries">
         <item>Синий</item>
         <item>Красный</item>
-        <item>Желтый</item>
         <item>Зеленый</item>
-        <item>Голубой</item>
-        <item>Белый</item>
-        <item>Фиолетовый</item>
     </string-array>
     <string-array name="mi1_led_color_entries">
         <item>Синий</item>
@@ -699,6 +695,16 @@
         <item>По выходным</item>
         <item>Выбрать дни</item>
     </string-array>
+    <string-array name="primary_storage_entries">
+        <item>1-Встроенный раздел, 2-SD карта</item>
+        <item>1-SD карта, 2-Встроенный раздел</item>
+        <item>Только встроенный раздел</item>
+        <item>Только SD карта</item>
+    </string-array>
+    <string-array name="screen_resolution_entries">
+        <item>Ультравысокое (2K)</item>
+        <item>Обычное (720P)</item>
+    </string-array>
     <string-array name="miracast_policies">
         <item>Производительность</item>
         <item>Баланс</item>
@@ -741,9 +747,5 @@
         <item>Буфер: макс. 1 МБ</item>
         <item>Буфер: макс. 4 МБ</item>
         <item>Буфер: макс. 16 МБ</item>
-    </string-array>
-    <string-array name="screen_resolution_entries">
-        <item>Ультравысокое (2K)</item>
-        <item>Обычное (720P)</item>
     </string-array>
 </resources>

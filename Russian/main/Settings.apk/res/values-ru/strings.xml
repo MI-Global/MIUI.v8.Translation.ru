@@ -1243,7 +1243,7 @@
     <string name="force_stop_dlg_text">Принудительное закрытие приложения может отразиться на его функциональности</string>
     <string name="move_app_failed_dlg_title" />
     <string name="move_app_failed_dlg_text">Не удалось переместить приложение %1$s</string>
-    <string name="app_install_location_title">Место установки</string>
+    <string name="app_install_location_title">Место установки приложений</string>
     <string name="app_install_location_summary">Изменить папку для установки приложений</string>
     <string name="app_disable_dlg_title">Отключить приложение?</string>
     <string name="app_disable_dlg_text">Отключение встроенной службы может нарушить работу других приложений</string>
@@ -1430,8 +1430,8 @@
     <string name="accessibility_screen_magnification_summary">"Эта функция позволяет увеличивать и уменьшать изображение, трижды нажав на экран.
 
 При увеличенном масштабе можно:
-"<ul><li>"панорамировать – проведите пальцами по экрану;
-"<li>изменять масштаб – сведите или разведите пальцы.</li></li></ul>"
+"<ul> <li>"панорамировать – проведите пальцами по экрану;
+"<li>изменять масштаб – сведите или разведите пальцы.</li> </li> </ul>"
 
 Чтобы временно увеличить изображение под пальцем, трижды нажмите на экран и удерживайте его. Проведя пальцем, вы можете посмотреть на другие области экрана. Чтобы вернуть экран в прежнее состояние, уберите палец.
 
@@ -1934,8 +1934,8 @@
     <string name="data_usage_restrict_background_multiuser">"Если ограничить передачу данных в фоновом режиме, некоторые приложения и службы не будут работать без подключения к сети Wi-Fi.
 
 Эта установка распространяется на всех пользователей этого телефона."</string>
-    <string name="data_usage_sweep_warning"><font size="21">^1</font> <font size="9">^2</font> <font size="12">опасность</font></string>
-    <string name="data_usage_sweep_limit"><font size="21">^1</font> <font size="9">^2</font> <font size="12">лимит</font></string>
+    <string name="data_usage_sweep_warning">" "<font size="21">^1</font> <font size="9">^2</font> <font size="12">опасность</font>" "</string>
+    <string name="data_usage_sweep_limit">" "<font size="21">^1</font> <font size="9">^2</font> <font size="12">лимит</font>" "</string>
     <string name="data_usage_uninstalled_apps">Удаленные приложения</string>
     <string name="data_usage_uninstalled_apps_users">Удаленные приложения и пользователи</string>
     <string name="data_usage_received_sent">Получено: %1$s; отправлено: %2$s</string>
@@ -3082,8 +3082,19 @@
     <string name="experience_optimization_category">Оптимизация</string>
     <string name="advanced_text_layout">Раширенное форматирование текста</string>
     <string name="pref_edge_handgrip">Край корпуса</string>
+    <string name="charging_sounds">Звук подключения зарядки</string>
+    <string name="volume_sounds">Звук при изменении громкости</string>
+    <string name="crt_animation">Эффект выключения ЭЛТ</string>
+    <string name="crt_summary">Анимация выключения старого телевизора</string>
+    <string name="engineermode">Инженерное меню MTK</string>
+    <string name="smartwake_summary">Включение жестами по экрану</string>
+    <string name="primary_storage_title">Выбор основного раздела</string>
     <string name="sim_pin_enabled">PIN1 включен!</string>
     <string name="sim_pin_disabled">PIN1 отключен!</string>
+    <string name="screen_resolution_confirm">OK</string>
+    <string name="screen_resolution_summary">Это снизит качество картинки экрана и в некоторой степени улучшит энергопотребление и плавность устройства. Требуется перезагрузка.</string>
+    <string name="screen_resolution_switch">Смена разрешения экрана</string>
+    <string name="screen_resolution_title">Разрешение экрана</string>
     <string name="bugreport_tool_log">Отправить отчет</string>
     <string name="bugreport_tool_log_toast">Лог сохранен в %s</string>
     <string name="bugreport_tool_log_toast_generate_bugreport">Создание отчета об ошибке</string>
@@ -3856,10 +3867,6 @@
     <string name="fluency_mode_enabled_name">Оптимизация системы</string>
     <string name="fluency_mode_summary">Отключить анимацию системы и уменьшить использование памяти</string>
     <string name="search_fluency_mode">Оптимизация системы</string>
-    <string name="screen_resolution_title">Разрешение экрана</string>
-    <string name="screen_resolution_switch">Смена разрешения экрана</string>
-    <string name="screen_resolution_summary">Это снизит качество картинки экрана и в некоторой степени улучшит энергопотребление и плавность устройства. Требуется перезагрузка.</string>
-    <string name="screen_resolution_confirm">OK</string>
     <string name="account_contact_backup_info">Данные аккаунтов и контакты</string>
     <string name="account_login">Войти в систему</string>
     <string name="account_summary">настройки аккаунта</string>
