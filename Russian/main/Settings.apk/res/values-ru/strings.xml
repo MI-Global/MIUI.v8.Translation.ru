@@ -4117,4 +4117,5 @@
     <string name="dndm_alarm_content_call">Только звонки</string>
     <string name="dndm_alarm_content_sms">Только сообщения</string>
     <string name="dndm_alarm_content_not_all">Выключены</string>
+    <string name="wifi_click_share_wlan">Нажмите, чтобы поделиться паролем</string>
 </resources>
