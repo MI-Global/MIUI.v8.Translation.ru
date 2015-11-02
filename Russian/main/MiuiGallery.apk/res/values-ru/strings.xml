@@ -192,7 +192,6 @@
     <string name="tab_lockscreen_text">Экран блокировки</string>
     <string name="tab_wallpaper_text">Рабочий стол</string>
     <string name="tab_all_text">На все</string>
-    <string name="camera_path">/DCIM/Camera</string>
     <string name="open_single_image_failure">Не удалось загрузить изображение</string>
     <string name="damaged_file">Файл поврежден</string>
     <string name="must_pick_file">Выберите изображение</string>
