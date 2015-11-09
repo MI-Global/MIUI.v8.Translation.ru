@@ -242,4 +242,7 @@
     <string name="zone_time_offset_ahead_only_hour">%d ч. больше</string>
     <string name="zone_time_offset_behind">%1$d ч. %2$d мин. меньше</string>
     <string name="zone_time_offset_behind_only_hour">%d ч. меньше</string>
+    <string name="turn_off_a_repeat_alarm">Выключить повторяющийся будильник</string>
+    <string name="skip_alarm_once_hint">Выключить разово %s</string>
+    <string name="turn_off_this_repeat_alarm">Выключить во все дни</string>
 </resources>
