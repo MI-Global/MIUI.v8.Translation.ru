@@ -245,4 +245,6 @@
     <string name="turn_off_a_repeat_alarm">Выключить повторяющийся будильник</string>
     <string name="skip_alarm_once_hint">Выключить разово %s</string>
     <string name="turn_off_this_repeat_alarm">Выключить во все дни</string>
+    <string name="today">Сегодня</string>
+    <string name="tomorrow">Завтра</string>
 </resources>
