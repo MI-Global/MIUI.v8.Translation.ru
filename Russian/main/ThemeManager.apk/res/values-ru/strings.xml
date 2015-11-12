@@ -346,4 +346,15 @@
     <string name="present_local_themes">Загруженные</string>
     <string name="present_online_themes">Онлайн</string>
     <string name="choose_new_themes">Темы</string>
+    <string name="theme_apply_success">Локскрин применён</string>
+    <string name="theme_apply_failured">"Невозможно применить обои локскрина"</string>
+    <string name="theme_applying">Применяем…</string>
+    <string name="theme_provision_loading_tips">Ещё немного…</string>
+    <string name="theme_provision_title">Выбор темы</string>
+    <string name="theme_provision_default_theme_title">По умолчанию</string>
+    <string name="theme_provision_oper_button_next">Далее</string>
+    <string name="theme_precast_create_notification_title">Апргейд до MIUI 7</string>
+    <string name="theme_precast_create_notification_content">Нажмите для просмотра новыйх тем.</string>
+    <string name="theme_precast_update_notification_title">Темы MIUI 7 обновлены</string>
+    <string name="theme_precast_update_notification_content">Нажмите для просмотра обновлений.</string>    
 </resources>
