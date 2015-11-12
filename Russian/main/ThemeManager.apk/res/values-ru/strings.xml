@@ -354,7 +354,7 @@
     <string name="theme_provision_default_theme_title">По умолчанию</string>
     <string name="theme_provision_oper_button_next">Далее</string>
     <string name="theme_precast_create_notification_title">Апргейд до MIUI 7</string>
-    <string name="theme_precast_create_notification_content">Нажмите для просмотра новыйх тем.</string>
+    <string name="theme_precast_create_notification_content">Нажмите для просмотра новых тем.</string>
     <string name="theme_precast_update_notification_title">Темы MIUI 7 обновлены</string>
     <string name="theme_precast_update_notification_content">Нажмите для просмотра обновлений.</string>    
 </resources>
