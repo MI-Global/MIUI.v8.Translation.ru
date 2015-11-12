@@ -50,4 +50,6 @@
     <string name="congratulation_next">Готово</string>
     <string name="logo_congratulation">Настройка завершена</string>
     <string name="terms_of_service">Условия пользования</string>
+    <string name="next_fingerprint">Далее</string>
+    <string name="skip_underline"><u>Пропустить этот шаг</u></string>
 </resources>
