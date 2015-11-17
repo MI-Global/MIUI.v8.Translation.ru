@@ -2386,7 +2386,7 @@
     <string name="erase_sure">Подтверждение удаления</string>
     <string name="erase_personal_data">Персональные данные</string>
     <string name="erase_personal_data_description">В том числе учетных записей, контактов, звонков и другие данные</string>
-    <string name="erase_optional">Опциональная очистка</string>
+    <string name="erase_optional">Выборочное удаление</string>
     <string name="erase_application">Удалить приложения</string>
     <string name="erase_application_description">Удалить установленные приложения</string>
     <string name="erase_data">Очистить</string>
@@ -4099,10 +4099,6 @@
     <string name="shut_down_find_device_network_failure_title">Не удается подключиться к сети</string>
     <string name="shut_down_find_device_network_failure_content">Не удалось отключить поиск устройства. Убедитесь, что вы подключены к интернету.</string>
     <string name="factory_reset_summary">Очистить все данные из внутренней памяти устройства</string>
-    <string name="erase_sure">Удалить</string>
-    <string name="erase_personal_data">Личные данные</string>
-    <string name="erase_personal_data_description">Удалить все данные, включая аккаунты, контакты, журналы вызовов.</string>
-    <string name="erase_optional">Выборочное удаление</string>
     <string name="wakeup_for_keyguard_notification_title">Включать экран блокировки для уведомлений</string>
     <string name="apply_password_to_category_title">Запрашивать пароль</string>
     <string name="turn_on_security_lock">Добавить пароль</string>
