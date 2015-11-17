@@ -4098,7 +4098,6 @@
     <string name="failed_to_shut_down_find_device_content">Не удалось отключить поиск устройства. Подождите немного и повторите попытку.</string>
     <string name="shut_down_find_device_network_failure_title">Не удается подключиться к сети</string>
     <string name="shut_down_find_device_network_failure_content">Не удалось отключить поиск устройства. Убедитесь, что вы подключены к интернету.</string>
-    <string name="factory_reset_summary">Очистить все данные из внутренней памяти устройства</string>
     <string name="wakeup_for_keyguard_notification_title">Включать экран блокировки для уведомлений</string>
     <string name="apply_password_to_category_title">Запрашивать пароль</string>
     <string name="turn_on_security_lock">Добавить пароль</string>
