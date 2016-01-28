@@ -243,4 +243,14 @@
     <string name="pref_summary_open_optimizer_memory_scan">Автоматически очищать память</string>
     <string name="toast_select_white_need_remove">Выберите элементы для очистки</string>
     <string name="msg_cleanup_db_update_checking">Проверка обновлений…</string>
+	<string name="virus_scan">Антивирус</string>
+	<string name="tips_of_virus_scan">Проверяйте Ваше устройство на вирусы регулярно</string>
+	<string name="go_to">Перейти</string>
+	<string name="clear_safe_notify">Сервис в панели уведомлений</string>
+    <string name="nb_clear_set">Очистка, заряд аккумулятора и информация о черном списке в панели уведомлений</string>
+    <string name="seton_immediately">Включить</string>
+	<string name="close">Скрыть</string>
+	<string name="flow_rank_title">Использование трафика</string>
+	<string name="title_of_auto_launch_manage">Автозапуск</string>
+    <string name="tips_of_auto_launch_manage">Исключить автозапуск редко используемых приложений</string>
 </resources>

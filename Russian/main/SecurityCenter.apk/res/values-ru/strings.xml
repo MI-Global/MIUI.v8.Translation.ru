@@ -792,4 +792,6 @@
     <string name="title_delete_cache">Очистить кэш?</string>
     <string name="title_delete_large_file">Удалить выбранные файлы?</string>
     <string name="toast_resolve_apk_error">Устранить ошибку apk</string>
+	<string name="menu_text_power_percent_title">Аккумулятор %s</string>
+	<string name="activity_title_network_speed_detail">Подключения</string>
 </resources>

@@ -448,4 +448,14 @@
     <string name="data_consumption_checkbox_hint">Больше не спрашивать</string>
     <string name="data_consumption_confirm">OK</string>
     <string name="data_consumption_cancel">Выход</string>
+	<string name="private_toast_hint1">Нажмите, чтобы скрыть файлы</string>
+    <string name="private_toast_hint2">Чтобы скрыть файл, выберите файл и нажите «Скрыть»</string>
+    <string name="private_toast_hint3">Потяните вниз для открытия скрытых файлов</string>
+	<string name="encrypt_success_first_five">Добавлено в скрытые файлы. Для доступа к скрытым файлам потяните вниз на главной странице приложения.</string>
+    <string name="add_private">Добавить файлы</string>
+    <string name="private_folder_no_file_hints">Нет скрытых файлов</string>
+    <string name="private_folder_update">Обновление скрытых файлов</string>
+    <string name="make_private_msg_1">Скрыть этот файл?</string>
+    <string name="make_private_msg_2">Скрыть эти файлы?</string>
+    <string name="make_private_msg_3">Все файлы в этой папке будут скрыты.</string>
 </resources>

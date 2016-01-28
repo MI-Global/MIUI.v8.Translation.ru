@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Отключение приложений</string>
+    <string name="action_settings">Настройки</string>
+    <string name="btn_text_freeze">Убить</string>
+    <string name="btn_text_unfreeze">Вернуть</string>
+    <string name="tab_sysapp_title">Системные</string>
+    <string name="tab_usrapp_title">Пользовательские</string>
+    <string name="app_loading_text">Загрузка приложений......</string>
+</resources>
