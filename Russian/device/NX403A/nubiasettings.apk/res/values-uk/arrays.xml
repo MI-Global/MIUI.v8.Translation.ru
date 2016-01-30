@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="camera_entries">
+        <item>камера MIUI</item>
+        <item>камера Nubia</item>
+    </string-array>
+    <string-array name="camera_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="сетка рабочего стола">
+        <item>4x5</item>
+        <item>4x6</item>
+        <item>4x4</item>
+        <item>5x5</item>
+    </string-array>
+</resources>
