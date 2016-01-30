@@ -372,4 +372,6 @@ ID Вашего устройства будет зашифрован и отпр
     <string name="cloud_app_back_up_quit_notification_content1">Функция бэкапа приложений будет удалена 1 мая 2015 года. Сохраните данные сторонних приложений с помощью локального бэкапа.</string>
     <string name="cloud_app_back_up_quit_notification_content2">Синхронизация контактов, сообщений, фото и других данных будет работать по-прежнему.</string>
     <string name="cloud_app_back_up_quit_notification_content3">Бэкап приложений</string>
+	<string name="micloud_notif_title_master_depend_wifi">"Невозможно синхронизировать с Mi Cloud"</string>
+    <string name="micloud_notif_content_master_depend_wifi">Необходимо подключение к Wi-Fi.</string>
 </resources>

@@ -217,4 +217,7 @@
     <string name="storage_sd_card">SD-карта</string>
     <string name="storage_usb">USB-накопитель</string>
     <string name="revert_default">Сброс настроек</string>
+	<string name="jump_rank_hint">"Просмотреть сегодняшние загрузки >"</string>
+	<string name="rank">Рейтинг</string>
+	<string name="enter_search">Поиск</string>
 </resources>

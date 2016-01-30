@@ -459,4 +459,5 @@
     <string name="make_private_msg_2">Скрыть эти файлы?</string>
     <string name="make_private_msg_3">Все файлы в этой папке будут скрыты.</string>
 	<string name="move_icon_to_desktop_hint">Создайте ярлык для проводника на рабочем столе для более эффективного управления файлами</string>
+	<string name="move_to_confirm">Создать</string>
 </resources>

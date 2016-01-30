@@ -80,4 +80,6 @@
     <string name="unknown_caller">Неизвестный номер</string>
     <string name="handy_mode_title">Режим \"Одной руки\"</string>
     <string name="handy_mode_summary">Что бы закрыть, нажмите пустое место на экране</string>
+	<string name="fc_dialog_body">Отправить отчет об ошибке разработчикам? Отчет может содержать конфиденциальную информацию.</string>
+    <string name="fc_dialog_jump_to_preview">Показать содержание</string>
 </resources>
