@@ -586,4 +586,6 @@ SMS (%1$d), MMS (%2$d)."</string>
     <string name="mx_warning_notice">Будет отправлено SMS для активации облачных сообщений</string>
     <string name="my_bookmark">Избранные</string>
     <string name="set_smsc_address_title_miui">Установить номер SMS центра</string>
+	<string name="networking_allow_title">Предупреждение</string>
+    <string name="networking_allow_desc">"С помощью \\Желтых страниц\\ вы сможете управлять неизвестными номерами, спамом и т.д. Перед использованием сервиса требуется принять %1$s и %2$s."</string>
 </resources>

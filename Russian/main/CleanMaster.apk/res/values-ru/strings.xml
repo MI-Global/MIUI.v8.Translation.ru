@@ -253,4 +253,9 @@
 	<string name="flow_rank_title">Использование трафика</string>
 	<string name="title_of_auto_launch_manage">Автозапуск</string>
     <string name="tips_of_auto_launch_manage">Исключить автозапуск редко используемых приложений</string>
+	<string name="clear_bigfiles">Удаление больших файлов, похожих фото и других ненужных файлов</string>
+    <string name="clear_immediately">Очистить</string>
+	<string name="title_of_traffic_notification">Уведомления трафика</string>
+    <string name="tips_of_traffic_notification">Следите за статистикой использования мобильного трафика в панели уведомлений</string>
+	<string name="total_clean">Всего очищенно: %s</string>
 </resources>

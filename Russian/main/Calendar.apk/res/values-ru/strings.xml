@@ -393,4 +393,10 @@
     <string name="year_picker_description">Список</string>
     <string name="action_label">Вернуться</string>
     <string name="birthday_notification_text_three_days_later_with_activity">Скоро день рождения</string>
+	<string name="user_notification">Уведомление пользователя</string>
+	<string name="user_notification_descrip">Показать уведомления пользователя каждый раз, когда вы открываете Календарь</string>
+	<string name="user_notice_title">Уведомление пользователя</string>
+	<string name="user_notice_message">"Используя этот продукт, вы соглашаетесь с %1$s и %2$s Xiaomi. Некоторые функции для корректной работы требуют подключения к Интернету, доступ к местоположению и контактам."</string>
+	<string name="user_notice_declaration_ignore">"Не показывать снова"</string>
+	<string name="user_notice_button_exit">Выход</string>
 </resources>

@@ -236,4 +236,53 @@
     <string name="xiaomi_account_type">com.xiaomi</string>
     <string name="xiaomi_router">Mi Router</string>
     <string name="xiaomi_router_location">Mi Router %s</string>
+	<string name="trans_receiver">"Я получатель"</string>
+	<string name="trans_sender">"Я отправитель"</string>
+	<string name="trans_one_key_migrate">Перенос данных</string>
+    <string name="trans_main_tutor">Перенос контактов, журнала вызовов, сообщений, настроек рабочего стола, приложений, настроек системы на новое устройство</string>
+    <string name="trans_waiting_for_sender">Ожидание подключения…</string>
+    <string name="trans_waiting_ensurance">"Убедитесь, что старое устройство включено
+и выполняется перенос данных"</string>
+    <string name="trans_my_device">Моё устройство</string>
+    <string name="trans_sender_searching">Поиск нового устройства</string>
+    <string name="trans_sender_searching_ensurance">"Убедитесь, что старое устройство включено.
+Ожидание подключения…"</string>
+    <string name="trans_select_device_send">Выберите устройство для отправки данных.</string>
+    <string name="trans_sender_connectting">Подтвердите на новом устройстве</string>
+    <string name="trans_select_device_receive">Выберите устройство для получения данных.</string>
+    <string name="trans_backingup">Создание копии…</string>
+    <string name="trans_backingup_no_items">Синхронизация…</string>
+    <string name="trans_restoring">Восстановление…</string>
+    <string name="trans_time_remained">, осталось</string>
+    <string name="trans_restoring_no_items">Синхронизация…</string>
+    <string name="trans_detail_category_sysdata">Системные данные</string>
+    <string name="trans_detail_category_userdata">Приложения</string>
+    <string name="trans_detail_category_account">Аккаунты и контакты</string>
+    <string name="trans_detail_category_files">Файлы</string>
+    <string name="trans_sending_completed">Данные отправлены</string>
+    <string name="trans_receiving_completed">Данные получены</string>
+    <string name="trans_time_format_second">меньше минуты</string>
+    <string name="trans_progress_subdescript_transing_sender">Отправка %s</string>
+    <string name="trans_progress_subdescript_transing_receiver">Получение %s</string>
+    <string name="trans_progress_subdescript_transingsd_sender">Отправка файлов…</string>
+    <string name="trans_progress_subdescript_transingsd_receiver">Получение файлов…</string>
+    <string name="trans_progress_subdescript_br_sender">Создание %s</string>
+    <string name="trans_progress_subdescript_br_receiver">Получение %s</string>
+    <string name="trans_progress_subdescript_waiting">Ожидание %s</string>
+    <string name="trans_cancel_confirm">Отменить перенос данных?</string>
+    <string name="trans_cancelling">Отмена…</string>
+    <string name="trans_device_disconnected">Устройство отключено</string>
+    <string name="trans_connecting_toast">Подключение…</string>
+    <string name="trans_connect_failed_toast">Не удалось подключиться</string>
+    <string name="trans_generate_qr_code_failed">"Couldn't create QR code"</string>
+    <string name="trans_scan_invalid_qrcode">Неверный QR-код</string>
+    <string name="trans_scan_qr_code_tips">Отсканируйте QR-код на новом устройстве</string>
+    <string name="trans_show_qr_code_tips">Отсканируйте QR-код на старом устройстве</string>
+    <string name="trans_operate_new_phone_tips">"Откройте приложение
+«Перенос данных» на новом
+устройстве и нажмите «Получить»"</string>
+    <string name="trans_operate_old_phone_tips1">"Откройте приложение
+«Перенос данных» на старом
+устройстве и нажмите «Отправить»"</string>
+    <string name="trans_operate_old_phone_tips2" />
 </resources>
