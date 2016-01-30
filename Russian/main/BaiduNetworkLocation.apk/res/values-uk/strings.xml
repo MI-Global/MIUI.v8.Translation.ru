@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NetworkLocation</string>
+    <string name="app_label">Мережа Місцезнаходження</string>
+    <string name="location_warning_title">згоду Розташування</string>
+    <string name="location_warning_title_first">згоду Розташування</string>
+    <string name="location_warning_title_close">згоду Розташування</string>
+    <string name="location_warning_message">"Коли функція НЛП (мережа Розташування провайдерів) відкритий, ви дозволите служба Baidu НЛП збирати анонімні дані розташування. Деякі дані можуть бути зашифровані і зберігаються на вашому пристрої. Шифрування і збір може статися, навіть коли немає програми не запущені. Ви будете платити за трафік даних. Дані шифруються і буде використана для отримання інформації про місцезнаходження і підвищення ефективності та точності. Ми обіцяємо, що дані, зібрані не надаватиме іншим особам або використовувати для інших . Цілі крім надавати послуги Дані повинні бути зібрані включає наступне:
+- ID, сила сигналу з мережі WLAN обстежитися з периферії;
+- ID, сила сигналу обстежитися з периферичної базової станції (GSM для);
+- ID, сила сигналу обстежитися з периферичної базової станції (для CDMA)"</string>
+    <string name="location_close_warning_message">Послуги Закрита NetworkLocation викличе будь-яка програма не може місце.</string>
+    <string name="location_first_warning_message">Для того, щоб принести Вам кращий користувальницький досвід, система відкриє послуга мережі розташування.</string>
+    <string name="location_warning_title_1">згоду Розташування</string>
+    <string name="location_warning_title_first_1">згоду Розташування</string>
+    <string name="location_warning_title_close_1">згоду Розташування</string>
+    <string name="location_warning_message_1">Дозволити розташування служби Baidu, щоб зібрати анонімні дані розташування. Деякі дані можуть зберігатися на вашому пристрої, і збір може статися, навіть якщо немає програми не запущені. Можуть застосовуватися Застосовувані плата за використання даних у ході цього процесу.</string>
+    <string name="always_wifi_scan_tip_tittle">Завжди дозволяти сканування</string>
+    <string name="always_wifi_scan_tip_content">Дозволити мережевий пункт технічного обслуговування та програм для сканування мереж WLAN, навіть якщо WLAN вимкнений</string>
+    <string name="agree">Погодьтеся</string>
+    <string name="disagree">Не згоден</string>
+    <string name="close_agree">Так</string>
+    <string name="close_disagree">Ні</string>
+</resources>
