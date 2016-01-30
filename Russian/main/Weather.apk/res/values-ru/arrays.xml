@@ -40,7 +40,20 @@
         <item>Морозный дождь</item>
         <item>Нет данных</item>
     </string-array>
-    <string-array name="weather_indexes_uv_level">
+	<string-array name="indices_uv_level">
+        <item>Низкий</item>
+        <item>Умеренный</item>
+        <item>Высокий</item>
+    </string-array>
+    <string-array name="indices_sport">
+        <item>Подходящие</item>
+        <item>Не советуется</item>
+    </string-array>
+    <string-array name="indices_car_wash">
+        <item>Подходящие</item>
+        <item>Не советуется</item>
+    </string-array>
+	<string-array name="weather_indexes_uv_level">
         <item>Низкий</item>
         <item>Средний</item>
         <item>Умеренный</item>
@@ -56,5 +69,20 @@
         <item>Ветер ЮЗ↗</item>
         <item>Ветер З→</item>
         <item>Ветер СЗ↘</item>
+    </string-array>
+	<string-array name="wind_power">
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
     </string-array>
 </resources>
