@@ -37,13 +37,13 @@
         <item>Сильный</item>
     </string-array>
     <string-array name="wind_direction">
-        <item>С ветер</item>
-        <item>СВ ветер</item>
-        <item>В ветер</item>
-        <item>ЮВ ветер</item>
-        <item>Ю ветер</item>
-        <item>ЮЗ ветер</item>
-        <item>З ветер</item>
-        <item>СЗ ветер</item>
+        <item>Ветер С↓</item>
+        <item>Ветер СВ↙</item>
+        <item>Ветер В←</item>
+        <item>Ветер ЮВ↖</item>
+        <item>Ветер Ю↑</item>
+        <item>Ветер ЮЗ↗</item>
+        <item>Ветер З→</item>
+        <item>Ветер СЗ↘</item>
     </string-array>
 </resources>

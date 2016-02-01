@@ -490,7 +490,7 @@
     <string name="mail_header_message_body_auto_download_tip">Сообщения будут загружаться по сети Wi-Fi</string>
     <string name="mail_header_message_body_download_failed">Время ожидания истекло</string>
     <string name="mail_header_network_not_available">Интернет недоступен</string>
-    <string name="mailbox_list_account_selector_combined_view">Комбинированный режим</string>
+    <string name="mailbox_list_account_selector_combined_view">Все аккаунты</string>
     <string name="mailbox_name_display_drafts">Черновики</string>
     <string name="mailbox_name_display_inbox">Входящие</string>
     <string name="mailbox_name_display_junk">Спам</string>
@@ -887,4 +887,13 @@
     <string name="xiaomi_update_dialog_message_diff">"Доступная версия: %1$s 
 Размер Delta обновления: %2$s"</string>
     <string name="xiaomi_update_dialog_title">%1$s обновлено</string>
+	<string name="toast_bar_no_connection_network">Нет подключения к сети. Нажмите для настройки.</string>
+	<string name="toast_bar_fail_synchronization">Ошибка подключения к сети, повторите попытку позже</string>
+    <string name="toast_bar_insufficient_memory_space">Ошибка синхронизации почты, недостаточно места для хранения</string>
+    <string name="toast_bar_invalid_account">Время авторизации истекло. Пожалуйста, войдите снова</string>
+    <string name="toast_bar_open_gmail_synchronization">Не ограничивайтесь использованием только Gmail</string>
+	<string name="attachment_list_search_hint">Поиск вложений</string>
+	<string name="account_setup_options_mail_window_label_imap_or_pop3">Срок хранения</string>
+	<string name="folder_synchronization_mail_settings">Настройки синхронизации папок</string>
+	<string name="gmail_acceleration">Использовать прокси сервер для доступа к аккаунту Gmail</string>
 </resources>
