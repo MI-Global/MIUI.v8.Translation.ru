@@ -31,7 +31,17 @@
     <string-array name="cache_clean_menu">
         <item>Очистка</item>
         <item>Файл</item>
-        <item>Исключения</item>
+        <item>Добавить в исключения</item>
+    </string-array>
+    <string-array name="trash_clean_menu">
+        <item>Очистить</item>
+        <item>Файл</item>
+        <item>Добавить в исключения</item>
+    </string-array>
+    <string-array name="video_clean_menu">
+        <item>Удалить</item>
+        <item>Открыть</item>
+        <item>В исключения</item>
     </string-array>
     <string-array name="empty_floder_clean_menu">
         <item>Очистка</item>
@@ -39,7 +49,7 @@
     <string-array name="apk_clean_menu">
         <item>Очистка</item>
         <item>Файл</item>
-        <item>Исключения</item>
+        <item>Добавить в исключения</item>
         <item>Установить</item>
     </string-array>
     <string-array name="app_clean_menu">
@@ -47,5 +57,10 @@
         <item>Файл</item>
         <item>Бэкап и удаление</item>
         <item>Удалить</item>
+    </string-array>
+    <string-array name="auto_alert_apps_time">
+        <item>Каждые 7 дней</item>
+        <item>Каждые 15 дней</item>
+        <item>Каждые 30 дней</item>
     </string-array>
 </resources>
