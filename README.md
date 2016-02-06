@@ -1,2 +1,2 @@
-# MIUI.v6.Translation.ru
-Common Russian translation of MIUI6 for all devices
+# MIUI.v7.Translation.ru
+Common Russian translation of MIUI7 for all devices

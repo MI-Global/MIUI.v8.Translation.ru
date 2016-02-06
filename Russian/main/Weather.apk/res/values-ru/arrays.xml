@@ -1,29 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="hot_city">
-        <item>Beijing</item>
-        <item>Shanghai</item>
-        <item>Hong Kong</item>
-        <item>Taipei City</item>
-        <item>Jakarta</item>
-        <item>Delhi</item>
-        <item>Mumbai</item>
-        <item>Moscow</item>
-        <item>Hyderabad</item>
-        <item>Chennai</item>
-        <item>Istanbul</item>
-        <item>Rio de Janeiro</item>
-        <item>Singapore</item>
-        <item>Berlin</item>
-        <item>Rome</item>
-        <item>New York</item>
-        <item>Los Angeles</item>
-        <item>Chicago</item>
-        <item>Tokyo</item>
-        <item>Paris</item>
-        <item>Bangkok</item>
-        <item>Seoul</item>
-        <item>Kuala Lumpur</item>
+    <string-array name="moon_desc">
+        <item>Новолуние</item>
+        <item>Молодая луна</item>
+        <item>Первая четверть</item>
+        <item>Прибывающая луна</item>
+        <item>Полнолуние</item>
+        <item>Убывающая луна</item>
+        <item>Последняя четверть</item>
+        <item>Убывающий месяц</item>
+        <item>Старая луна</item>
     </string-array>
     <string-array name="weather_type">
         <item>Ясно</item>
@@ -44,37 +30,52 @@
         <item>Снегопад</item>
         <item>Легкий снег</item>
         <item>Небольшой снег</item>
-        <item>Песчаный шторм</item>
+        <item>Пыльный шторм</item>
         <item>Песчаная буря</item>
         <item>Умеренная пыль</item>
         <item>Ветрено</item>
         <item>Град</item>
         <item>Пыль</item>
-        <item>Пасмурно</item>
+        <item>Дымка</item>
         <item>Морозный дождь</item>
         <item>Нет данных</item>
     </string-array>
-    <string-array name="indices_uv_level">
+	<string-array name="indices_uv_level">
         <item>Низкий</item>
         <item>Умеренный</item>
-        <item>Опасный</item>
+        <item>Высокий</item>
     </string-array>
     <string-array name="indices_sport">
-        <item>Благоприятные</item>
-        <item>Неблагоприятные</item>
+        <item>Подходящие</item>
+        <item>Не советуется</item>
     </string-array>
     <string-array name="indices_car_wash">
-        <item>Благоприятные</item>
-        <item>Неблагоприятные</item>
+        <item>Подходящие</item>
+        <item>Не советуется</item>
     </string-array>
     <string-array name="wind_direction">
-        <item>Ветер С |</item>
-        <item>Ветер СВ |</item>
-        <item>Ветер В |</item>
-        <item>Ветер ЮВ |</item>
-        <item>Ветер Ю |</item>
-        <item>Ветер ЮВ |</item>
-        <item>Ветер З |</item>
-        <item>Ветер СЗ |</item>
+        <item>Ветер С</item>
+        <item>Ветер СВ</item>
+        <item>Ветер В</item>
+        <item>Ветер ЮВ</item>
+        <item>Ветер Ю</item>
+        <item>Ветер ЮЗ</item>
+        <item>Ветер З</item>
+        <item>Ветер СЗ</item>
+    </string-array>
+	<string-array name="wind_power">
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
     </string-array>
 </resources>
