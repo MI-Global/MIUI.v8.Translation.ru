@@ -633,7 +633,6 @@
     <string name="miprofile_request_agree">Принять</string>
     <string name="miprofile_request_clear_alertdialog_title">Предупреждение</string>
     <string name="miprofile_request_clear_alertdialog_message">Очистить историю обмена визитками?</string>
-    <string name="miprofile_request_exchange_title">Запросы визитки</string>
     <string name="miprofile_request_agenda_today">%1$s хочет обменяться визитками</string>
     <string name="miprofile_request_agenda_yesterday">%1$s хочет обменяться визитками</string>
     <string name="miprofile_request_agenda_date">%1$s хочет обменяться визитками</string>
