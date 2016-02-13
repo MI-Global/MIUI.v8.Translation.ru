@@ -276,6 +276,7 @@
     <string name="trans_connect_failed_toast">Не удалось подключиться</string>
     <string name="trans_generate_qr_code_failed">"Couldn't create QR code"</string>
     <string name="trans_scan_invalid_qrcode">Неверный QR-код</string>
+    <string name="trans_show_qr_code_label">Подключение старого устройства</string>
     <string name="trans_scan_qr_code_tips">Отсканируйте QR-код на новом устройстве</string>
     <string name="trans_show_qr_code_tips">Отсканируйте QR-код на старом устройстве</string>
     <string name="trans_operate_new_phone_tips">"Откройте приложение
