@@ -850,6 +850,7 @@
     <string name="system_update_settings_list_item_title">Обновление системы</string>
     <string name="system_update_settings_list_item_summary" />
     <string name="firmware_version">Версия Android</string>
+    <string name="security_patch">Патч уровня безопасности</string>
     <string name="model_number">Модель</string>
     <string name="fcc_equipment_id">ID оборудования</string>
     <string name="baseband_version">Модем</string>
