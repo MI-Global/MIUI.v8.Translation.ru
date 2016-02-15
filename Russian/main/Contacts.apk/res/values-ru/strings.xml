@@ -548,7 +548,7 @@
     <string name="yellowpage_search_the_yellowpage">Поиск сервиса</string>
     <string name="import_from_sim">Импорт с SIM карты</string>
     <string name="export_to_sim_title">Экспортирование…</string>
-    <string name="import_from_sim1">Импорт из SIM карты 1</string>
+    <string name="import_from_sim1">Импорт c SIM карты 1</string>
     <string name="import_from_sim2">Импорт с SIM карты 2</string>
     <string name="sim_no_contact">Нет контактов на SIM карте</string>
     <string name="sim_indexed_contact_not_exist">Позиция %1$d не является допустимой на SIM карте, должна быть между %2$d и %3$d</string>
@@ -931,6 +931,7 @@
     <string name="smart_group_frequency_4">Более 6 месяцев</string>
     <string name="contact_detail_calllog_call_record_tips">Запись вызова</string>
     <string name="contact_detail_calllog_call_note_tips">Заметка вызова</string>
+    <string name="import_from_onekey_migrate">Импорт переносом данных</string>
     <string name="import_from_other_phone">Импорт из другого телефона</string>
     <string name="device_brand_title">Выберите марку телефона</string>
     <string name="device_version_title">Выберите модель телефона</string>
