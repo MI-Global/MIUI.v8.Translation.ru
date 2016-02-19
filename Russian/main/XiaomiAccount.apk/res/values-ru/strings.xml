@@ -328,6 +328,7 @@
     <string name="account_bind_devices">Подключенные устройства</string>
     <string name="account_dspt_provision">Один аккаунт для всего Xiaomi</string>
     <string name="account_dspt_provision2">Узнать больше</string>
+    <string name="provision_skip_login"><u>Пропустить</u></string>
     <string name="login_title">Вход в Mi аккаунт</string>
     <string name="btn_return">Назад</string>
     <string name="re_register">Создать аккаунт</string>

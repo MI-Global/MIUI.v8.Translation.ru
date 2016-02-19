@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">NetworkLocation</string>
-    <string name="app_label">Сеть Местонахождение</string>
-     <string name="location_warning_title">согласие Расположение</string>
-     <string name="location_warning_title_first">согласие Расположение</string>
-     <string name="location_warning_title_close">согласие Расположение</string>
-     <string name="location_warning_message">"Когда функция НЛП (сеть Расположение провайдеров) открыт, вы позволите служба Baidu НЛП собирать анонимные данные местоположение. Некоторые данные могут быть зашифрованы и хранятся на вашем устройстве. Шифрование и сбор может произойти, даже когда нет приложения не запущены. Вы будете платить за трафик данных. Данные шифруются и будет использована для получения информации о местоположении и повышения эффективности и точности. Мы обещаем, что данные, собранные не будет предоставляться другим лицам или использовать для других . Цели кроме оказывать услуги Данные должны быть собраны включает следующее:
-- ID, сила сигнала из сети WLAN обследоваться с периферии;
-- ID, сила сигнала обследоваться из периферической базовой станции (GSM для);
--. ID, сила сигнала обследоваться из периферической базовой станции (для CDMA)"</string>
-     <string name="location_close_warning_message">Услуги Закрытая NetworkLocation вызовет каких-либо приложение не может место.</string>
-     <string name="location_first_warning_message">Для того, чтобы принести Вам лучший пользовательский опыт, система откроет услуга сети местоположения.</string>
-     <string name="location_warning_title_1">согласие Расположение</string>
-     <string name="location_warning_title_first_1">согласие Расположение</string>
-     <string name="location_warning_title_close_1">согласие Расположение</string>
-     <string name="location_warning_message_1">Разрешить расположение службы Baidu, чтобы собрать анонимные данные местоположение. Некоторые данные могут храниться на вашем устройстве, и сбор может произойти, даже если нет приложения не запущены. Могут применяться Применяемые плата за использование данных в ходе этого процесса.</string>
-     <string name="always_wifi_scan_tip_tittle">Всегда разрешать сканирования</string>
-     <string name="always_wifi_scan_tip_content">Разрешить сетевой пункт технического обслуживания и приложений для сканирования сетей WLAN, даже если WLAN выключен</string>
-     <string name="agree">Согласитесь</string>
+    <string name="app_label">Местоположение по сети</string>
+     <string name="location_warning_title">Разрешить геолокацию</string>
+     <string name="location_warning_title_first">Разрешить геолокацию</string>
+     <string name="location_warning_title_close">Разрешить геолокацию</string>
+     <string name="location_warning_message">"Когда функция НЛП (Местоположение по сети) включена, вы позволите службе Baidu собирать анонимные данные о местоположении. Передаваемые данные будут зашифрованы. Шифрование и сбор проводятся, даже когда приложения не запущены. Вы будете оплачивать трафик. Данные шифруются и будут использованы для получения информации о местоположении и повышения эффективности и точности. Мы обещаем, что собранные данные не будут предоставляться другим лицам или использоваться для других целей. Будут собираться следующие данные:
+- ID, сила сигнала сети WLAN;
+- ID, сила сигнала базовой станции (GSM);
+- ID, сила сигнала базовой станции (CDMA)"</string>
+     <string name="location_close_warning_message">Закрыв NetworkLocation приведет к невозможности определить Ваше местоположение для некоторых приложений.</string>
+     <string name="location_first_warning_message">Для того, что бы улучшить работу Вашего устройства, система автоматически откроет службы сетевого местоположения.</string>
+     <string name="location_warning_title_1">Разрешить геолокацию</string>
+     <string name="location_warning_title_first_1">Разрешить геолокацию</string>
+     <string name="location_warning_title_close_1">Разрешить геолокацию</string>
+     <string name="location_warning_message_1">Когда функция НЛП (Местоположение по сети) включена, вы позволите службе Baidu собирать анонимные данные о местоположении. Передаваемые данные будут зашифрованы. Шифрование и сбор проводятся, даже когда приложения не запущены. Вы будете оплачивать трафик.</string>
+     <string name="always_wifi_scan_tip_tittle">Всегда разрешить сканирование</string>
+     <string name="always_wifi_scan_tip_content">Разрешить сетевому позиционированию и приложениям сканировать сети Wi-Fi, даже когда Wi-Fi выключена.</string>
+     <string name="agree">Согласен</string>
      <string name="disagree">Не согласен</string>
      <string name="close_agree">Да</string>
      <string name="close_disagree">Нет</string>
