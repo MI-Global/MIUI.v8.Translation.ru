@@ -132,4 +132,5 @@
 	<string name="timer_message">Таймер на %1$d мин. и %2$d сек.</string>
     <string name="timer_message_with_hour">Таймер на %1$d ч. и %2$d мин.</string>
     <string name="timer_message_with_seconds">%1$d сек.</string>
+	<string name="auto_silence_summary">Будильник выключится через %d мин.</string>
 </resources>
