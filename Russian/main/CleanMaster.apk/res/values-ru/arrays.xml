@@ -38,6 +38,11 @@
         <item>Файл</item>
         <item>Добавить в исключения</item>
     </string-array>
+	<string-array name="video_clean_menu">
+        <item>Удалить</item>
+        <item>Открыть</item>
+        <item>В исключения</item>
+    </string-array>
     <string-array name="empty_floder_clean_menu">
         <item>Очистка</item>
     </string-array>
