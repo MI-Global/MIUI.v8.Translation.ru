@@ -397,4 +397,6 @@
     <string name="hints_video_camera">Видео камеры</string>
     <string name="summary_delete_video">Удалить выбранные видео навсегда?</string>
     <string name="empty_title_video">Пусто</string>
+	<string name="opened">Включено</string>
+    <string name="pref_summary_auto_deepclean_and_alert">Уведомлять, когда свободной памяти осталось менее 1 Гб</string>
 </resources>
