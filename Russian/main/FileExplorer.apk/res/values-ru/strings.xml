@@ -255,7 +255,7 @@
     <string name="operating">Обработка…</string>
     <string name="trans_task">Загрузка в KuaiPan</string>
     <string name="des_running_trans">Файлов осталось: %1$d.</string>
-    <string name="forward_to_web_recycle_prompt"><a href=\"%1$s\">Нажмите сюда</a>для очистки корзины</string>
+    <string name="forward_to_web_recycle_prompt">&lt;a href=\"%1$s\">Нажмите сюда&lt;/a>для очистки корзины</string>
     <string name="storage_internal">Internal storage</string>
     <string name="storage_sd_card">SD card</string>
     <string name="storage_usb">Внешний накопитель</string>
@@ -398,7 +398,7 @@
     <string name="operation_del_fav">Удаление из избранного…</string>
     <string name="operation_add_fav">Добавление в избранное…</string>
     <string name="port_range">Порт должен быть в пределах 1024–65535</string>
-    <string name="file_name_invalid">Имя файла не должно содержать следующие символы: /\:*?<></string>
+    <string name="file_name_invalid">Имя файла не должно содержать следующие символы: /\\:*?&lt;></string>
     <string name="rename_alert">После изменения разрешения файла его нельзя будет открыть</string>
     <string name="search_file_type_picture">Фото</string>
     <string name="search_file_type_video">Видео</string>
@@ -669,4 +669,19 @@
     <string name="ad_downloading">Загрузка…</string>
     <string name="installing">Установка…</string>
     <string name="need_read_storage_permission">"Проводник требует разрешение на доступ к памяти устройства\"</string>
+	<string name="category_log">Журналы</string>
+    <string name="category_mirouter">Mi-Роутер</string>
+    <string name="colon">": "</string>
+	<string name="trans_task_delete_confirm_message">"Удалить выбранные загрузки? 
+
+Загрузок:%1$d"</string>
+    <string name="image_download">Загрузить</string>
+    <string name="image_share">Отправить</string>
+    <string name="init">Запуск…</string>
+	    <string name="local_cache_size">Размер локального кэша: %s</string>
+    <string name="name_illegal">Введите имя</string>
+    <string name="query_bind_state">Запрос состояния…</string>
+    <string name="tab_networkdisk">KuaiPan</string>
+    <string name="tab_phone">Устройство</string>
+    <string name="tab_sys_size">Общая память</string>
 </resources>
