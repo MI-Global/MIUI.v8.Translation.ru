@@ -1335,4 +1335,27 @@
     <string name="yellowpage_navigation_search_hint">Поиск</string>
     <string name="resource_select_ringtone_confirm_picker">Установить выбранную мелодию?</string>
     <string name="miprofile_request_exchange_title">Найти визитные карточки контактов</string>
+	<string name="menu_newContactButton">Создать</string>
+	<string name="miprofile_finding_label">Визитные карточки контактов</string>
+	<string name="miprofile_contact_header">Контакты с визитками</string>
+    <string name="miprofile_contact_add">Добавить</string>
+    <string name="miprofile_contact_added">Добавлено</string>
+    <string name="miprofile_contact_verifying">Провереный</string>
+    <string name="miprofile_contact_meaasge">Локальные контакты</string>
+	<string name="miprofile_find_profile_loading">Загрузка</string>
+    <string name="miprofile_find_profile_batch_add">Добавить все профили</string>
+    <string name="miprofile_find_profile_batch_finish">Готово</string>
+    <string name="miprofile_find_miprofile_title">Добавить профиль</string>
+    <string name="miprofile_find_profile_subtitle">Добавьте для просмотра фото и другой информации</string>
+    <string name="miprofile_find_profile_no_recommend">Нет рекомендаций</string>
+    <string name="miprofile_find_profile_batch_request_failed">Не удалось добавить профиль</string>
+	<string name="in_call_show_filter_processing">Обработка…</string>
+    <string name="in_call_show_filter_process_error">Не удалось обработать</string>
+    <string name="in_call_show_filter_none">Оригинал</string>
+    <string name="in_call_show_filter_mono">Моно</string>
+    <string name="in_call_show_filter_vivid">Ярко</string>
+    <string name="in_call_show_filter_brannan">Рассвет</string>
+    <string name="in_call_show_filter_jstyle">Япония</string>
+    <string name="in_call_show_filter_earlybird">Осень</string>
+    <string name="in_call_show_filter_nashvile">Индиго</string>
 </resources>
