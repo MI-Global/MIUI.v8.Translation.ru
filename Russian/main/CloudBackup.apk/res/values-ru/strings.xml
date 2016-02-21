@@ -71,4 +71,30 @@
     <string name="back_up_task_unfinished">Создание резервной копии не завершено</string>
     <string name="about_to_recover">Подождите…</string>
     <string name="recover_settings">Восстановить данные рабочего стола</string>
+	<string name="cloud_backup_detail_state">Резервная копия Mi Cloud</string>
+    <string name="cloud_backup_detail_state_summary">Приложения, настройки рабочего стола и системы</string>
+    <string name="cloud_backup_detail_frequence">Расписание копирования</string>
+    <string name="cloud_back_up_interval_long">Каждые 7 дней</string>
+    <string name="cloud_back_up_interval_short">Каждый день</string>
+    <string name="cloud_backup_detail_frequence_day">Резервное копирование: %1$s</string>
+    <string name="cloud_backup_detail_time">, время: %1$s</string>
+    <string name="cloud_backup_detail_manage">Управление копиями</string>
+    <string name="cloud_backup_detail_manage_summary">Копий: %1$s, размер: %2$s</string>
+    <string name="cloud_back_up_opening">Подождите…</string>
+    <string name="cloud_back_up_no_network_warn">Не удается подключится к Wi-Fi</string>
+    <string name="cloud_back_up_ok_btn">OK</string>
+    <string name="cloud_back_up_frequence_choice_title">Расписание копирования</string>
+    <string name="cloud_back_up_frequence_long">Каждые 7 дней</string>
+    <string name="cloud_back_up_frequence_short">Каждый день</string>
+    <string name="cloud_back_up_share_activity_title">Обновить Mi Аккаунт</string>
+    <string name="cloud_back_up_share_activity_discription">Получить больше места для хранения резервных копий.</string>
+    <string name="cloud_back_up_share_activity_confirm">Обновить</string>
+    <string name="cloud_back_up_detail_discription">"Элементы, которые будут сохранены в Mi Cloud, когда устройство подключено к Wi-Fi:
+*\u0009\u0009\u0009\u0009Приложения и настройки рабочего стола 
+*\u0009\u0009\u0009\u0009Мелодии, обои и шрифты 
+*\u0009\u0009\u0009\u0009Настройки часов и будильников 
+*\u0009\u0009\u0009\u0009Настройки уведомлений 
+*\u0009\u0009\u0009\u0009Настройки системы 
+Примечание: данные установленных Вами приложений не будут сохранены в Mi Cloud."</string>
+<string name="query_restore_back_view">Резервная копия Mi Cloud</string>
 </resources>
