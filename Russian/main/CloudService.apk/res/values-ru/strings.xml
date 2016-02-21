@@ -139,12 +139,12 @@ ID Вашего устройства будет зашифрован и отпр
     <string name="click_to_enabled">Нажмите для синхронизации</string>
     <string name="calendar_sync">Календарь</string>
     <string name="antispam_sync">Антиспам</string>
-    <string name="deskclock_backup">Бэкап часов</string>
+    <string name="deskclock_backup">Часы</string>
     <string name="wipe_data_dialog_msg_separator">, </string>
     <string name="micloud_space_duokan_title">Книги Duokan</string>
     <string name="micloud_space_duokan_detail">Управляйте контентом с помощью приложения Duokan</string>
-    <string name="micloud_space_applist_title">Бэкап рабочего стола</string>
-    <string name="micloud_space_applist_detail">Управляйте бэкапом рабочего стола на устройстве</string>
+    <string name="micloud_space_applist_title">Рабочий стол</string>
+    <string name="micloud_space_applist_detail">Расположение иконок приложений Вашего устройства на рабочем столе.</string>
     <string name="micloud_space_soundrecorder_title">Записи диктофона</string>
     <string name="micloud_space_soundrecorder_detail">Управляйте записями диктофона на устройстве</string>
     <string name="micloud_space_full_influence"><u>Подробнее</u></string>
@@ -305,19 +305,19 @@ ID Вашего устройства будет зашифрован и отпр
     <string name="share_success">Отправка завершена</string>
     <string name="share_cancel">Отправка отменена</string>
     <string name="share_failed">Ошибка отправки</string>
-    <string name="cloud_back_up_title">Бэкап приложений</string>
-    <string name="settings_backup_title">Бэкап системных настроек</string>
-    <string name="cloud_back_up_open_info_no_backuptime">Создание бэкапа приложений каждые %1$s, когда устройство подключено к сети Wi-Fi</string>
-    <string name="cloud_back_up_open_info">"Создание бэкапа приложений каждые %1$s, когда устройство подключено к сети Wi-Fi.
-Последний бэкап: %2$s."</string>
+    <string name="cloud_back_up_title">Рабочий стол</string>
+    <string name="settings_backup_title">Резервная копия настроек</string>
+    <string name="cloud_back_up_open_info_no_backuptime">Резервное копирование рабочего стола раз в %1$s при подключении к Wi-Fi.</string>
+    <string name="cloud_back_up_open_info">"Резервное копирование рабочего стола каждые %1$s при подключении к Wi-Fi.
+Последняя копия: %2$s"</string>
     <string name="cloud_back_up_interval_long">7 дней</string>
     <string name="cloud_back_up_interval_short">24 часа</string>
     <string name="cloud_back_up_close_info">Нажмите для резервного копирования</string>
-    <string name="cloud_backup_dialog_title">Бэкап в Mi Cloud</string>
-    <string name="cloud_back_up_dialog_content">Остановить создание бэкапа?</string>
+    <string name="cloud_backup_dialog_title">Резервное копирование с Mi Cloud</string>
+    <string name="cloud_back_up_dialog_content">Остановить резервное копирование?</string>
     <string name="cloud_back_up_button_ok">ОК</string>
     <string name="cloud_back_up_network_unavailable">Ошибка удаления. Проверьте параметры сети.</string>
-    <string name="cloud_back_up_remove_success">Бэкап удален</string>
+    <string name="cloud_back_up_remove_success">Резервная копия удалена</string>
     <string name="cloud_back_up_date_format">HH:mm d MMMM yyyy</string>
     <string name="micloud_storage">Память</string>
     <string name="micloud_member">Премиум</string>
@@ -364,14 +364,14 @@ ID Вашего устройства будет зашифрован и отпр
     <string name="voip_dspt">VoIP</string>
     <string name="close_cloud_app_backup_cancel">Отмена</string>
     <string name="close_cloud_app_backup_close">Закрыть</string>
-    <string name="close_cloud_app_backup_local_backup">Создать бэкап</string>
-    <string name="close_cloud_app_backup_message">Функция бэкапа приложений будет удалена 1 мая 2015 года</string>
+    <string name="close_cloud_app_backup_local_backup">Создать копию</string>
+    <string name="close_cloud_app_backup_message">Функция резервного копирования приложений будет удалена 1 мая 2015 года</string>
     <string name="close_cloud_app_backup_notification_message">Нажмите для просмотра</string>
     <string name="close_cloud_app_backup_notification_title">Mi Cloud</string>
     <string name="close_cloud_app_backup_title">Предупреждение</string>
-    <string name="cloud_app_back_up_quit_notification_content1">Функция бэкапа приложений будет удалена 1 мая 2015 года. Сохраните данные сторонних приложений с помощью локального бэкапа.</string>
+    <string name="cloud_app_back_up_quit_notification_content1">Функция резервного копирования приложений будет удалена 1 мая 2015 года. Сохраните данные сторонних приложений с помощью локального резервного копирования.</string>
     <string name="cloud_app_back_up_quit_notification_content2">Синхронизация контактов, сообщений, фото и других данных будет работать по-прежнему.</string>
-    <string name="cloud_app_back_up_quit_notification_content3">Бэкап приложений</string>
+    <string name="cloud_app_back_up_quit_notification_content3">Резервное копирование</string>
 	<string name="micloud_notif_title_master_depend_wifi">"Невозможно синхронизировать с Mi Cloud"</string>
     <string name="micloud_notif_content_master_depend_wifi">Необходимо подключение к Wi-Fi.</string>
 </resources>
