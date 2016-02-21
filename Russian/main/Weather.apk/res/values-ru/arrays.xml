@@ -1,15 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="moon_desc">
-        <item>Новолуние</item>
-        <item>Молодая луна</item>
-        <item>Первая четверть</item>
-        <item>Прибывающая луна</item>
-        <item>Полнолуние</item>
-        <item>Убывающая луна</item>
-        <item>Последняя четверть</item>
-        <item>Убывающий месяц</item>
-        <item>Старая луна</item>
+    <string-array name="hot_city">
+        <item>Пекин</item>
+        <item>Шанхай</item>
+        <item>Гонконг</item>
+        <item>Тайпей</item>
+        <item>Джакарта</item>
+        <item>Дели</item>
+        <item>Мумбаи</item>
+        <item>Москва</item>
+        <item>Хайдарабад</item>
+        <item>Ченнаи</item>
+        <item>Стамбул</item>
+        <item>Рио-де-Жанейро</item>
+        <item>Сингапур</item>
+        <item>Берлин</item>
+        <item>Рим</item>
+        <item>Нью-Йорк</item>
+        <item>Лос-Анджелес</item>
+        <item>Чикаго</item>
+        <item>Токио</item>
+        <item>Париж</item>
+        <item>Бангкок</item>
+        <item>Сеул</item>
+        <item>Куала-Лумпур</item>
     </string-array>
     <string-array name="weather_type">
         <item>Ясно</item>
@@ -40,10 +54,10 @@
         <item>Морозный дождь</item>
         <item>Нет данных</item>
     </string-array>
-	<string-array name="indices_uv_level">
+    <string-array name="indices_uv_level">
         <item>Низкий</item>
         <item>Умеренный</item>
-        <item>Высокий</item>
+        <item>Высокое</item>
     </string-array>
     <string-array name="indices_sport">
         <item>Подходящие</item>
@@ -54,16 +68,16 @@
         <item>Не советуется</item>
     </string-array>
     <string-array name="wind_direction">
-        <item>Ветер С</item>
-        <item>Ветер СВ</item>
-        <item>Ветер В</item>
-        <item>Ветер ЮВ</item>
-        <item>Ветер Ю</item>
-        <item>Ветер ЮЗ</item>
-        <item>Ветер З</item>
-        <item>Ветер СЗ</item>
+        <item>С</item>
+        <item>СВ</item>
+        <item>В</item>
+        <item>ЮВ</item>
+        <item>Ю</item>
+        <item>ЮЗ</item>
+        <item>З</item>
+        <item>СЗ</item>
     </string-array>
-	<string-array name="wind_power">
+    <string-array name="wind_power">
         <item>%s</item>
         <item>%s</item>
         <item>%s</item>
