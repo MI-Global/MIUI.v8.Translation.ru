@@ -49,20 +49,28 @@
         <item quantity="many">Выбрано: %1$d</item>
     </plurals>
     <plurals name="items_file">
-        <item quantity="other"> (файлов: %1$d)</item>
-        <item quantity="zero"> (файлов: %1$d)</item>
-        <item quantity="one"> (файлов: %1$d)</item>
-        <item quantity="two"> (файлов: %1$d)</item>
-        <item quantity="few"> (файлов: %1$d)</item>
-        <item quantity="many"> (файлов: %1$d)</item>
+        <item quantity="other">" (файлов: %1$d)"</item>
+        <item quantity="zero">" (файлов: %1$d)"</item>
+        <item quantity="one">" (файлов: %1$d)"</item>
+        <item quantity="two">" (файлов: %1$d)"</item>
+        <item quantity="few">" (файлов: %1$d)"</item>
+        <item quantity="many">" (файлов: %1$d)"</item>
     </plurals>
     <plurals name="items_picture">
-        <item quantity="other"> (файлов: %1$d)</item>
-        <item quantity="zero"> (файлов: %1$d)</item>
-        <item quantity="one"> (файлов: %1$d)</item>
-        <item quantity="two"> (файлов: %1$d)</item>
-        <item quantity="few"> (файлов: %1$d)</item>
-        <item quantity="many"> (файлов: %1$d)</item>
+        <item quantity="other">" (файлов: %1$d)"</item>
+        <item quantity="zero">" (файлов: %1$d)"</item>
+        <item quantity="one">" (файлов: %1$d)"</item>
+        <item quantity="two">" (файлов: %1$d)"</item>
+        <item quantity="few">" (файлов: %1$d)"</item>
+        <item quantity="many">" (файлов: %1$d)"</item>
+    </plurals>
+    <plurals name="file_count">
+        <item quantity="other"> Файлов: %1$d</item>
+        <item quantity="zero"> Файлов: %1$d</item>
+        <item quantity="one"> Файлов: %1$d</item>
+        <item quantity="two"> Файлов: %1$d</item>
+        <item quantity="few"> Файлов: %1$d</item>
+        <item quantity="many"> Файлов: %1$d</item>
     </plurals>
     <plurals name="search_head_hint_app">
         <item quantity="other">Поиск по запросу \"%1$s\" (элементов: %2$d)</item>
@@ -151,5 +159,29 @@
         <item quantity="two">Будет удалено %1$d кэшированных видео WeChat. Выполнить бэкап?</item>
         <item quantity="few">Будет удалено %1$d кэшированных видео WeChat. Выполнить бэкап?</item>
         <item quantity="many">Будет удалено %1$d кэшированных видео WeChat. Выполнить бэкап?</item>
+    </plurals>
+    <plurals name="file_notify_title_wechat_sticker">
+        <item quantity="other">%1$d новых стикеров WeChat сегодня</item>
+        <item quantity="zero">%1$d новых стикеров WeChat сегодня</item>
+        <item quantity="one">%1$d новый стикер WeChat сегодня</item>
+        <item quantity="two">%1$d новых стикера WeChat сегодня</item>
+        <item quantity="few">%1$d новых стикера WeChat сегодня</item>
+        <item quantity="many">%1$d новых стикеров WeChat сегодня</item>
+    </plurals>
+    <plurals name="file_notify_title_wechat_video_auto_backup">
+        <item quantity="other">Для %1$d видео WeChat создан бэкап</item>
+        <item quantity="zero">Для %1$d видео WeChat создан бэкап</item>
+        <item quantity="one">Для %1$d видео WeChat создан бэкап</item>
+        <item quantity="two">Для %1$d видео WeChat создан бэкап</item>
+        <item quantity="few">Для %1$d видео WeChat создан бэкап</item>
+        <item quantity="many">Для %1$d видео WeChat создан бэкап</item>
+    </plurals>
+    <plurals name="remote_video_update">
+        <item quantity="other">Найдено новых видео: %1$d</item>
+        <item quantity="zero">Найдено новых видео: %1$d</item>
+        <item quantity="one">Найдено новых видео: %1$d</item>
+        <item quantity="two">Найдено новых видео: %1$d</item>
+        <item quantity="few">Найдено новых видео: %1$d</item>
+        <item quantity="many">Найдено новых видео: %1$d</item>
     </plurals>
 </resources>
