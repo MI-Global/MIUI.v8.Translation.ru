@@ -207,9 +207,9 @@
     <string name="bluetooth_rename_device">Переименовать телефон</string>
     <string name="bluetooth_rename_button">Переименовать</string>
     <string name="bluetooth_disconnect_title">Отключиться?</string>
-    <string name="bluetooth_disconnect_all_profiles">Произойдет разъединение с устройством <br><b>%1$s</b></string>
+    <string name="bluetooth_disconnect_all_profiles">Произойдет разъединение с устройством &lt;br>&lt;b>%1$s&lt;/b></string>
     <string name="bluetooth_disable_profile_title">Отключить профиль?</string>
-    <string name="bluetooth_disable_profile_message">Профиль<br><b>%1$s</b><br><br>будет отключен от устройства<br><b>%2$s</b></string>
+    <string name="bluetooth_disable_profile_message">Профиль&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>будет отключен от устройства&lt;br>&lt;b>%2$s&lt;/b></string>
     <string name="bluetooth_connected">Подключено</string>
     <string name="bluetooth_connected_no_headset">Подключено (кроме HSP/HFP)</string>
     <string name="bluetooth_connected_no_a2dp">Подключено (кроме A2DP)</string>
@@ -488,9 +488,9 @@
     <string name="bluetooth_pin_values_hint">Обычно 0000 или 1234</string>
     <string name="bluetooth_enter_pin_other_device">Может потребоваться ввести PIN-код на другом устройстве</string>
     <string name="bluetooth_enter_passkey_other_device">Может потребоваться ввести ключ доступа на другом устройстве</string>
-    <string name="bluetooth_confirm_passkey_msg">Подключение к устройству: <br><b>%1$s</b><br><br>На нем должен отображаться код доступа:<br><b>%2$s</string>
-    <string name="bluetooth_incoming_pairing_msg">Запрос от: <br><b>%1$s</b><br><br>Подключиться к этому устройству?</string>
-    <string name="bluetooth_display_passkey_pin_msg">Подключение к устройству: <br><b>%1$s</b><br><br>Введите на нем код <br><b>%2$s</b>, а затем нажмите клавишу Return или Enter</string>
+    <string name="bluetooth_confirm_passkey_msg">Подключение к устройству: &lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>На нем должен отображаться код доступа:&lt;br>&lt;b>%2$s</string>
+    <string name="bluetooth_incoming_pairing_msg">Запрос от: &lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>Подключиться к этому устройству?</string>
+    <string name="bluetooth_display_passkey_pin_msg">Подключение к устройству: &lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>Введите на нем код &lt;br>&lt;b>%2$s&lt;/b>, а затем нажмите клавишу Return или Enter</string>
     <string name="bluetooth_pairing_accept">Сопряжение</string>
     <string name="bluetooth_pairing_decline">Отмена</string>
     <string name="bluetooth_error_title" />
@@ -1955,8 +1955,8 @@
     <string name="data_usage_restrict_background_multiuser">"Если ограничить передачу данных в фоновом режиме, некоторые приложения и службы не будут работать без подключения к сети Wi-Fi.
 
 Эта установка распространяется на всех пользователей этого телефона.\"</string>
-    <string name="data_usage_sweep_warning">" "<font size=\"21\">^1</font> <font size=\"9\">^2</font> <font size=\"12\">опасность</font>\" \"</string>
-    <string name="data_usage_sweep_limit">" "<font size=\"21\">^1</font> <font size=\"9\">^2</font> <font size=\"12\">лимит</font>\" \"</string>
+    <string name="data_usage_sweep_warning">" "<font size="21">^1</font> <font size="9">^2</font> <font size="12">опасность</font>" "</string>
+    <string name="data_usage_sweep_limit">" "<font size="21">^1</font> <font size="9">^2</font> <font size="12">лимит</font>" "</string>
     <string name="data_usage_uninstalled_apps">Удаленные приложения</string>
     <string name="data_usage_uninstalled_apps_users">Удаленные приложения и пользователи</string>
     <string name="data_usage_received_sent">Получено: %1$s; отправлено: %2$s</string>
@@ -2283,7 +2283,7 @@
     <string name="preferred_application_title">Заменить приложение по умолчанию?</string>
     <string name="preferred_application_warning_title">Замена приложения \"%s\"</string>
     <string name="preferred_application_warning_message">"Замена стандартного приложения \"%1$s\" может увеличить потребление энергии, снизить скорость работы устройства и подвергнуть систему риску. 
-Рекомендуется использовать стандартное приложение \"%2$s\".\"</string>
+Рекомендуется использовать стандартное приложение \"%2$s\"."</string>
     <string name="preferred_application_warning_replace">Заменить</string>
     <string name="preferred_application_warning_use_system">Отмена</string>
     <string name="preferred_sms_warning_message">При использовании приложения \"%1$s\" по умолчанию для сообщений может взиматься дополнительная оплата</string>
@@ -2386,9 +2386,9 @@
     <string name="button_light_timeout">Время подсветки</string>
     <string name="battery_light_title">Индикатор заряда батареи</string>
     <string name="sim_change_failed_enable_sim_lock">"Невозможно изменить PIN SIM-карты. 
- Включена блокировка SIM.\"</string>
+ Включена блокировка SIM."</string>
     <string name="sim_lock_change_not_supported">"Невозможно изменить блокировку SIM. 
- SIM не поддерживается.\"</string>
+ SIM не поддерживается."</string>
     <string name="apn_new">Создать</string>
     <string name="apn_save">Сохранить точку доступа?</string>
     <string name="apn_save_msg">Настройки точки доступа изменены. Сохранить их?</string>
@@ -2594,16 +2594,16 @@
     <string name="skip_step">Пропустить этот шаг</string>
     <string name="msd_help_title">Помощь</string>
     <string name="msd_help_summary">"Проблемы с доступом к мобильному устройству с помощью компьютера? 
-Пожалуйста, выберите операционную систему Вашего компьютера:\"</string>
+Пожалуйста, выберите операционную систему Вашего компьютера:"</string>
     <string name="msd_install_succeed">Драйвер установлен</string>
     <string name="msd_install_next">Далее</string>
     <string name="msd_install">Установить драйвер</string>
     <string name="msd_install_finish">ОК</string>
     <string name="msd_pc_system_install_summary_xp">1. Запустите setup.exe для установки</string>
     <string name="msd_pc_system_install_finish_summary_xp">"После установки этого драйвера,
-%1$s будет отображаться при подключении к ПК как USB-накопитель\"</string>
+%1$s будет отображаться при подключении к ПК как USB-накопитель"</string>
     <string name="msd_pc_system_install_finish_summary_vista">"Для версий Windows Vista и новее,
-музыкальный плеер %1$s будет автоматически отображаться на ПК\"</string>
+музыкальный плеер %1$s будет автоматически отображаться на ПК"</string>
     <string name="msd_install_retry">Если ПК не обнаружил устройство, попробуйте следующее:</string>
     <string name="msd_install_retry_connect">Переподключите USB кабель</string>
     <string name="msd_install_retry_reinstall">Переустановите драйвер</string>
@@ -2699,9 +2699,9 @@
     <string name="floating_window_switch_label">Всплывающие окна</string>
     <string name="floating_window_switch_label_disable">Скрывать всплывающие окна</string>
     <string name="app_floating_window_dlg_enable">"Включение всплывающих окон для %1$s приведет к его перезапуску. Вы можете также вручную остановить приложение.
-Уверены, что хотите включить?\"</string>
+Уверены, что хотите включить?"</string>
     <string name="app_floating_window_dlg_disable">"Выключение всплывающих окон приведет к принудительному закрытию %1$s. Вы можете вручную открыть приложение.
-Уверены, что хотите отключить?\"</string>
+Уверены, что хотите отключить?"</string>
     <string name="wps_category">Безопасное подключение</string>
     <string name="wps_connect_title">Подключить WPS</string>
     <string name="wps_connect_summary">Убедитесь, что беспроводной маршрутизатор поддерживает и включен WPS</string>
@@ -3089,8 +3089,8 @@
     <string name="location_agps_register_network_type">Тип доступа к сети</string>
     <string name="location_agps_register_network_type_summary">Выберите доступ к сети для включения AGPS</string>
     <string name="location_agps_register_network_type_dialog_title">Выберите сеть</string>
-    <string name="location_agps_roaming_help">При выборе пункта \"ВСЕ СЕТИ\" для включения AGPS может взиматься дополнительная плата в роуминге</string>
-    <string name="supl_not_set"><Не установлено></string>
+    <string name="location_agps_roaming_help">При выборе пункта "ВСЕ СЕТИ" для включения AGPS может взиматься дополнительная плата в роуминге</string>
+    <string name="supl_not_set">&lt;Не установлено></string>
     <string name="location_agps_def_supl_host">221.176.0.55</string>
     <string name="location_agps_def_supl_port">7275</string>
     <string name="location_agps_def_network_mode">HOME</string>
@@ -3174,15 +3174,15 @@
     <string name="keep_legacy_fingerprint">Сохранить</string>
     <string name="add_fingerprint_finished_button_text">ОК</string>
     <string name="add_fingerprint_instruction_dialog_msg">"Для добавления информации об отпечатке поместите свой палец на сканер.
-Убедитесь, что ваш палец полностью закрывает датчик.\"</string>
+Убедитесь, что ваш палец полностью закрывает датчик."</string>
     <string name="add_fingerprint_toast_text">Поместите свой палец на сканер</string>
     <string name="onekey_migrate">Передача</string>
     <string name="lock_settings_with_fingerprint">Экран блокировки и пароль</string>
     <string name="confirm_fingerprint_msg">Поместите палец на сканер отпечатков</string>
-    <string name="forget_password_button_text">" "<u>Забыли пароль</u>\" \"</string>
+    <string name="forget_password_button_text">" "<u>Забыли пароль</u>" "</string>
     <string name="print_enable">Включить службу печати</string>
     <string name="print_remind">Включите службу печати</string>
-    <string name="fp_nav_center_back_to_home_title">Нажмите клавишу \"Домой\" для возврата на главный экран</string>
+    <string name="fp_nav_center_back_to_home_title">Нажмите клавишу "Домой" для возврата на главный экран</string>
     <string name="convenience_key_category_title">Действие</string>
     <string name="powersave_mode_settings">Экономия батареи</string>
     <string name="powersave_mode_settings_summary">Настройки экономии батареи</string>
