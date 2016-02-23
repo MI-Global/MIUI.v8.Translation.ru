@@ -205,7 +205,7 @@
     <string name="ad_permission_hint">Использование блокировщика рекламы может повлиять на производительность приложений и ухудшить их работу</string>
     <string name="sms_delete_hint">Удалить все заблокированные сообщения от этого номера?</string>
     <string name="call_delete_hint">Удалить все заблокированные вызовы от этого номера?</string>
-    <string name="backsound_set_hint">Установить сигнал блокировки на \"%s\"?</string>
+    <string name="backsound_set_hint">Установить сигнал блокировки на "%s"?</string>
     <string name="report">Отчет</string>
     <string name="report_sms">Сообщения для отчетов</string>
     <string name="report_only">Выберите сообщение для отчета</string>

@@ -6,11 +6,11 @@
     <string name="delete_folder">Удалить выбранную папку?</string>
     <string name="delete_folders">"Удалить выбранные папки? 
 
-Папок: %1$d\"?</string>
+Папок: %1$d"?</string>
     <string name="delete_file">Удалить выбранный файл?</string>
     <string name="delete_files">"Удалить выбранные файлы? 
 
-Файлов: %1$d\"?</string>
+Файлов: %1$d"?</string>
     <string name="app_name">Проводник</string>
     <string name="confirm">ОК</string>
     <string name="menu_item_ftp">FTP</string>
@@ -70,7 +70,7 @@
     <string name="operation_create_folder_message">Имя папки</string>
     <string name="operation_delete_confirm_message">Удалить?</string>
     <string name="operation_delete_confirm_message_folder">"При удалении папки будут удалены все файлы внутри нее.
-\"</string>
+"</string>
     <string name="delete_dialog_button">Удалить</string>
     <string name="new_folder_name">Новая папка</string>
     <string name="sd_card_size">Всего: %1$s</string>
@@ -123,13 +123,13 @@
     <string name="ui_main_progress_txt_open_file">Загрузка…</string>
     <string name="networkView_notConnected">Нет доступных сетей</string>
     <string name="ui_main_toast_favorite_removed">Избранное удалено</string>
-    <string name="ui_main_toast_operation_failed">Не удается убрать из избранного \"%1$s\"</string>
+    <string name="ui_main_toast_operation_failed">Не удается убрать из избранного "%1$s"</string>
     <string name="user_guide">Руководство пользователя</string>
     <string name="user_guide_summary">Краткий обзор</string>
-    <string name="rename_failed">Не удалось переименовать \"%1$s\"</string>
+    <string name="rename_failed">Не удалось переименовать "%1$s"</string>
     <string name="directory_no_item">Пусто</string>
     <string name="error_open_file_failed_no_app_found">Нет приложения для открытия этого файла.</string>
-    <string name="directory_info_divider">"  |  \"</string>
+    <string name="directory_info_divider">"  |  "</string>
     <string name="no_enough_storage_title">Память заполнена</string>
     <string name="no_enough_storage_indication">Память устройства заполнена</string>
     <string name="ui_main_menu_option_task_manage">Загрузка файлов</string>
@@ -141,7 +141,7 @@
     <string name="pan_settting">Настройки Kuaipan</string>
     <string name="xiaomi_account">Mi аккаунт</string>
     <string name="space_usage">Информация о памяти</string>
-    <string name="used">"Занято: \"</string>
+    <string name="used">"Занято: "</string>
     <string name="loading">Загрузка…</string>
     <string name="load_err">Ошибка загрузки</string>
     <string name="net_lose_connected">Соединение потеряно.</string>
@@ -196,7 +196,7 @@
     <string name="kuaipan_prompt">KuaiPan</string>
     <string name="kuaipan_prompt_message">"
 Идет обслуживание сервиса, повторите попытку позже…
-\"</string>
+"</string>
     <string name="move_failed">Ошибка перемещения</string>
     <string name="copy_failed">Ошибка копирования</string>
     <string name="delete_failed">Ошибка удаления</string>
@@ -205,7 +205,7 @@
     <string name="sign_description">Авторизация…</string>
     <string name="signin_error">Ошибка авторизации. Отсутствует интернет соединение.</string>
     <string name="signin_success">"Вход завершен 
-Вы получили %1$s\"</string>
+Вы получили %1$s"</string>
     <string name="already_signin_description">Вход можно совершать раз в день. Попробуйте завтра :)</string>
     <string name="pull_to_signin">Потяните вниз, чтобы войти.</string>
     <string name="release_to_signin">Отпустите, чтобы войти</string>
@@ -236,7 +236,7 @@
     <string name="rename_description">Переименование…</string>
     <string name="share_link_failed">Ошибка создания внешней ссылки на папку</string>
     <string name="choose_send_type">Выбор метода отправки</string>
-    <string name="download_link_completed">Я поделился \"%1$s\" через KuaiPan. Просмотр:</string>
+    <string name="download_link_completed">Я поделился "%1$s" через KuaiPan. Просмотр:</string>
     <string name="transing">В процессе</string>
     <string name="finished">Complete</string>
     <string name="uploading">Загрузка</string>
@@ -255,7 +255,7 @@
     <string name="operating">Обработка…</string>
     <string name="trans_task">Загрузка в KuaiPan</string>
     <string name="des_running_trans">Файлов осталось: %1$d.</string>
-    <string name="forward_to_web_recycle_prompt">&lt;a href=\"%1$s\">Нажмите сюда&lt;/a>для очистки корзины</string>
+    <string name="forward_to_web_recycle_prompt">&lt;a href="%1$s">Нажмите сюда&lt;/a>для очистки корзины</string>
     <string name="storage_internal">Internal storage</string>
     <string name="storage_sd_card">SD card</string>
     <string name="storage_usb">Внешний накопитель</string>
@@ -278,22 +278,22 @@
     <string name="open_changed_file_title">Файл изменен</string>
     <string name="open_changed_file_message">"Файл, который вы пытаетесь открыть был изменен, вы можете:
 1. Скачать (обновить локальный файл)
-2. Загрузить (обновить файл в Mi Cloud)\"</string>
+2. Загрузить (обновить файл в Mi Cloud)"</string>
     <string name="ui_filechange_btn_upload">Загрузить файлы</string>
     <string name="folder_exist">Папка уже существует</string>
     <string name="folder_name_illegal">Недопустимое имя папки</string>
     <string name="folder_name_empty">Имя папки не может быть пустым</string>
     <string name="unmount_inform_text">Извлечь USB накопитель?</string>
     <string name="dlg_error_unmount_text">Невозможно извлечь USB накопитель</string>
-    <string name="byteShort">" б\"</string>
-    <string name="kilobyteShort">" Кб\"</string>
-    <string name="megabyteShort">" Мб\"</string>
-    <string name="gigabyteShort">" Гб\"</string>
+    <string name="byteShort">" б"</string>
+    <string name="kilobyteShort">" Кб"</string>
+    <string name="megabyteShort">" Мб"</string>
+    <string name="gigabyteShort">" Гб"</string>
     <string name="terabyteShort">Тб</string>
     <string name="petabyteShort">Пб</string>
     <string name="fileSizeSuffix">%1$s%2$s</string>
     <string name="tab_local">УСТРОЙСТВО</string>
-    <string name="sys_size_enable">" свободно\"</string>
+    <string name="sys_size_enable">" свободно"</string>
     <string name="menu_list_name">Меню</string>
     <string name="tools">ИНСТРУМЕНТЫ</string>
     <string name="category_type_meida">Медиа</string>
@@ -338,7 +338,7 @@
     <string name="action_mode_deselect_all">Снять все</string>
     <string name="action_mode_select_all">Выбрать все</string>
     <string name="can_not_send_with_too_many">Не удается отправить так много файлов</string>
-    <string name="file_already_downlaoded">Файл сохранен в \"%1$s\"</string>
+    <string name="file_already_downlaoded">Файл сохранен в "%1$s"</string>
     <string name="copy_file_to_kuaipan">Копировать в Kuaipan</string>
     <string name="downloading_in_3g">Загрузка по сети 3G…</string>
     <string name="operate_confirm_in_3g">Загрузить этот файл по сети 3G?</string>
@@ -420,7 +420,7 @@
     <string name="search_app_more">Еще</string>
     <string name="search_result_hint1">Схожие</string>
     <string name="search_result_hint2">Все</string>
-    <string name="search_result_hint3">" \"</string>
+    <string name="search_result_hint3">" "</string>
     <string name="search_result_hint4" />
     <string name="search_result_hint5" />
     <string name="search_result_hint6">(файлов: %d)</string>
@@ -508,7 +508,7 @@
     <string name="partial_repair_done">Некоторые файлы восстановлены</string>
     <string name="repair_error">Ошибка восстановления</string>
     <string name="cancel_success">Файлы перемещены в папку %s</string>
-    <string name="partial_cancel_successful">"Не удалось удалить некоторые файлы. Остальные файлы перемещены в %s\".</string>
+    <string name="partial_cancel_successful">"Не удалось удалить некоторые файлы. Остальные файлы перемещены в %s".</string>
     <string name="cancel_error">Ошибка удаления</string>
     <string name="encrypt_success">Файлы добавлены в приватную папку</string>
     <string name="partial_encrypt_success">Не удается сделать некоторые файлы приватными</string>
@@ -525,15 +525,15 @@
     <string name="new_function_title_str">О стикерах WeChat</string>
     <string name="new_function_str">"Стикеры WeChat теперь коллекционируются автоматически.
 Загружайте их, когда вы хотите
-и никогда не пропускайте крутые новые! \"</string>
-    <string name="no_network_str">"Ошибка подключения к сети.\"</string>
-    <string name="no_local_sticker_tip">"Не удалось найти загруженные стикеры.\"</string>
-    <string name="no_downloaded_sticker_tip">"Не удалось найти загруженные стикеры.\"</string>
+и никогда не пропускайте крутые новые! "</string>
+    <string name="no_network_str">"Ошибка подключения к сети."</string>
+    <string name="no_local_sticker_tip">"Не удалось найти загруженные стикеры."</string>
+    <string name="no_downloaded_sticker_tip">"Не удалось найти загруженные стикеры."</string>
     <string name="network_spent_reminding_title">Уведомление о трафике</string>
     <string name="network_spent_reminding">Для открытия этой страницы может потребоваться интернет трафик</string>
     <string name="shared_sticker_use_tip_title">Как использовать стикеры</string>
     <string name="shared_sticker_use_tip">"Вы можете отправлять стикеры, которые сохранили в WeChat, как обычное изображение.
-(GIF анимации могут быть также добавлены в пользовательские стикеры WeChat)\"</string>
+(GIF анимации могут быть также добавлены в пользовательские стикеры WeChat)"</string>
     <string name="shared_sticker_page_no_file">Ошибка подключения к интернету</string>
     <string name="shared_sticker_network_permission_tip">Не удается подключиться к интернету</string>
     <string name="transfer_private_data">Перемещение приватных файлов из внутренней памяти…</string>
@@ -558,7 +558,7 @@
     <string name="cancelled_by_user">Отменено</string>
     <string name="cancel_operation">Отмена</string>
     <string name="if_cancel">Отменить действие?</string>
-    <string name="menu_item_sort_add_time">"По дате создания \"</string>
+    <string name="menu_item_sort_add_time">"По дате создания "</string>
     <string name="search_result">Результаты</string>
     <string name="add_private_files">Добавить файлы</string>
     <string name="type_not_support">Формат файла не поддерживается</string>
@@ -643,8 +643,8 @@
     <string name="video_replay">Повтор</string>
     <string name="midrop_send_files">Выберите файлы для отправки</string>
     <string name="pick_file">Выберите файлы</string>
-    <string name="disk_available">"Свободно: \"</string>
-    <string name="disk_total">"Всего: \"</string>
+    <string name="disk_available">"Свободно: "</string>
+    <string name="disk_total">"Всего: "</string>
     <string name="click_to_switch_volume">Переключение между внутренней памятью и SD картой</string>
     <string name="midrop_msg_1">Включите Mi Drop на другом устройстве</string>
     <string name="midrop_msg_2">После включения Mi Drop вы можете найти устройства поблизости</string>
@@ -668,7 +668,7 @@
     <string name="connecting">Соединение…</string>
     <string name="ad_downloading">Загрузка…</string>
     <string name="installing">Установка…</string>
-    <string name="need_read_storage_permission">"Проводник требует разрешение на доступ к памяти устройства\"</string>
+    <string name="need_read_storage_permission">"Проводник требует разрешение на доступ к памяти устройства"</string>
 	<string name="category_log">Журналы</string>
     <string name="category_mirouter">Mi-Роутер</string>
     <string name="colon">": "</string>

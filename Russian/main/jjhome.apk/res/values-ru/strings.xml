@@ -98,7 +98,7 @@
     <string name="contact_insert_screen_launcher_full">Нет свободного места</string>
     <string name="contact_remove_from_screen_succeed">Успешно удалено с экрана</string>
     <string name="contact_remove_from_screen_failed">Не удалось удалить с экрана</string>
-    <string name="contact_delete_contact_hint">Удалить этот контакт \"%1$s\"?</string>
+    <string name="contact_delete_contact_hint">Удалить этот контакт "%1$s"?</string>
     <string name="contact_delete_contact_photo">Удалить</string>
     <string name="contact_delete_contact_photo_hint">Удалить фото?</string>
     <string name="contact_saving_hint">Сохранение контактов...</string>
@@ -254,7 +254,7 @@
     <string name="nonsupport_asr">Распознавание речи в настоящее время не поддерживается</string>
     <string name="text_uninstall">Удалить приложение</string>
     <string name="box_menu_uninstall_hint">Удалить приложение</string>
-    <string name="uninstall_app_dialog">Вы уверены, что хотите удалить \"%1$s\" ?</string>
+    <string name="uninstall_app_dialog">Вы уверены, что хотите удалить "%1$s" ?</string>
     <string name="delete_system_app_hint">Вы не можете удалить системные приложения</string>
     <string name="jeejen_sunday">Воскресенье</string>
     <string name="jeejen_monday">Понедельник</string>
@@ -370,7 +370,7 @@
     <string name="jeejen_unlock_hint">" "</string>
     <string name="jeejen_lockscren_mms_unread_hint">%1$s новое сообщение</string>
     <string name="jeejen_lockscren_call_miss_hint">%1$s пропущенный вызов</string>
-    <string name="app_sub_not_found_hint">Приложение \"%1$s\" не найдено.</string>
+    <string name="app_sub_not_found_hint">Приложение "%1$s" не найдено.</string>
     <string name="app_sub_dialog_setting_now">Установить</string>
     <string name="app_sub_dialog_cancel">Отмена</string>
     <string name="box_app_sub_title">Выбор %1$s</string>
@@ -419,7 +419,7 @@
     <string name="settings_launcher_notification_title">Уведомления на рабочем столе</string>
     <string name="settings_launcher_notification_desc">После включения, на рабочем столе будут отображаться все уведомления приложений.</string>
     <string name="settings_accessibility_disable_hint">Обнаружено, что вспомогательная функция отключена, вы не можете использовать уведомления на рабочем столе.</string>
-    <string name="settings_launcher_notification_enable_dialog_hint">Необходимо активировать опцию \"Уведомления на рабочем столе\".</string>
+    <string name="settings_launcher_notification_enable_dialog_hint">Необходимо активировать опцию "Уведомления на рабочем столе".</string>
     <string name="settings_launcher_notification_accessibility_failed">Не удалось открыть интерфейс сервиса, эта функция недоступна.</string>
     <string name="settings_launcher_notification_now_setting">Включить</string>
     <string name="setting_set_ring_failed">Вставьте карту памяти</string>
@@ -447,7 +447,7 @@
     <string name="upload_failure_retry_hint_info">Не удалось загрузить %d фото, повторить?</string>
     <string name="delete_member_confirm_info">Удалить</string>
     <string name="delete_member_cancel_info">Отмена</string>
-    <string name="delete_member_message_info">Удалить \"%s\" из альбома?</string>
+    <string name="delete_member_message_info">Удалить "%s" из альбома?</string>
     <string name="delete_all_photo_hint_info">Удалить все фото?</string>
     <string name="delete_choose_photo_hint_info">Удалить фото?</string>
     <string name="delete_choose_photo_empty_hint_info">Выберите фото</string>

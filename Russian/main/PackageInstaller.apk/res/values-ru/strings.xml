@@ -62,7 +62,7 @@
     <string name="install_failed_file_not_found">Указанный пакет удален до завершения установки</string>
     <string name="install_failed_verify_failed">Пакет не проверен и не может быть установлен</string>
     <string name="install_failed_verify_timeout">Не удалось проверить пакет. Попробуйте установить его позже.</string>
-    <string name="install_failed_msg">Не удалось установить приложение \"%1$s\"</string>
+    <string name="install_failed_msg">Не удалось установить приложение "%1$s"</string>
     <string name="launch">Открыть</string>
     <string name="unknown_apps_dlg_title">Установка заблокирована</string>
     <string name="unknown_apps_dlg_text">Для обеспечения безопасности на вашем телефоне заблокирована установка приложений, полученных не из Google Play</string>
@@ -82,13 +82,13 @@
 Все пользовательские данные будут сохранены.
 Продолжить установку?"</string>
     <string name="out_of_space_dlg_title">Недостаточно места</string>
-    <string name="out_of_space_dlg_text">Не удалось установить приложение \"%1$s\". Освободите память и повторите попытку.</string>
+    <string name="out_of_space_dlg_text">Не удалось установить приложение "%1$s". Освободите память и повторите попытку.</string>
     <string name="dlg_ok">ОК</string>
     <string name="app_not_found_dlg_title">Приложение не найдено</string>
     <string name="app_not_found_dlg_text">Приложение не было найдено в списке установленных приложений</string>
     <string name="uninstall_application_title">Удаление приложения</string>
     <string name="uninstall_update_title">Удаление обновления</string>
-    <string name="uninstall_activity_text">\"%1$s\" является частью выбранного приложения.</string>
+    <string name="uninstall_activity_text">"%1$s" является частью выбранного приложения.</string>
     <string name="uninstall_application_text">Приложение будет удалено</string>
     <string name="uninstall_update_text">Будет восстановлена исходная версия приложения</string>
     <string name="uninstalling">Удаление…</string>

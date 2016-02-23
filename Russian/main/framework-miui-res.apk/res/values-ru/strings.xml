@@ -27,7 +27,7 @@
 
 Включите через Настройки > Система > Настройки кнопок"</string>
      <string name="fools_day" />
-     <string name="force_exit_message">Приложение \"%1$s\" закрыто</string>
+     <string name="force_exit_message">Приложение "%1$s" закрыто</string>
      <string name="global_actions_airplane_mode">Авиарежим</string>
      <string name="global_actions_reboot">Перезагрузка</string>
      <string name="global_actions_shutdown">Выключение</string>

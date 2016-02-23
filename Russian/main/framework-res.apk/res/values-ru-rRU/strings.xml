@@ -49,14 +49,14 @@
   <string name="activity_resolver_use_always">Всегда</string>
   <string name="activity_resolver_use_once">Только сейчас</string>
   <string name="activitychooserview_choose_application">Выберите приложение</string>
-  <string name="activitychooserview_choose_application_error">Не удалось запустить приложение \"%s\"</string>
+  <string name="activitychooserview_choose_application_error">Не удалось запустить приложение "%s"</string>
   <string name="adb_active_notification_message">Нажмите, чтобы отключить отладку по USB.</string>
   <string name="adb_active_notification_title">Отладка по USB разрешена</string>
   <string name="addToDictionary">Добавить в словарь</string>
   <string name="add_account_button_label">Добавить аккаунт</string>
   <string name="add_account_label">Добавить аккаунт</string>
-  <string name="aerr_application">В приложении \"%1$s\" произошла ошибка.</string>
-  <string name="aerr_process">В приложении \"%1$s\" произошла ошибка.</string>
+  <string name="aerr_application">В приложении "%1$s" произошла ошибка.</string>
+  <string name="aerr_process">В приложении "%1$s" произошла ошибка.</string>
   <string name="aerr_title"/>
   <string name="allow">Разрешить</string>
   <string name="alwaysUse">По умолчанию для этого действия</string>
@@ -65,21 +65,21 @@
   <string name="android_upgrading_complete">Окончание загрузки...</string>
   <string name="android_upgrading_starting_apps">Запуск приложений.</string>
   <string name="android_upgrading_title">Обновление Android...</string>
-  <string name="anr_activity_application">"Приложение \"%2$s\" не отвечает.
+  <string name="anr_activity_application">"Приложение "%2$s" не отвечает.
 
 Закрыть его?"</string>
-  <string name="anr_activity_process">"Приложение \"%1$s\" не отвечает.
+  <string name="anr_activity_process">"Приложение "%1$s" не отвечает.
 
 Закрыть его?"</string>
-  <string name="anr_application_process">Приложение \"%1$s\" не отвечает. Закрыть его?</string>
-  <string name="anr_process">"Приложение \"%1$s\" не отвечает.
+  <string name="anr_application_process">Приложение "%1$s" не отвечает. Закрыть его?</string>
+  <string name="anr_process">"Приложение "%1$s" не отвечает.
 
 Закрыть его?"</string>
   <string name="anr_title"/>
   <string name="app_no_restricted_accounts">Это приложение не поддерживается в аккаунтах для профилей с ограниченным доступом</string>
   <string name="app_not_found">Невозможно обработать это действие</string>
   <string name="app_running_notification_text">Нажмите, чтобы получить дополнительные данные или выключить приложение.</string>
-  <string name="app_running_notification_title">Приложение \"%1$s\" выполняется</string>
+  <string name="app_running_notification_title">Приложение "%1$s" выполняется</string>
   <string name="autofill_address_name_separator">" "</string>
   <string name="autofill_address_summary_format">$1$2$3</string>
   <string name="autofill_address_summary_name_format">$1$2$3</string>
@@ -118,7 +118,7 @@
   <string name="capital_off">O</string>
   <string name="capital_on">I</string>
   <string name="car_mode_disable_notification_message">Чтобы выйти, нажмите здесь.</string>
-  <string name="car_mode_disable_notification_title">Включен режим \"Штурман\"</string>
+  <string name="car_mode_disable_notification_title">Включен режим "Штурман"</string>
   <string name="cfTemplateForwarded">{0}: {1}</string>
   <string name="cfTemplateForwardedTime">{0}: {1} через {2} с.</string>
   <string name="cfTemplateNotForwarded">{0}: не переадресовано</string>
@@ -128,7 +128,7 @@
   <string name="chooseUsbActivity">Выбор приложения для USB-устройства</string>
   <string name="choose_account_label">Выберите аккаунт</string>
   <string name="chooser_wallpaper">Сменить обои</string>
-  <string name="clearDefaultHintMsg">Удаляет настройки по умолчанию в меню \"Настройки &gt; Приложения &gt; Загруженные\".</string>
+  <string name="clearDefaultHintMsg">Удаляет настройки по умолчанию в меню "Настройки &gt; Приложения &gt; Загруженные".</string>
   <string name="common_name">Стандартное название:</string>
   <string name="configure_input_methods">Настройка способов ввода</string>
   <string name="contentServiceSync">Синхр.</string>
@@ -217,8 +217,8 @@
   <string name="emptyPhoneNumber">(Нет номера телефона)</string>
   <string name="enablePin">Произошла ошибка. Включите блокировку SIM-карты или карты R-UIM.</string>
   <string name="enable_accessibility_canceled">Специальные возможности не будут включены.</string>
-  <string name="enable_explore_by_touch_warning_message">%1$s хочет включить функцию \"Изучение касанием\". Она позволяет прослушивать или просматривать описание элементов, которых вы касаетесь, и управлять телефоном с помощью жестов.</string>
-  <string name="enable_explore_by_touch_warning_title">Включить \"Изучение касанием\"?</string>
+  <string name="enable_explore_by_touch_warning_message">%1$s хочет включить функцию "Изучение касанием". Она позволяет прослушивать или просматривать описание элементов, которых вы касаетесь, и управлять телефоном с помощью жестов.</string>
+  <string name="enable_explore_by_touch_warning_title">Включить "Изучение касанием"?</string>
   <string name="error_message_title">Ошибка</string>
   <string name="eventTypeAnniversary">Юбилей</string>
   <string name="eventTypeBirthday">День рождения</string>
@@ -369,13 +369,13 @@
   <string name="keyguard_accessibility_unlock_area_collapsed">Область разблокировки свернута</string>
   <string name="keyguard_accessibility_unlock_area_expanded">Область разблокировки развернута</string>
   <string name="keyguard_accessibility_user_selector">Выбор аккаунта</string>
-  <string name="keyguard_accessibility_widget">Виджет \"%1$s\"</string>
+  <string name="keyguard_accessibility_widget">Виджет "%1$s"</string>
   <string name="keyguard_accessibility_widget_changed">%1$s. Виджет %2$d из %3$d.</string>
   <string name="keyguard_accessibility_widget_deleted">Виджет %1$s удален</string>
   <string name="keyguard_accessibility_widget_empty_slot">Пусто</string>
   <string name="keyguard_accessibility_widget_reorder_end">Порядок виджетов определен</string>
   <string name="keyguard_accessibility_widget_reorder_start">Начато переопределение порядка виджетов</string>
-  <string name="keyguard_label_text">Для разблокировки нажмите \"Меню\", а затем 0.</string>
+  <string name="keyguard_label_text">Для разблокировки нажмите "Меню", а затем 0.</string>
   <string name="keyguard_password_enter_password_code">Введите пароль</string>
   <string name="keyguard_password_enter_pin_code">Введите PIN-код</string>
   <string name="keyguard_password_enter_pin_password_code">Введите PIN-код</string>
@@ -460,8 +460,8 @@
   <string name="lockscreen_glogin_submit_button">Вход</string>
   <string name="lockscreen_glogin_too_many_attempts">Неверный графический ключ</string>
   <string name="lockscreen_glogin_username_hint">Имя пользователя (эл. почта)</string>
-  <string name="lockscreen_instructions_when_pattern_disabled">Для разблокировки нажмите \"Меню\".</string>
-  <string name="lockscreen_instructions_when_pattern_enabled">Нажмите \"Меню\", чтобы разблокировать экран или вызвать службу экстренной помощи.</string>
+  <string name="lockscreen_instructions_when_pattern_disabled">Для разблокировки нажмите "Меню".</string>
+  <string name="lockscreen_instructions_when_pattern_enabled">Нажмите "Меню", чтобы разблокировать экран или вызвать службу экстренной помощи.</string>
   <string name="lockscreen_low_battery">Подключите зарядное устройство</string>
   <string name="lockscreen_missing_sim_instructions">Вставьте SIM-карту.</string>
   <string name="lockscreen_missing_sim_instructions_long">SIM-карта отсутствует или недоступна. Вставьте SIM-карту.</string>
@@ -669,7 +669,7 @@
   <string name="permdesc_accessWimaxState">Приложение сможет определять, активирован ли WiMAX, а также получать информацию о подключенных сетях WiMAX.</string>
   <string name="permdesc_access_keyguard_secure_storage">Приложение сможет получить доступ к хранилищу ключей.</string>
   <string name="permdesc_accountManagerService">Приложение сможет вызывать службы аутентификации аккаунта.</string>
-  <string name="permdesc_addVoicemail">Приложение сможет добавлять голосовые сообщения в папку \"Входящие\".</string>
+  <string name="permdesc_addVoicemail">Приложение сможет добавлять голосовые сообщения в папку "Входящие".</string>
   <string name="permdesc_anyCodecForPlayback">Приложение сможет использовать любой установленный дешифратор.</string>
   <string name="permdesc_asec_access">Приложение сможет получать сведения о внутреннем хранилище.</string>
   <string name="permdesc_asec_create">Приложение сможет создать внутреннее хранилище.</string>
@@ -734,7 +734,7 @@
   <string name="permdesc_diagnostic">Приложение сможет считывать и записывать данные системы диагностики (например, файлы в каталоге /dev). Это может повлиять на стабильность и безопасность системы. Это разрешение должно использоваться ТОЛЬКО производителем или оператором для диагностики аппаратного обеспечения.</string>
   <string name="permdesc_disableKeyguard">Приложение сможет отключать блокировку экрана и другие функции защиты. Например, блокировка экрана будет отключаться при получении входящего вызова и включаться после завершения разговора.</string>
   <string name="permdesc_dump">Приложение сможет получать данные о внутреннем состоянии системы. Вредоносные программы смогут получать личную и защищенную информацию, к которой у них не должно быть доступа.</string>
-  <string name="permdesc_enableCarMode">Приложение сможет включать режим \"Штурман\".</string>
+  <string name="permdesc_enableCarMode">Приложение сможет включать режим "Штурман".</string>
   <string name="permdesc_expandStatusBar">Приложение сможет разворачивать и сворачивать строку состояния.</string>
   <string name="permdesc_factoryTest">Выполнить стандартную проверку нижнего уровня, обеспечивающую полный доступ к аппаратному обеспечению телефона. Доступно, только в режиме стандартной проверки.</string>
   <string name="permdesc_filter_events">Разрешает приложению зарегистрировать входной фильтр, который анализирует весь поток пользовательских событий. Обратите внимание, что вредоносное ПО может получить доступ к управлению интерфейсом без ведома пользователя.</string>
@@ -800,7 +800,7 @@
   <string name="permdesc_readProfile">Приложение сможет просматривать вашу личную информацию (например, имя и контактные данные), сохраненную на устройстве. Получив эти данные, приложение сможет отправить их другим пользователям.</string>
   <string name="permdesc_readSms">Приложение сможет просматривать SMS-сообщения, сохраненные на устройстве или SIM-карте, независимо от содержания или настроек конфиденциальности.</string>
   <string name="permdesc_readSocialStream">Приложение сможет просматривать и синхронизировать записи, публикуемые вами и вашими друзьями в социальных сетях. Будьте осторожны при передаче информации! С этим разрешением приложение сможет просматривать вашу переписку с друзьями в социальных сетях независимо от настроек конфиденциальности. Примечание. Это разрешение может применяться не во всех социальных сетях.</string>
-  <string name="permdesc_readSyncSettings">Приложение сможет просматривать настройки синхронизации аккаунта, например определять, включена ли синхронизация для приложения \"Контакты\".</string>
+  <string name="permdesc_readSyncSettings">Приложение сможет просматривать настройки синхронизации аккаунта, например определять, включена ли синхронизация для приложения "Контакты".</string>
   <string name="permdesc_readSyncStats">Приложение сможет просматривать статистику синхронизации аккаунта, в том числе историю событий и объем синхронизированных данных.</string>
   <string name="permdesc_reboot">Приложение сможет принудительно перезагружать телефон.</string>
   <string name="permdesc_receiveBootCompleted">Приложение сможет запускаться после начальной загрузки системы. Это может привести к увеличению времени включения телефона и уменьшить его быстродействие в связи с постоянной работой приложения.</string>
@@ -1267,7 +1267,7 @@
   <string name="save_password_never">Никогда</string>
   <string name="save_password_notnow">Не сейчас</string>
   <string name="save_password_remember">Запомнить</string>
-  <string name="screen_compat_mode_hint">Включить эту функцию можно в меню \"Настройки &gt; Приложения &gt; Загруженные\".</string>
+  <string name="screen_compat_mode_hint">Включить эту функцию можно в меню "Настройки &gt; Приложения &gt; Загруженные".</string>
   <string name="screen_compat_mode_scale">Масштаб</string>
   <string name="screen_compat_mode_show">Всегда показывать</string>
   <string name="screen_lock">Блокировка экрана</string>
@@ -1308,7 +1308,7 @@
   <string name="share">Отправить</string>
   <string name="share_action_provider_share_with">Открыть доступ</string>
   <string name="shareactionprovider_share_with">Открыть доступ:</string>
-  <string name="shareactionprovider_share_with_application">Открыть доступ приложению \"%s\"</string>
+  <string name="shareactionprovider_share_with_application">Открыть доступ приложению "%s"</string>
   <string name="shutdown_confirm">Телефон будет выключен.</string>
   <string name="shutdown_confirm_question">Завершить работу?</string>
   <string name="shutdown_progress">Выключение...</string>
@@ -1339,8 +1339,8 @@
   <string name="sms_short_code_confirm_never_allow">Не разрешать</string>
   <string name="sms_short_code_details">С вашего мобильного счета &lt;font fgcolor="#ffffb060"&gt;&amp;#1084;&amp;#1086;&amp;#1075;&amp;#1091;&amp;#1090; &amp;#1073;&amp;#1099;&amp;#1090;&amp;#1100; &amp;#1089;&amp;#1087;&amp;#1080;&amp;#1089;&amp;#1072;&amp;#1085;&amp;#1099; &amp;#1089;&amp;#1088;&amp;#1077;&amp;#1076;&amp;#1089;&amp;#1090;&amp;#1074;&amp;#1072;&lt;/font&gt;.</string>
   <string name="sms_short_code_remember_choice">Запомнить выбранный телефон</string>
-  <string name="sms_short_code_remember_undo_instruction">Это можно изменить позже в разделе настроек \"Приложения\".</string>
-  <string name="smv_application">Приложение \"%1$s\" (процесс: %2$s) нарушило собственную политику StrictMode.</string>
+  <string name="sms_short_code_remember_undo_instruction">Это можно изменить позже в разделе настроек "Приложения".</string>
+  <string name="smv_application">Приложение "%1$s" (процесс: %2$s) нарушило собственную политику StrictMode.</string>
   <string name="smv_process">Процесс %1$s нарушил собственную политику StrictMode.</string>
   <string name="ssl_ca_cert_noti_by_unknown">администратором</string>
   <string name="ssl_ca_cert_noti_managed">администратором домена %s</string>
@@ -1413,7 +1413,7 @@
   <string name="volume_icon_description_ringer">Звонок</string>
   <string name="volume_music">Громкость мультимедиа</string>
   <string name="volume_music_hint_playing_through_bluetooth">Воспроизведение по каналу Bluetooth</string>
-  <string name="volume_music_hint_silent_ringtone_selected">Выбран режим \"Без звука\"</string>
+  <string name="volume_music_hint_silent_ringtone_selected">Выбран режим "Без звука"</string>
   <string name="volume_notification">Громкость уведомления</string>
   <string name="volume_ringtone">Громкость звонка</string>
   <string name="volume_unknown">Громкость</string>

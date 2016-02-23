@@ -61,14 +61,14 @@
     <string name="resource_detail_window_title">%1$s: информация</string>
     <string name="resource_detail_update_log_title">Обновления</string>
     <string name="resource_detail_comment_title">Отзывы</string>
-    <string name="resource_detail_recommend_desiner_other_themes">Другие темы от автора \"%1$s\"</string>
+    <string name="resource_detail_recommend_desiner_other_themes">Другие темы от автора "%1$s"</string>
     <string name="resource_detail_recommend_other_themes">Пользователям также понравилось</string>
     <string name="resource_detail_jump_to_online_title">Онлайн</string>
     <string name="resource_detail_jump_to_same_author_title">От автора</string>
     <string name="resource_detail_recommend_desiner_themes">Тем: %1$s</string>
     <string name="resource_share_title">Отправить</string>
     <string name="resource_share_subject">Отправить тему: %1$s</string>
-    <string name="resource_share_text">Я отправил вам тему \"%1$s\". Скачать: %2$s</string>
+    <string name="resource_share_text">Я отправил вам тему "%1$s". Скачать: %2$s</string>
     <string name="resource_delete_all">Удалить выбранные ресурсы (%1$d)?</string>
     <string name="resource_can_not_selected">%1$s не может быть выбран!</string>
     <string name="resource_system_title">Системные</string>
@@ -162,7 +162,7 @@
     <string name="resource_comment_upload_not_bought">Прежде чем оставить отзыв, необходимо применить тему.</string>
     <string name="resource_comment_invalid">Нажмите на звезды, чтобы оценить.</string>
     <string name="resource_comment_expand_full_text">Развернуть▼</string>
-    <string name="resource_comment_title">Отзывы \"%1$s\"</string>
+    <string name="resource_comment_title">Отзывы "%1$s"</string>
     <string name="resource_comment_edit_title">Отзыв к теме: %1$s</string>
     <string name="resource_comment_edit_comment">Добавить отзыв</string>
     <string name="resource_comment_edit_comment_waiting">Проверка истории…</string>
@@ -273,8 +273,8 @@
     <string name="theme_batch_updating_text">Тем обновляется: %1$d</string>
     <string name="theme_batch_update_all">Обновить все</string>
     <string name="theme_batch_update_dlg_title">Обновить</string>
-    <string name="theme_batch_update_dlg_content">Обновить тему \"%1$s\"? (всего обновлений: %2$d)</string>
-    <string name="theme_batch_update_dlg_content_single">Обновить \"%1$s\"?</string>
+    <string name="theme_batch_update_dlg_content">Обновить тему "%1$s"? (всего обновлений: %2$d)</string>
+    <string name="theme_batch_update_dlg_content_single">Обновить "%1$s"?</string>
     <string name="theme_current_using_has_update">Тема была обновлена. Нажмите, чтобы применить.</string>
     <string name="theme_immediately_apply_tip">Применить обновление темы?</string>
     <string name="theme_name">%1$s</string>

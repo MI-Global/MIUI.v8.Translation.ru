@@ -35,7 +35,7 @@
     <string name="activity_find_city_dialog_set">Настроить</string>
     <string name="activity_find_city_dialog_title">Местоположение</string>
     <string name="activity_find_city_dialog_message">Разрешить погоде использовать сервис местоположения?</string>
-    <string name="data_source_time_fromat">"dd.MM.yyyy\'T\'HH:mm:ss\"</string>
+    <string name="data_source_time_fromat">"dd.MM.yyyy\'T\'HH:mm:ss"</string>
     <string name="data_source_timezone">GMT%1$s</string>
     <string name="activity_main_time_format">d MMM</string>
     <string name="hour_minute_time_format">HH:mm</string>
@@ -85,7 +85,7 @@
     <string name="no_network_btn">Попробовать еще раз</string>
     <string name="share">Поделиться</string>
     <string name="open_browser">Открыть в браузере</string>
-    <string name="empty">" \"</string>
+    <string name="empty">" "</string>
     <string name="information_manager_wlan">Загрузка только по сети Wi-Fi</string>
     <string name="information_manager_information">Информация о погоде</string>
     <string name="realtime_aqi_connection">%1$s</string>
@@ -105,6 +105,6 @@
     <string name="aqi_quality_index_dangerous_short_desc">%1$s</string>
     <string name="aqi_quality_index_hazardous_short_desc">%1$s</string>
     <string name="aqi_quality_index_break_short_desc">%1$s</string>
-    <string name="aqi_short_desc">"ИКВ \"</string>
+    <string name="aqi_short_desc">"ИКВ "</string>
     <string name="view_indexes_wind_unit">км/ч</string>
 </resources>

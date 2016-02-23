@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+	<string-array name="calendar_remind_string_array">
+        <item>Сегодня вечером</item>
+        <item>Завтра</item>
+        <item>На выходных</item>
+        <item>На следующей неделе</item>
+        <item>В следующем месяце</item>
+        <item>Выбрать дату</item>
+    </string-array>
     <string-array name="compose_modes">
         <item>Ответить</item>
         <item>Ответить всем</item>
@@ -11,6 +19,13 @@
         <item>Обычный</item>
         <item>Большой</item>
         <item>Огромный</item>
+    </string-array>
+	<string-array name="general_preference_text_zoom_values">
+        <item>мелкий</item>
+        <item>небольшой</item>
+        <item>обычный</item>
+        <item>большой</item>
+        <item>огромный</item>
     </string-array>
     <string-array name="menu_att_mgr_sort_string_array">
         <item>Последние</item>
@@ -29,20 +44,10 @@
         <item>Предыдущее письмо</item>
         <item>Список писем</item>
     </string-array>
-    <string-array name="prefEntries_removal_action">
-        <item>Только архивировать</item>
-        <item>Только удалять</item>
-        <item>Архивировать и удалять</item>
-    </string-array>
-    <string-array name="prefSummaries_autoAdvance">
-        <item>Показывать более позднюю цепочку после удаления текущей</item>
-        <item>Показывать более раннюю цепочку после удаления текущей</item>
-        <item>Показывать список цепочек после удаления текущей цепочки</item>
-    </string-array>
-    <string-array name="prefSummaries_removal_action_summary">
-        <item>Только архивировать</item>
-        <item>Только удалять</item>
-        <item>Архивировать и удалять</item>
+	<string-array name="prefValues_autoAdvance">
+        <item>следующее</item>
+        <item>предыдущее</item>
+        <item>список</item>
     </string-array>
     <string-array name="signature_normal_string_array">
         <item>Блог:</item>
@@ -91,13 +96,5 @@
         <item>Это сообщение</item>
         <item>Disclaimer</item>
         <item>Email Disclaimer</item>
-    </string-array>
-    <string-array name="sync_status">
-        <item>Сихронизовано</item>
-        <item>Нет соединения</item>
-        <item>Не удалось войти</item>
-        <item>Ошибка безопасности</item>
-        <item>Ошибка синхронизации</item>
-        <item>Внутренняя ошибка</item>
     </string-array>
 </resources>

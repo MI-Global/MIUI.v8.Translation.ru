@@ -194,7 +194,7 @@
     <string name="dialog_no">Нет</string>
     <string name="dialog_ok">ОК</string>
     <string name="downloading_description">Загрузка…</string>
-    <string name="apply_upload_info_message">Нажмите \"Обновить\". Телефон будет автоматически перезагружен для применения обновлений</string>
+    <string name="apply_upload_info_message">Нажмите "Обновить". Телефон будет автоматически перезагружен для применения обновлений</string>
     <string name="apply_now_button_text">Обновить</string>
     <string name="apply_later_button_text">Отмена</string>
     <string name="reboot_to_new_system">Перезагрузка в новую систему</string>
@@ -204,7 +204,7 @@
     <string name="notification_new_version">Доступна новая версия %s</string>
     <string name="notification_reboot_des">Обновлено завершено: %s. Требуется перезагрузка.</string>
     <string name="auto_check_clause_msg">"Необходимо принять измененную политику конфиденциальности перед обновлением. "</string>
-    <string name="apply_buddy_update_info_message">Нажмите \"Обновить\"</string>
+    <string name="apply_buddy_update_info_message">Нажмите "Обновить"</string>
     <string name="apply_existing_update_md5error_title">Ошибка проверки целостности</string>
     <string name="apply_unable_to_reboot_toast">Невозможно перезагрузить</string>
     <string name="apply_update_fail">Ошибка обновления</string>

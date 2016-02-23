@@ -186,7 +186,7 @@
     <string name="Generic_Update">Обновление приложения</string>
     <string name="Generic_Shortcut">Контекстное меню</string>
     <string name="HIPS_SecurityPrompt_Caption">Предупреждение</string>
-    <string name="HIPS_SecurityPrompt_Title">"Приложение \"%1$s\" запрашивает:
+    <string name="HIPS_SecurityPrompt_Title">"Приложение "%1$s" запрашивает:
 %2$s 
 
 Разрешить доступ?"</string>
@@ -196,12 +196,12 @@
     <string name="HIPS_SecurityPrompt_AcceptRoot">Разрешить</string>
     <string name="HIPS_SecurityPrompt_Next">Далее</string>
     <string name="HIPS_SecurityPrompt_ROOT_Caption">Внимание!</string>
-    <string name="HIPS_SecurityPrompt_ROOT_Step1">Разрешить ROOT доступ приложению \"%1$s\"?</string>
+    <string name="HIPS_SecurityPrompt_ROOT_Step1">Разрешить ROOT доступ приложению "%1$s"?</string>
     <string name="HIPS_SecurityPrompt_ROOT_Step2">ROOT доступ может привести к нестабильной работе системы</string>
     <string name="HIPS_SecurityPrompt_ROOT_Step3">Безопасность личных данных (аккаунты, пароли и сообщения) может быть нарушена.</string>
     <string name="HIPS_SecurityPrompt_ROOT_Step4">Возможно нарушение работы оборудования.</string>
     <string name="HIPS_SecurityPrompt_ROOT_Step5">Используйте с осторожностью!</string>
-    <string name="HIPS_SecurityPrompt_ROOT_Step6">Разрешить приложению \"%1$s\" получать ROOT доступ?</string>
+    <string name="HIPS_SecurityPrompt_ROOT_Step6">Разрешить приложению "%1$s" получать ROOT доступ?</string>
     <string name="Dashboard_Perm">Разрешения</string>
     <string name="Dashboard_App">Приложения</string>
     <string name="Dashboard_Log">Журналы</string>
@@ -253,10 +253,10 @@
     <string name="SysOpt_Boost_Receiver">Фоновые</string>
     <string name="SysOpt_Boost_AutoStart_Group">Автозагрузка</string>
     <string name="SysOpt_Boost_AutoStart">Разрешения автозагрузки</string>
-    <string name="Su_Enable_Dialog">Приложение \"%1$s\" пытается получить ROOT доступ</string>
+    <string name="Su_Enable_Dialog">Приложение "%1$s" пытается получить ROOT доступ</string>
     <string name="Su_Unavailable">Права администратора не доступны в стабильной версии MIUI. Установите еженедельную версию (для разработчиков).</string>
-    <string name="Su_Package_Forbidden">Приложение \"%1$s\" не имеет ROOT доступ</string>
-    <string name="permisson_reject_notice_toast_text">Приложение \"%1$s\" не имеет: %2$s</string>
+    <string name="Su_Package_Forbidden">Приложение "%1$s" не имеет ROOT доступ</string>
+    <string name="permisson_reject_notice_toast_text">Приложение "%1$s" не имеет: %2$s</string>
     <string name="HIPS_SecurityPrompt_Accept_Once">Разрешить сейчас (%d)</string>
     <string name="HIPS_SecurityPrompt_Reject_Once">Запретить сейчас (%d)</string>
 </resources>

@@ -121,5 +121,5 @@
     <string name="menu_move">Переместить</string>
     <string name="sns_message_building">Создание записи…</string>
     <string name="sns_message_sending">Отправка…</string>
-    <string name="widget_under_visit_mode">Невозможно просмотреть заметки в режиме \"Гость\"</string>
+    <string name="widget_under_visit_mode">Невозможно просмотреть заметки в режиме "Гость"</string>
 </resources>

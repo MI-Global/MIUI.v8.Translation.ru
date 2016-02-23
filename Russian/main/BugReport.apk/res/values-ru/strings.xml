@@ -48,7 +48,7 @@
     <string name="toast_feedback_network_unavailable">Не удается подключиться к интернету</string>
     <string name="toast_network_unavailable">Не удалось отправить отчет. Интернет недоступен.</string>
     <string name="discard_draft_dialog_title">Удалить черновик</string>
-    <string name="discard_draft_dialog_content">Отчет изменен. Нажмите \"ОК\" для удаления черновика.</string>
+    <string name="discard_draft_dialog_content">Отчет изменен. Нажмите "ОК" для удаления черновика.</string>
     <string name="discard_draft_dialog_button_discard">ОК</string>
     <string name="discard_draft_dialog_button_cancel">Отмена</string>
     <string name="network_unavailable_dialog_title">Интернет недоступен</string>

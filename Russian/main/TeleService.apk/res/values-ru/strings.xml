@@ -195,7 +195,7 @@
 
 Включить режим 3G?"</string>
     <string name="preferred_network_restrict_network_changed_incall">Невозможно изменить мобильную сеть во время разговора</string>
-    <string name="callwait_open_hint">Услуга \"Ожидание вызова\" предоставляется оператором, если вы получаете ошибку кода MMI, обратитесь к вашему оператору для выяснения подробностей.</string>
+    <string name="callwait_open_hint">Услуга "Ожидание вызова" предоставляется оператором, если вы получаете ошибку кода MMI, обратитесь к вашему оператору для выяснения подробностей.</string>
     <string name="open_miui">Открыть</string>
     <string name="cdma_system_select_title">Выбор системы</string>
     <string name="cdma_system_select_summary">Изменить режим роуминга CDMA</string>
@@ -389,13 +389,13 @@ SIM карта будет очищена при неудачной попытк�
     <string name="card_title_deflectedcall">Отклоненные вызовы</string>
     <string name="notification_missedCallsTitle">Пропущенные вызовы</string>
     <string name="notification_missedCallsMsg">Пропущенных вызовов: %s</string>
-    <string name="notification_missedCallTicker">Пропущенные вызовы от контакта \"%s\"</string>
+    <string name="notification_missedCallTicker">Пропущенные вызовы от контакта "%s"</string>
     <string name="notification_voicemail_title">Новое сообщение голосовой почты</string>
     <string name="notification_voicemail_title_count">Новое сообщение голосовой почты (%d)</string>
     <string name="notification_voicemail_text_format">Вызов %s</string>
     <string name="notification_voicemail_no_vm_number">Номер голосовой почты неизвестен</string>
     <string name="notification_network_selection_title">Нет сети</string>
-    <string name="notification_network_selection_text">Выбранная сеть \"%s\" недоступна</string>
+    <string name="notification_network_selection_text">Выбранная сеть "%s" недоступна</string>
     <string name="notification_missedCall_call_back">Вызов</string>
     <string name="notification_missedCall_message">SMS</string>
     <string name="incall_error_power_off">Выключите режим полета перед совершением вызова</string>
@@ -407,7 +407,7 @@ SIM карта будет очищена при неудачной попытк�
     <string name="incall_error_turn_off_airplane_mode">Отключите режим полета</string>
     <string name="incall_error_no_active_sim">Нет активной SIM карты</string>
     <string name="emergency_enable_radio_dialog_title">Экстренный вызов</string>
-    <string name="dial_emergency_error">Номер \"%s\" не является экстренным!</string>
+    <string name="dial_emergency_error">Номер "%s" не является экстренным!</string>
     <string name="dial_emergency_empty_error">Вызов не осуществлен, наберите номер экстренного вызова!</string>
     <string name="importSimEntry">Импорт</string>
     <string name="importAllSimEntries">Импорт всего</string>
@@ -438,7 +438,7 @@ SIM карта будет очищена при неудачной попытк�
     <string name="ota_title_activate">Активировать телефон</string>
     <string name="ota_touch_activate">"Необходим специальный вызов для активации службы телефона.
 
-После нажатия кнопки \"Активировать\" прослушайте инструкции по активации телефона."</string>
+После нажатия кнопки "Активировать" прослушайте инструкции по активации телефона."</string>
     <string name="ota_hfa_activation_title">Активация…</string>
     <string name="ota_hfa_activation_dialog_message">"Активация службы мобильных данных. 
 
@@ -534,7 +534,7 @@ SIM карта будет очищена при неудачной попытк�
     <string name="optional_summary">&lt;Необязательно></string>
     <string name="advanced_settings_show">▷ Показать все</string>
     <string name="advanced_settings_hide">▽ Скрыть все</string>
-    <string name="empty_alert">Поле \"%s\" не может быть пустым</string>
+    <string name="empty_alert">Поле "%s" не может быть пустым</string>
     <string name="not_a_valid_port">Порт должен быть от 1000 до 65534</string>
     <string name="no_internet_available_title">Подключение к интернету отсутствует</string>
     <string name="no_wifi_available_title">Отсутствует подключение Wi-Fi</string>

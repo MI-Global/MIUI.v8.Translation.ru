@@ -92,7 +92,7 @@
     <string name="activity_title_uninstall_apps">Приложения</string>
     <string name="deepclean_title_uninstall_apps">Недавние приложения</string>
     <string name="toast_garbage_cleanup_success">Очистка завершена</string>
-    <string name="toast_add_white_list_success">" добавлено в список исключений\"</string>
+    <string name="toast_add_white_list_success">" добавлено в список исключений"</string>
     <string name="hints_cache_header_left">Файлов кэша</string>
     <string name="hints_ad_header_left">Файлы рекламы</string>
     <string name="hints_apk_header_left">Установочные APK</string>
@@ -111,7 +111,7 @@
     <string name="cache_title_empty_folder">Пустые папки (%d)</string>
     <string name="cache_title_empty_folder2">Пустые папки</string>
     <string name="dialog_msg_check_all">"Приложение: %1$s 
-Файлов: %2$d\"</string>
+Файлов: %2$d"</string>
     <string name="dialog_title_check_all">Выбрать все файлы приложения?</string>
     <string name="hints_garbage_handle_item_content">Файлов: %1$d (%2$s)</string>
     <string name="hints_garbage_handle_item_empty_content">Файлов: 0</string>
@@ -120,7 +120,7 @@
     <string name="hints_latest_garbage_cleanup_yesterday">Последняя очистка: вчера</string>
     <string name="hints_latest_garbage_cleanup_date">Сканировано %d дн. назад</string>
     <string name="hints_loading_text">Загрузка…</string>
-    <string name="toast_removed_from_white_list">" удалено из списка исключений\"</string>
+    <string name="toast_removed_from_white_list">" удалено из списка исключений"</string>
     <string name="white_list_cache_header">Кэш: %d</string>
     <string name="white_list_ad_header">Реклама: %d</string>
     <string name="white_list_apk_header">Установочные APK: %d</string>
@@ -316,7 +316,7 @@
     <string name="safety_rank">Вы обошли %d%% пользователей MIUI в плане безопасности</string>
     <string name="net_assistant_title">Использовано %s мобильного трафика в этом месяце</string>
     <string name="traffic_top">Топ 5 потребляемых приложений</string>
-    <string name="empty">" \"</string>
+    <string name="empty">" "</string>
     <string name="open_browser">Открыть в браузере</string>
     <string name="title_share_link">Отправить URL</string>
     <string name="connecting">Подключение…</string>

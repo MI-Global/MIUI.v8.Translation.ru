@@ -432,7 +432,7 @@
     <string name="micloud_active_alert_title">Отправить сообщение</string>
     <string name="micloud_active_email_sent_1">Мы отправили вам письмо с ссылкой активации на Email:</string>
     <string name="micloud_active_email_sent_2" />
-    <string name="micloud_active_email_visit">Проверьте входящую почту \"%s\"</string>
+    <string name="micloud_active_email_visit">Проверьте входящую почту "%s"</string>
     <string name="micloud_activing_account">Активация…</string>
     <string name="micloud_activing_account_delayed">До завершения активации осталось около 30 секунд…</string>
     <string name="micloud_activing_account_failed">Ошибка активации</string>

@@ -73,28 +73,28 @@
         <item quantity="many"> Файлов: %1$d</item>
     </plurals>
     <plurals name="search_head_hint_app">
-        <item quantity="other">Поиск по запросу \"%1$s\" (элементов: %2$d)</item>
-        <item quantity="zero">Поиск по запросу \"%1$s\" (элементов: %2$d)</item>
-        <item quantity="one">Поиск по запросу \"%1$s\" (элементов: %2$d)</item>
-        <item quantity="two">Поиск по запросу \"%1$s\" (элементов: %2$d)</item>
-        <item quantity="few">Поиск по запросу \"%1$s\" (элементов: %2$d)</item>
-        <item quantity="many">Поиск по запросу \"%1$s\" (элементов: %2$d)</item>
+        <item quantity="other">Поиск по запросу "%1$s" (элементов: %2$d)</item>
+        <item quantity="zero">Поиск по запросу "%1$s" (элементов: %2$d)</item>
+        <item quantity="one">Поиск по запросу "%1$s" (элементов: %2$d)</item>
+        <item quantity="two">Поиск по запросу "%1$s" (элементов: %2$d)</item>
+        <item quantity="few">Поиск по запросу "%1$s" (элементов: %2$d)</item>
+        <item quantity="many">Поиск по запросу "%1$s" (элементов: %2$d)</item>
     </plurals>
     <plurals name="search_head_hint_file">
-        <item quantity="other">Файлы по запросу \"%1$s\" (элементов: %2$d)</item>
-        <item quantity="zero">Файлы по запросу \"%1$s\" (элементов: %2$d)</item>
-        <item quantity="one">Файлы по запросу \"%1$s\" (элементов: %2$d)</item>
-        <item quantity="two">Файлы по запросу \"%1$s\" (элементов: %2$d)</item>
-        <item quantity="few">Файлы по запросу \"%1$s\" (элементов: %2$d)</item>
-        <item quantity="many">Файлы по запросу \"%1$s\" (элементов: %2$d)</item>
+        <item quantity="other">Файлы по запросу "%1$s" (элементов: %2$d)</item>
+        <item quantity="zero">Файлы по запросу "%1$s" (элементов: %2$d)</item>
+        <item quantity="one">Файлы по запросу "%1$s" (элементов: %2$d)</item>
+        <item quantity="two">Файлы по запросу "%1$s" (элементов: %2$d)</item>
+        <item quantity="few">Файлы по запросу "%1$s" (элементов: %2$d)</item>
+        <item quantity="many">Файлы по запросу "%1$s" (элементов: %2$d)</item>
     </plurals>
     <plurals name="search_head_hint_tag">
-        <item quantity="other">Теги по запросу \"%1$s\" (элементов: %2$d)</item>
-        <item quantity="zero">Теги по запросу \"%1$s\" (элементов: %2$d)</item>
-        <item quantity="one">Теги по запросу \"%1$s\" (элементов: %2$d)</item>
-        <item quantity="two">Теги по запросу \"%1$s\" (элементов: %2$d)</item>
-        <item quantity="few">Теги по запросу \"%1$s\" (элементов: %2$d)</item>
-        <item quantity="many">Теги по запросу \"%1$s\" (элементов: %2$d)</item>
+        <item quantity="other">Теги по запросу "%1$s" (элементов: %2$d)</item>
+        <item quantity="zero">Теги по запросу "%1$s" (элементов: %2$d)</item>
+        <item quantity="one">Теги по запросу "%1$s" (элементов: %2$d)</item>
+        <item quantity="two">Теги по запросу "%1$s" (элементов: %2$d)</item>
+        <item quantity="few">Теги по запросу "%1$s" (элементов: %2$d)</item>
+        <item quantity="many">Теги по запросу "%1$s" (элементов: %2$d)</item>
     </plurals>
     <plurals name="mins_ago">
         <item quantity="other">%1$d мин. назад</item>

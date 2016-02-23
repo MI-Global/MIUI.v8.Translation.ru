@@ -46,7 +46,7 @@
     <string name="cit_OTG_plugout_check_title">OTG (отключение)</string>
     <string name="cit_touch_calib_title">Калибровка касаний</string>
     <string name="cit_external_sd_check_title">Статус SD карты</string>
-    <string name="cit_touch_calib_summary">На следующем этапе будет производиться калибровка касаний, нажмите \"Далее\" и не нажимайте на экран после этого, ждите подсказки об успешной калибровке.</string>
+    <string name="cit_touch_calib_summary">На следующем этапе будет производиться калибровка касаний, нажмите "Далее" и не нажимайте на экран после этого, ждите подсказки об успешной калибровке.</string>
     <string name="cit_touch_calib_pass">Нажимайте на точки для калибровки</string>
     <string name="cit_touch_calib_fail">Ошибка калибровки. Запустите калибровку заново.</string>
     <string name="cit_version_check_summary">"Версия ПО
@@ -67,9 +67,9 @@
     <string name="cit_blue_tooth_scan_check_summary">Найденные Bluetooth устройства</string>
     <string name="cit_accelermeter_sensor_check_summary">"Быстро перемещайте устройство в одном направлении. Ниже будут отображаться координаты X, Y, Z (X отображает движения влево/вправо, Y отображает движения вперед/назад, Z отображает движения вверх/вниз).
 Перед калибровкой положите устройство на ровную поверхность."</string>
-    <string name="cit_headset_plug_detect_summary">После подключения гарнитуры ниже должна появиться надпись \"Гарнитура подключена\"</string>
+    <string name="cit_headset_plug_detect_summary">После подключения гарнитуры ниже должна появиться надпись "Гарнитура подключена"</string>
     <string name="cit_headset_button_check_summary">Подключите гарнитуру и нажимайте на кнопки управления. На экране будут отображаться названия кнопок.</string>
-    <string name="cit_headset_pull_detect_summary">После отключения гарнитуры ниже должна появиться надпись \"Гарнитура отключена\"</string>
+    <string name="cit_headset_pull_detect_summary">После отключения гарнитуры ниже должна появиться надпись "Гарнитура отключена"</string>
     <string name="cit_sim_check_summary">Проверьте статус и информацию о SIM карте</string>
     <string name="cit_reset_check_summary">Этот тест перезагрузит устройства. Все предыдущие результаты будут потеряны.</string>
     <string name="cit_audio_lb_summary_mainmic_to_earpiece">"Проверка основного микрофона на обратную связь.
@@ -82,13 +82,13 @@
 
 Держите телефон около уха, как будто вы совершаете звонок, говорите в основной микрофон и вы должны услышать свой голос из динамика. Рекомендуется тестировать в тишине."</string>
     <string name="cit_headset_loopback_check_summary">Подключите гарнитуру и говорите в микрофон. Если микрофон работает, то вы услышите свой голос в наушниках.</string>
-    <string name="cit_sd_plugin_check_summary">Текст \"SD карта обнаружена, теперь извлеките ее\" должен отобразиться ниже.</string>
-    <string name="cit_sd_plugout_check_summary">После извлечения SD карты, текст \"SD карта извлечена, теперь подключите ее\" должен отобразиться ниже.</string>
+    <string name="cit_sd_plugin_check_summary">Текст "SD карта обнаружена, теперь извлеките ее" должен отобразиться ниже.</string>
+    <string name="cit_sd_plugout_check_summary">После извлечения SD карты, текст "SD карта извлечена, теперь подключите ее" должен отобразиться ниже.</string>
     <string name="cit_keyboard_test_summary">"Проверка нажатий клавиш.
-Примечание: клавиша \"HOME\" свернет инженерное меню."</string>
-    <string name="cit_charger_plugin_check_summary">Когда зарядное устройство USB подключено, текст \"Зарядка через зарядное устройство/USB\" будет отображаться ниже.</string>
-    <string name="cit_charger_plugout_check_summary">Когда зарядное устройство USB отключено, текст \"Зарядное устройство/USB кабель отключен\" будет отображаться ниже.</string>
-    <string name="cit_play_sd_mp3_summary">Поместите файл с именем \"music.mp3\" в корень SD карты. Этот файл должен воспроизводиться через динамик устройства после начала теста.</string>
+Примечание: клавиша "HOME" свернет инженерное меню."</string>
+    <string name="cit_charger_plugin_check_summary">Когда зарядное устройство USB подключено, текст "Зарядка через зарядное устройство/USB" будет отображаться ниже.</string>
+    <string name="cit_charger_plugout_check_summary">Когда зарядное устройство USB отключено, текст "Зарядное устройство/USB кабель отключен" будет отображаться ниже.</string>
+    <string name="cit_play_sd_mp3_summary">Поместите файл с именем "music.mp3" в корень SD карты. Этот файл должен воспроизводиться через динамик устройства после начала теста.</string>
     <string name="cit_display_check_summary">Тест будет изменять цвет экрана. Если вы хотите использовать свои изображения, положите их в корень SD карты с расширением *.bmp</string>
     <string name="cit_main_camera_check_summary">"Основная камера 
 
@@ -110,8 +110,8 @@
     <string name="cit_gps_check_summary">Проверка GPS</string>
     <string name="cit_fm_check_summary">Информация FM</string>
     <string name="cit_power_check_summary">Заряд батареи</string>
-    <string name="cit_OTG_plugin_check_summary">Когда OTG устройство будет подключено, текст \"Отключите USB OTG устройство\" будет отображаться ниже.</string>
-    <string name="cit_OTG_plugout_check_summary">Когда OTG устройство будет отключено, текст \"Подключите USB OTG устройство\" будет отображаться ниже.</string>
+    <string name="cit_OTG_plugin_check_summary">Когда OTG устройство будет подключено, текст "Отключите USB OTG устройство" будет отображаться ниже.</string>
+    <string name="cit_OTG_plugout_check_summary">Когда OTG устройство будет отключено, текст "Подключите USB OTG устройство" будет отображаться ниже.</string>
     <string name="cit_external_sd_check_summary">Проверка обнаружения SD карты</string>
     <string name="cit_vibrator_short">Короткая</string>
     <string name="cit_vibrator_long">Длинная</string>
@@ -182,9 +182,9 @@
     <string name="cit_OTG_waiting_out">Отключите USB OTG устройство</string>
     <string name="cit_usb_OTG_out">USB OTG устройство отключено</string>
     <string name="cit_otg_not_supported">Это устройство не поддерживает OTG</string>
-    <string name="cit_sd_mp3_not_existed">"Файл с именем \"music.mp3\" отсутствует на SD карте.
-Поместите \"music.mp3\" в папку на карте памяти, затем коснитесь экрана для воспроизведения."</string>
-    <string name="cit_playing_sd_mp3">Воспроизведение \"music.mp3\"…</string>
+    <string name="cit_sd_mp3_not_existed">"Файл с именем "music.mp3" отсутствует на SD карте.
+Поместите "music.mp3" в папку на карте памяти, затем коснитесь экрана для воспроизведения."</string>
+    <string name="cit_playing_sd_mp3">Воспроизведение "music.mp3"…</string>
     <string name="cit_display_continue">Коснитесь экрана, чтобы начать тест.</string>
     <string name="cit_vga_camera_capture">Фото</string>
     <string name="cit_vga_camera_delete">Удалить</string>
@@ -289,7 +289,7 @@
     <string name="cit_x5_audio_lb_summary_frontmic_to_speaker">"Тест переднего микрофона.
 
 Говорите в передний микрофон и вы должны услышать свой голос из динамика."</string>
-    <string name="cit_play_sd_mp3_hifi_summary">Поместите файл с именем \"music.mp3\" в корень SD карты. Этот файл должен воспроизводиться через Hi-Fi после начала теста.</string>
+    <string name="cit_play_sd_mp3_hifi_summary">Поместите файл с именем "music.mp3" в корень SD карты. Этот файл должен воспроизводиться через Hi-Fi после начала теста.</string>
     <string name="cit_camera_calibration_summary">"Инструкция:
 
 1.Нажмите кнопку ниже для запуска камеры

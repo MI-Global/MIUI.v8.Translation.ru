@@ -32,7 +32,7 @@
   <string name="accessibility_phone_two_bars">Сигнал сети: 2</string>
   <string name="accessibility_recent">Недавние приложения</string>
   <string name="accessibility_remove_notification">Удалить уведомление</string>
-  <string name="accessibility_ringer_silent">Режим \"Без звука\"</string>
+  <string name="accessibility_ringer_silent">Режим "Без звука"</string>
   <string name="accessibility_ringer_vibrate">Вибровызов</string>
   <string name="accessibility_search_light">Поиск</string>
   <string name="accessibility_tty_enabled">Телетайп включен</string>
@@ -58,9 +58,9 @@
   <string name="call_status_dialing">Вызов</string>
   <string name="call_status_ringing">Вызов</string>
   <string name="camera_key_action_app_title">Открыть приложение</string>
-  <string name="camera_key_action_category_title">Действия клавиши \"MI\"</string>
+  <string name="camera_key_action_category_title">Действия клавиши "MI"</string>
   <string name="camera_key_action_none_title">Запуск камеры</string>
-  <string name="camera_key_action_setting_title">Клавиша \"MI\"</string>
+  <string name="camera_key_action_setting_title">Клавиша "MI"</string>
   <string name="camera_key_action_shortcut_call">Телефон</string>
   <string name="camera_key_action_shortcut_home">Домой</string>
   <string name="camera_key_action_shortcut_screenshot">Скриншот</string>
@@ -140,7 +140,7 @@
   <string name="oldman_incall_text">Входящий</string>
   <string name="reject_call">Отклонить</string>
   <string name="return_to_incall_screen">Нажмите для возврата к разговору</string>
-  <string name="screen_button_disabled_message">Нижние клавиши отключены. Вы можете включить их снова, нажав клавиши \"Домой\" + \"Питание\".</string>
+  <string name="screen_button_disabled_message">Нижние клавиши отключены. Вы можете включить их снова, нажав клавиши "Домой" + "Питание".</string>
   <string name="screen_button_enabled_message">Нижние клавиши включены</string>
   <string name="screen_rotation_freeze_message">Поворот экрана заблокирован в ландшафтном режиме</string>
   <string name="screenshot_failed_text">Возможно, накопители заняты.</string>
@@ -216,7 +216,7 @@
   <string name="usb_debugging_message">Ключ RSA компьютера:\n%1$s</string>
   <string name="usb_debugging_title">Включить отладку по USB?</string>
   <string name="usb_device_confirm_prompt">Открыть %1$s когда это USB-устройство подключено?</string>
-  <string name="usb_device_permission_prompt">Разрешить приложению \"%1$s\" доступ к USB-устройству?</string>
+  <string name="usb_device_permission_prompt">Разрешить приложению "%1$s" доступ к USB-устройству?</string>
   <string name="usb_mode_dont_ask">Запомнить мой выбор</string>
   <string name="usb_mode_mount_storage_title">Подключить USB-накопитель?</string>
   <string name="usb_mode_notification">USB-накопитель</string>

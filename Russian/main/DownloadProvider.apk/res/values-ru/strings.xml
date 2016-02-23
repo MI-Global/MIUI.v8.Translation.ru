@@ -42,7 +42,7 @@
     <string name="wifi_recommended_title">Загрузки</string>
     <string name="wifi_recommended_body" formatted="false">"При загрузке через мобильную сеть возможно чрезмерное потребление трафика.
 
-Чтобы выполнить загрузку позже по Wi-Fi, нажмите \"Добавить в очередь\". 
+Чтобы выполнить загрузку позже по Wi-Fi, нажмите "Добавить в очередь". 
 
 %s(%s)"</string>
     <string name="button_queue_for_wifi">Позже</string>

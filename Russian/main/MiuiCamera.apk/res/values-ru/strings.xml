@@ -381,7 +381,7 @@
     <string name="contact_web">Сайт</string>
     <string name="copy_text">Копировать текст</string>
     <string name="copy_text_success">Скопировано</string>
-    <string name="crop_saved">Изображение сохранено в \"%s\"</string>
+    <string name="crop_saved">Изображение сохранено в "%s"</string>
     <string name="delete">Удалить</string>
     <string name="deleted">Удалено</string>
     <string name="description">Описание</string>
@@ -529,7 +529,7 @@
     <string name="times">Время</string>
     <string name="toast_burst_snap_forbidden_when_face_beauty_open">Серийная съемка недоступна, когда включен режим улучшения тона кожи.</string>
     <string name="toast_burst_snap_forbidden_when_hdr_open">Серийная съeмка недоступна, когда включeн режим HDR.</string>
-    <string name="toast_burst_snap_forbidden_when_iso_not_auto">Серийная съемка не поддерживается, если ISO не установлено в режим \"Авто\".</string>
+    <string name="toast_burst_snap_forbidden_when_iso_not_auto">Серийная съемка не поддерживается, если ISO не установлено в режим "Авто".</string>
     <string name="undo">Отмена</string>
     <string name="unit_mm">мм</string>
     <string name="video_camera_label">Видеокамера</string>

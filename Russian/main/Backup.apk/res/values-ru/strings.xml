@@ -35,7 +35,7 @@
     <string name="restore_report">Журнал восстановления</string>
     <string name="restore_progress">Восстановление…</string>
     <string name="restore_contacts_hit">Для восстановления контактов необходимо войти в аккаунт</string>
-    <string name="restore_telephony_hit">Процесс восстановления перезагрузит приложение \"Телефон\"</string>
+    <string name="restore_telephony_hit">Процесс восстановления перезагрузит приложение "Телефон"</string>
     <string name="restore_launcher_layout_hit">Восстановить настройки рабочего стола</string>
     <string name="settings_summary">" (настройки телефона и сообщений)"</string>
     <string name="account_summary">" (аккаунты и прочие данные пользователя)"</string>
@@ -157,15 +157,15 @@
     <string name="refresh">Обновить</string>
     <string name="cloud_item_info_summary">(Локально: %1$s | Онлайн: %2$s)</string>
     <string name="total_num">Всего записей: %d</string>
-    <string name="cloud_restore_guide">Нажмите \"Начать\" для восстановления \"%s\"</string>
+    <string name="cloud_restore_guide">Нажмите "Начать" для восстановления "%s"</string>
     <string name="import_from_xiaomi_account_hint1">"1.\u0009Установите Mi Talk и войдите в него
 \u0009http://www.miliao.com
 
 2.\u0009Зайдите в настройки Mi Talk и создайте резервную копию контактов в Mi Аккаунт"</string>
     <string name="import_from_xiaomi_account_hint2">Перейдите к следующему шагу, если резервная копия уже существует.</string>
     <string name="import_from_xiaomi_account_hint_title">Используйте MiTalk для создания резервной копии контактов на других устройствах</string>
-    <string name="guarded_mode_dialog_title">Активен режим \"Гость\"</string>
-    <string name="guarded_mode_dialog_message">Эта функция не доступна в режиме \"Гость\"</string>
+    <string name="guarded_mode_dialog_title">Активен режим "Гость"</string>
+    <string name="guarded_mode_dialog_message">Эта функция не доступна в режиме "Гость"</string>
     <string name="multi_select_title">Выбрано: %1$s</string>
     <string name="enable_encrypt_title">Включить шифрование</string>
     <string name="disable_encrypt_title">Отключить шифрование</string>

@@ -342,7 +342,7 @@
     <string name="album_member">Пользователи %s</string>
     <string name="add_sharer">Добавить пользователя</string>
     <string name="album_name">Имя альбома</string>
-    <string name="already_apply_album">Открыть \"%1$s\"?</string>
+    <string name="already_apply_album">Открыть "%1$s"?</string>
     <string name="no_picture_or_video">Нет фото и видео</string>
     <string name="camera_view_none_message">Нажмите, чтобы открыть камеру</string>
     <string name="sync_in_progress_message">Синхронизация…</string>
@@ -359,8 +359,8 @@
 с друзьями"</string>
     <string name="view_sharers">Пользователи</string>
     <string name="cloudfolder_name_reserved">Название альбома защищено</string>
-    <string name="cloudfolder_contain_invalidate_char">Название не должно содержать \"%s\"</string>
-    <string name="cloudfolder_cannot_start_with">Название не может начинаться с \"%s\"</string>
+    <string name="cloudfolder_contain_invalidate_char">Название не должно содержать "%s"</string>
+    <string name="cloudfolder_cannot_start_with">Название не может начинаться с "%s"</string>
     <string name="cloudfolder_name_cannot_empty">Введите название</string>
     <string name="add_to_cloud_folder">В облако</string>
     <string name="create_new_cloud_folder">Создать облачный альбом</string>
@@ -417,18 +417,18 @@
     <string name="request_sms_url_title">Предупреждение</string>
     <string name="request_sms_url_msg">Запрос информации…</string>
     <string name="fail_to_pick_email">Неверный Email</string>
-    <string name="share_by_email_successfully">Вы поделились с \"%1$s\"</string>
-    <string name="share_by_email_start">Поделиться \"%1$s\" в фоновом режиме</string>
+    <string name="share_by_email_successfully">Вы поделились с "%1$s"</string>
+    <string name="share_by_email_start">Поделиться "%1$s" в фоновом режиме</string>
     <string name="exit_share">Выйти из альбома</string>
     <string name="exit_share_in_process">Выход из альбома…</string>
-    <string name="exit_share_successfully">Вы вышли из альбома \"%1$s\"</string>
-    <string name="exit_share_failed">Не удалось выйти из альбома \"%1$s\"</string>
+    <string name="exit_share_successfully">Вы вышли из альбома "%1$s"</string>
+    <string name="exit_share_failed">Не удалось выйти из альбома "%1$s"</string>
     <string name="cancel_hint">Действие отменено</string>
     <string name="fail_hint">Ошибка действия</string>
     <string name="kick_sharer">Удалить получателя</string>
     <string name="kick_sharer_successfully">Получатель удален</string>
     <string name="kick_sharer_failed">Не удалось удалить</string>
-    <string name="accept_or_deny">Пользователь \"%1$s\" поделился с вами альбомом %2$s</string>
+    <string name="accept_or_deny">Пользователь "%1$s" поделился с вами альбомом %2$s</string>
     <string name="accept">Принять</string>
     <string name="deny">Отклонить</string>
     <string name="enable_cloud_for_sharing">Необходимо включить облачные альбомы для просмотра принятых фото</string>
@@ -523,9 +523,9 @@
     <string name="picker_select_album_title_empty">Выбрать альбом</string>
     <string name="picker_no_album_selected">Альбомы не выбраны</string>
     <string name="download">Загрузка</string>
-    <string name="confirm_download">Загрузить файл \"%s\"?</string>
+    <string name="confirm_download">Загрузить файл "%s"?</string>
     <string name="download_fail">Ошибка загрузки</string>
-    <string name="download_fail_confirm_continue">Ошибка загрузки \"%s\"</string>
+    <string name="download_fail_confirm_continue">Ошибка загрузки "%s"</string>
     <string name="make_download_dir_fail">Ошибка создания папки для хранения файлов</string>
     <string name="delete_smb_file_fail">Ошибка удаления файла smb</string>
     <string name="new_device_tips">"Нажмите для
@@ -617,7 +617,7 @@
     <string name="face_move_dialog_title">Выберите альбом</string>
     <string name="confirm_face">Применить</string>
     <string name="confirm_not_face">Не этого человека</string>
-    <string name="recommanded_face_added_tip">Добавлено в \"%s\"</string>
+    <string name="recommanded_face_added_tip">Добавлено в "%s"</string>
     <string name="recommanded_face_abandon_tip">Удалено из рекомендаций</string>
     <string name="face_album_long_tap_tip">Для управления альбомами удерживайте на фото</string>
     <string name="more_face_album_name">Другие лица</string>
@@ -625,7 +625,7 @@
     <string name="change_to_photo_mode">Переключить в режим фото</string>
     <string name="create_baby_album_later_toast">Вы можете создать детский альбом позже</string>
     <string name="not_remind_any_more">Запомнить</string>
-    <string name="finish_create_baby_album_toast">Альбом для \"%s\" создан в Mi Cloud</string>
+    <string name="finish_create_baby_album_toast">Альбом для "%s" создан в Mi Cloud</string>
     <string name="creating_baby_album">Создание альбома…</string>
     <string name="create_baby_album">Создать детский альбом</string>
     <string name="baby_album">Детский альбом</string>
@@ -641,7 +641,7 @@
     <string name="auto_update_off">Выключено</string>
     <string name="associate_face_album">Выберите альбом</string>
     <string name="finish_fill_baby">Создать</string>
-    <string name="create_baby_album_dialog_msg">Создать альбом для \"%s\"?</string>
+    <string name="create_baby_album_dialog_msg">Создать альбом для "%s"?</string>
     <string name="input_nickname_toast">Введите имя ребенка</string>
     <string name="baby_sexy">Пол</string>
     <string name="you_are" />
@@ -649,10 +649,10 @@
     <string name="already_create_baby_album">Детский альбом уже существует в Mi Cloud</string>
     <string name="input_baby_name">Введите имя</string>
     <string name="baby_name_reserved">Такое имя уже существует в другом альбоме</string>
-    <string name="baby_name_contain_invalidate_char">Имя не может содержать \"%s\"</string>
-    <string name="baby_name_cannot_start_with">Имя не может начинаться с \"%s\"</string>
+    <string name="baby_name_contain_invalidate_char">Имя не может содержать "%s"</string>
+    <string name="baby_name_cannot_start_with">Имя не может начинаться с "%s"</string>
     <string name="baby_name_cannot_empty">Введите имя</string>
-    <string name="same_name_album_exist_and_toast">Альбом с таким именем уже существует. Создан альбом \"%s\".</string>
+    <string name="same_name_album_exist_and_toast">Альбом с таким именем уже существует. Создан альбом "%s".</string>
     <string name="create_quick_icon_on_desk">Ярлык на рабочий стол</string>
     <string name="success_create_quick_icon_on_desk">Ярлык создан</string>
     <string name="view_baby_album">Показать детский альбом</string>
@@ -670,7 +670,7 @@
     <string name="single_device_project_dialog_checkbox_text">Запомнить</string>
     <string name="network_connected_rescan">Повторите поиск после подключения к интернету</string>
     <string name="no_secret_photo">Нет секретных фото</string>
-    <string name="in_home_page_long_press_photo_setting_secret_photo">Удерживайте фото и выберите пункт \"В секретный альбом\", чтобы скрыть фото</string>
+    <string name="in_home_page_long_press_photo_setting_secret_photo">Удерживайте фото и выберите пункт "В секретный альбом", чтобы скрыть фото</string>
     <string name="all_video_album_display_name">Все видео</string>
     <string name="add_event">Добавить событие</string>
     <string name="add_event_hint">Введите название</string>
@@ -703,13 +703,13 @@
     <string name="phone_number_empty_alert">Добавить номер телефона</string>
     <string name="send_invitation_fail">Ошибка отправки приглашения</string>
     <string name="invite_send_sms_tip">При использовании SMS приглашений может взиматься плата оператором</string>
-    <string name="baby_album_picker_default_title">Выберите лицо \"%1$s\"</string>
-    <string name="baby_album_new_photo_page_title">Альбом \"%1$s\"</string>
+    <string name="baby_album_picker_default_title">Выберите лицо "%1$s"</string>
+    <string name="baby_album_new_photo_page_title">Альбом "%1$s"</string>
     <string name="baby_album_sharer_accept_dialog_msg">"%1$s %2$s,
 %3$s %4$s поделился альбомом %5$s"</string>
     <string name="add_automatically_alert_title">Добавление фото</string>
-    <string name="add_automatically_alert_msg">Добавлять фото из \"%1$s\" в этот альбом автоматически?</string>
-    <string name="baby_album_sharer_recommand_face">Добавить существующие фото \"%1$s\"?</string>
+    <string name="add_automatically_alert_msg">Добавлять фото из "%1$s" в этот альбом автоматически?</string>
+    <string name="baby_album_sharer_recommand_face">Добавить существующие фото "%1$s"?</string>
     <string name="baby_lock_wallpaper">Обои экрана блокировки</string>
     <string name="baby_lock_wallpaper_title">Детский альбом на экран блокировки</string>
     <string name="apply">ОК</string>
@@ -752,7 +752,7 @@
     <string name="confirm_delete_has_local_image_video">Удалить выбранные файлы? (%s)</string>
     <string name="confirm_delete_home_merge_item">Удалить %s фото из памяти устройства и Mi Cloud?</string>
     <string name="confirm_delete_pictures">Фото: %s</string>
-    <string name="confirm_delete_system_album">Удалить системный альбом \"%s\"?</string>
+    <string name="confirm_delete_system_album">Удалить системный альбом "%s"?</string>
     <string name="confirm_delete_this_picture">Удалить изображение?</string>
     <string name="confirm_delete_this_video">Удалить видео?</string>
     <string name="confirm_delete_videos">Видео: %s</string>
@@ -760,7 +760,7 @@
     <string name="how_many_sub_folders">Папок: %d</string>
     <string name="how_many_videos">Видео: %d</string>
     <string name="message_no_delete_access_with_count">Нет доступа к этим файлам (%d)</string>
-    <string name="photo_saved">Фотография сохранена в альбоме \"%s\"</string>
+    <string name="photo_saved">Фотография сохранена в альбоме "%s"</string>
     <string name="screensaver_category">Заставка</string>
     <string name="screensaver_path">"Альбом заставки: "</string>
     <string name="screensaver_path_not_set">не задан</string>
@@ -788,6 +788,6 @@
     <string name="confirm_all_photo_are_this_people_face">Объединить с альбомом %s?</string>
     <string name="auto_upload_face">Автодобавление фото</string>
     <string name="auto_upload_face_summary">Автоматически сравнивать и добавлять фото в детский альбом</string>
-    <string name="auto_upload_face_summary_with_people_name_when_off">Автоматически добавлять фото \"%1$s\" в этот альбом</string>
-    <string name="auto_upload_face_summary_with_people_name_when_on">Автоматически добавлять фото \"%1$s\" в этот альбом</string>
+    <string name="auto_upload_face_summary_with_people_name_when_off">Автоматически добавлять фото "%1$s" в этот альбом</string>
+    <string name="auto_upload_face_summary_with_people_name_when_on">Автоматически добавлять фото "%1$s" в этот альбом</string>
 </resources>

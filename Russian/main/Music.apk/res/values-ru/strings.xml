@@ -248,7 +248,7 @@
     <string name="set_as_ring">Установить на звонок</string>
     <string name="ringtone_not_support">Формат не поддерживается</string>
     <string name="please_download_first">Сначала скачайте</string>
-    <string name="set_ringtones_successful">Трек \"%s\" установлен как рингтон</string>
+    <string name="set_ringtones_successful">Трек "%s" установлен как рингтон</string>
     <string name="set_ringtones_failed">Ошибка применения</string>
     <string name="sleep_mode_canceled">Таймер сна выключен</string>
     <string name="priority_storage">Использовать SD-карту</string>
@@ -412,7 +412,7 @@
     <string name="online_music_enabled_subtitle">Перейти</string>
     <string name="online_music_enabled_summary">Слушайте и скачивайте музыку онлайн бесплатно!</string>
     <string name="start_to_download">Загрузка…</string>
-    <string name="message_delete_playlist">Удалить плейлист \"%s\"?</string>
+    <string name="message_delete_playlist">Удалить плейлист "%s"?</string>
     <string name="vip_expiration_title">Подписка заканчивается</string>
     <string name="vip_expiration_message">По истечении срока подписки вам будет доступна музыка в качестве 128 кбит/с</string>
     <string name="handle_later">Позже</string>
@@ -466,7 +466,7 @@
     <string name="dislike">Не нравится</string>
     <string name="find_ktv">KTV</string>
     <string name="mediaplaybacklabel">Телефон</string>
-    <string name="mi_effect">Усилитель звука \"Mi Sound\"</string>
+    <string name="mi_effect">Усилитель звука "Mi Sound"</string>
     <string name="music_picker_title">Выберите трек</string>
     <string name="track_list_descript_cover">Обложка</string>
     <string name="download_auto_after_preference_summary">Автоматически скачивать треки, которые вы отметили как избранные</string>

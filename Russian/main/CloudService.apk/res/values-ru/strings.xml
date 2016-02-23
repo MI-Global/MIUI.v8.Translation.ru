@@ -246,7 +246,7 @@ ID Вашего устройства будет зашифрован и отпр
     <string name="micloud_setting_music_summary">Плейлисты и избранное</string>
     <string name="micloud_setting_wifi_summary">Настройки Wi-Fi</string>
     <string name="micloud_setting_deskclock_summary">Настройки часов</string>
-    <string name="micloud_setting_antispam_summary">Исключения для режима \"Не беспокоить\" и блокируемых номеров</string>
+    <string name="micloud_setting_antispam_summary">Исключения для режима "Не беспокоить" и блокируемых номеров</string>
     <string name="upgrade_space_gb">Гб</string>
     <string name="upgrade_space_tb">Тб</string>
     <string name="upgrade_space_mibipreyear">%s Mi Credit в год</string>
@@ -299,9 +299,9 @@ ID Вашего устройства будет зашифрован и отпр
     <string name="micloud_member_pay_order_error_toast">Ошибка данных</string>
     <string name="micloud_member_pay_miid_error_toast">Ошибка аккаунта</string>
     <string name="micloud_member_refresh_button">Обновить</string>
-    <string name="share_miliao_not_installed">Приложение \"MiTalk\" не установлено</string>
-    <string name="share_weibo_not_installed">Приложение \"Weibo\" не установлено</string>
-    <string name="share_weixin_not_installed">Приложение \"Wechat\" не установлено</string>
+    <string name="share_miliao_not_installed">Приложение "MiTalk" не установлено</string>
+    <string name="share_weibo_not_installed">Приложение "Weibo" не установлено</string>
+    <string name="share_weixin_not_installed">Приложение "Wechat" не установлено</string>
     <string name="share_success">Отправка завершена</string>
     <string name="share_cancel">Отправка отменена</string>
     <string name="share_failed">Ошибка отправки</string>

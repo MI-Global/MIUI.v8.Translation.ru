@@ -109,12 +109,12 @@
         <item quantity="one">Эти лица (%1$s) могут также относиться к %2$s >></item>
     </plurals>
     <plurals name="baby_album_sharer_recommand_old_pictures">
-        <item quantity="other">%1$d фото от \"%2$s\" будут добавлены</item>
-        <item quantity="one">%1$d фото от \"%2$s\" будут добавлены</item>
+        <item quantity="other">%1$d фото от "%2$s" будут добавлены</item>
+        <item quantity="one">%1$d фото от "%2$s" будут добавлены</item>
     </plurals>
     <plurals name="baby_album_sharer_recommand_new_pictures">
-        <item quantity="other">%1$d фото от \"%2$s\" будут добавлены</item>
-        <item quantity="one">%1$d фото от \"%2$s\" будут добавлены</item>
+        <item quantity="other">%1$d фото от "%2$s" будут добавлены</item>
+        <item quantity="one">%1$d фото от "%2$s" будут добавлены</item>
     </plurals>
     <plurals name="baby_age_subtitle_year">
         <item quantity="other">"%1$d л. "</item>

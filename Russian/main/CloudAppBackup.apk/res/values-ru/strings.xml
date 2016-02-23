@@ -21,7 +21,7 @@
     <string name="cloud_app_total_size">Размер: %1$s</string>
     <string name="cloud_app_version_size">Версия: %1$s | Размер: %2$s</string>
     <string name="cloud_app_restore_prompt">Бэкап из Mi Cloud при восстановлении заменит локальные данные приложения</string>
-    <string name="cloud_app_remove_prompt">Удалить бэкап приложения \"%1$s\"?</string>
+    <string name="cloud_app_remove_prompt">Удалить бэкап приложения "%1$s"?</string>
     <string name="cloud_app_restore_app_and_data">Восстановить данные приложения</string>
     <string name="cloud_app_restore_data">Восстановление приложений</string>
     <string name="cloud_app_dont_restore">Отмена</string>
@@ -57,7 +57,7 @@
     <string name="button_delete">Удалить</string>
     <string name="customization"><u>Настройки</u></string>
     <string name="self_phone">Это устройство</string>
-    <string name="process_whole_recovery">Восстановление из \"%s\"</string>
+    <string name="process_whole_recovery">Восстановление из "%s"</string>
     <string name="backup_immediately">Создать бэкап</string>
     <string name="app_installed">Установленные</string>
     <string name="app_not_installed">Облачные</string>
@@ -68,7 +68,7 @@
     <string name="disable_backup">Выкл.</string>
     <string name="dialog_disable_backup">Отключить создание бэкапа</string>
     <string name="no_backup">Нет бэкапов</string>
-    <string name="confirm_disable_backup">Отключить и удалить \"%s\"?</string>
+    <string name="confirm_disable_backup">Отключить и удалить "%s"?</string>
     <string name="already_deleted">%s (удалено)</string>
     <string name="datasize_unknown">Неизвсетно</string>
     <string name="recovering">Восстановление: %s</string>
@@ -92,7 +92,7 @@
     <string name="managespace_delete_backup">Удалить бэкап</string>
     <string name="error_unknown">Неизвестная ошибка</string>
     <string name="backup_size">Размер: %s</string>
-    <string name="device_delete_prompt">Удалить бэкап \"%s\"?</string>
+    <string name="device_delete_prompt">Удалить бэкап "%s"?</string>
     <string name="v5_data">Данные V5</string>
     <string name="v5_delete">Удалить данные V5</string>
     <string name="desktop_waiting">Ожидание</string>
@@ -140,6 +140,6 @@
     <string name="my_phone">Мое устройство</string>
     <string name="network_timeout">Время ожидания подключения истекло</string>
     <string name="skip_recovery">Пропустить</string>
-    <string name="start_whole_recovery">Начать восстановление из \"%s\"</string>
+    <string name="start_whole_recovery">Начать восстановление из "%s"</string>
     <string name="v5tov6_complete">Перенос завершен</string>
 </resources>

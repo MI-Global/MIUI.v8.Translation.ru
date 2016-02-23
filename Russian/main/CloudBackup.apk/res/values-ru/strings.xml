@@ -23,7 +23,7 @@
     <string name="button_delete">Удалить</string>
     <string name="customization"><u>Настройки</u></string>
     <string name="self_phone">Это устройство</string>
-    <string name="process_whole_recovery">Восстановление \"%s\"</string>
+    <string name="process_whole_recovery">Восстановление "%s"</string>
     <string name="recovering">Восстановление %s</string>
     <string name="start_recover">Восстановить %s</string>
     <string name="latest_backup_time_loading">Загрузка…</string>

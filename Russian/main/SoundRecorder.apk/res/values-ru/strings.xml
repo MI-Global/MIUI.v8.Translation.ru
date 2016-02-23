@@ -52,11 +52,11 @@
     <string name="duration_format_hour">%s ч.</string>
     <string name="duration_format_minute">%s мин.</string>
     <string name="duration_format_second">%s сек.</string>
-    <string name="toast_max_record_time">Приложение \"%1$s\" поддерживает максимальное время записи: %2$s</string>
+    <string name="toast_max_record_time">Приложение "%1$s" поддерживает максимальное время записи: %2$s</string>
     <string name="message_file_size_error">Запись достигла максимального размера (%s)</string>
     <string name="pause">Пауза</string>
     <string name="back">Назад</string>
-    <string name="toast_uninstall_fileexplorer">Приложение \"Проводник\" не установлено</string>
+    <string name="toast_uninstall_fileexplorer">Приложение "Проводник" не установлено</string>
     <string name="record_download">Скачать запись из Mi Cloud?</string>
     <string name="record_download_msg">Для воспроизведения записи необходимо ее скачать</string>
     <string name="record_download_msg_reload">Запись не существует</string>
@@ -88,7 +88,7 @@
     <string name="data_connection_button_text">ОК</string>
     <string name="error_sdcard_unmounted">Накопитель отключен</string>
     <string name="record_back_pressed_hint">Нажмите еще раз для остановки записи</string>
-    <string name="access_error">Запись невозможна в режиме \"Гость\"</string>
+    <string name="access_error">Запись невозможна в режиме "Гость"</string>
     <string name="button_ok">ОК</string>
     <string name="hour">%d ч.</string>
     <string name="loading_recording">Нет записей</string>

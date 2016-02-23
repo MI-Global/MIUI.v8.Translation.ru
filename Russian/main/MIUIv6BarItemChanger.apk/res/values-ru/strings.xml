@@ -34,9 +34,9 @@
      <string name="err_reset">Error while reset settings</string>
      <string name="err_saving">Error while saving settings</string>
      <string name="howtouse_text">"1. Use Drag'n'Drop to arrange your toggles in your preferred order.
-2. Press the \"Save\" button.
+2. Press the "Save" button.
 3. Done!"</string>
-     <string name="howtouse_text1">\"Reset\" button will reset toggles order to default.</string>
+     <string name="howtouse_text1">"Reset" button will reset toggles order to default.</string>
      <string name="main_header">"Drag'n'Drop your toggles as you wish"</string>
      <string name="main_menu_about">About</string>
      <string name="main_menu_howtouse">Quick Tutorial</string>

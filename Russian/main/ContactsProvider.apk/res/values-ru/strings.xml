@@ -25,7 +25,7 @@
     <string name="search_the_yellowpage">Поиск в сервисах</string>
     <string name="edit_contact">Добавить к контакту</string>
     <string name="call_log_provider_label">Вызовы</string>
-    <string name="third_party_delete_contact_info">Приложение \"%s\" пытается удалить контакты. Это действие не может быть выполнено сторонним приложением. Для этого используйте стандартное приложение \"Контакты\".</string>
+    <string name="third_party_delete_contact_info">Приложение "%s" пытается удалить контакты. Это действие не может быть выполнено сторонним приложением. Для этого используйте стандартное приложение "Контакты".</string>
     <string name="group_name_contacts">Контакты</string>
     <string name="group_name_coworkers">Коллеги</string>
     <string name="group_name_family">Семья</string>

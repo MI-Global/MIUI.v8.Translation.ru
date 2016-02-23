@@ -207,7 +207,7 @@
     <string name="fdn_check_failure">Вы можете отправлять сообщения только на номера из списка разрешенных номеров</string>
     <string name="no_subject">(без темы)</string>
     <string name="unknown_sender">Неизвестный отправитель</string>
-    <string name="dl_failure_notification">Не удалось загрузить сообщение \"%1$s\" от пользователя %2$s</string>
+    <string name="dl_failure_notification">Не удалось загрузить сообщение "%1$s" от пользователя %2$s</string>
     <string name="rate_limit_surpassed">Подтвердить</string>
     <string name="confirm_rate_limit">Отправляется большое количество MMS. Продолжить?</string>
     <string name="message_download_failed_title">Не удалось загрузить сообщение</string>
@@ -216,7 +216,7 @@
     <string name="download_later">Не удалось загрузить сообщения</string>
     <string name="select_audio">Выбор аудио</string>
     <string name="copy_to_sdcard">Сохранить вложение</string>
-    <string name="copy_to_sdcard_success">Вложение сохранено как \"%s\"</string>
+    <string name="copy_to_sdcard_success">Вложение сохранено как "%s"</string>
     <string name="copy_to_sdcard_fail">Не удалось сохранить вложение</string>
     <string name="save_ringtone">Сохранить как мелодию звонка</string>
     <string name="saved_ringtone">Мелодия сохранена</string>
@@ -307,7 +307,7 @@
     <string name="phrase_empty">Нет фраз</string>
     <string name="pref_title_notification_body_enabled">Предварительный просмотр</string>
     <string name="pref_summary_notification_body_enabled">Предварительный просмотр сообщений на экране блокировки и в строке состояния</string>
-    <string name="pref_summary_notification_body_enabled_when_secure">Предварительный просмотр сообщений отключен в режиме \"Гость\"</string>
+    <string name="pref_summary_notification_body_enabled_when_secure">Предварительный просмотр сообщений отключен в режиме "Гость"</string>
     <string name="pref_title_wake_up_screen">Включать экран</string>
     <string name="pref_summary_wake_up_screen">Включение экрана при получении новых сообщений</string>
     <string name="pref_title_delivery_reports">Отчет о доставке</string>
@@ -324,8 +324,8 @@
     <string name="pref_summary_allow_si_sl_push">Разрешить прием WAP Push сообщений (SI/SL)</string>
     <string name="pref_title_show_recent_contacts">Недавние контакты</string>
     <string name="pref_summary_show_recent_contacts">Показывать список недавних контактов при создании новых сообщений</string>
-    <string name="pref_title_hide_festival">Скрыть \"Поздравления\"</string>
-    <string name="pref_summary_hide_festival">Скрыть \"Поздравления\" для языков, отличных от китайского.</string>
+    <string name="pref_title_hide_festival">Скрыть "Поздравления"</string>
+    <string name="pref_summary_hide_festival">Скрыть "Поздравления" для языков, отличных от китайского.</string>
     <string name="send_signature_confirm_dialog_title">Отправить подтверждение</string>
     <string name="send_signature_confirm_dialog_message">Вы не ввели текст сообщения, вы хотите отправить его только с подписью?</string>
     <string name="enter_edit_mode">Пакетное удаление</string>
@@ -345,10 +345,10 @@
     <string name="text_in_popup_saved_to_clipboard">Скопировано в буфер</string>
     <string name="guild_add_recipients">Нажмите для добавления получателей из адресной книги</string>
     <string name="guild_add_attachments">Нажмите для добавления вложения или смайла в сообщение</string>
-    <string name="privacy_mode_hint">Невозможно отправлять сообщения в режиме \"Гость\"</string>
+    <string name="privacy_mode_hint">Невозможно отправлять сообщения в режиме "Гость"</string>
     <string name="message_too_big_for_audio">Сообщение слишком большое, чтобы добавить аудио.</string>
     <string name="add_timing">Таймер</string>
-    <string name="pref_title_system_mms_priority">Приоритет для \"Сообщения\"</string>
+    <string name="pref_title_system_mms_priority">Приоритет для "Сообщения"</string>
     <string name="pref_summary_on_system_mms_priority">Системное приложение будет получать сообщения первым</string>
     <string name="pref_summary_off_system_mms_priority">Другие приложения для сообщений будут получать сообщение первыми</string>
     <string name="title_timed_message_dialog">Время отправки сообщения</string>
@@ -404,7 +404,7 @@ SMS (%1$d), MMS (%2$d)."</string>
     <string name="mx_enable_popup_msg">Облачные сообщения позволят вам бесплатно обмениваться сообщениями с другими пользователями MIUI</string>
     <string name="mx_btn_enable_now">Включить</string>
     <string name="loading_mms">Загрузка MMS…</string>
-    <string name="add_number_to_sender">Добавить номер к контакту \"%s\"</string>
+    <string name="add_number_to_sender">Добавить номер к контакту "%s"</string>
     <string name="unknown_num">Неизвестный номер</string>
     <string name="in_sms">Сообщение</string>
     <string name="sms_content">Содержимое:</string>

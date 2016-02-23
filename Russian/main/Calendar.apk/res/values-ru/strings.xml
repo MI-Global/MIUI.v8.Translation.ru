@@ -58,7 +58,7 @@
     <string name="privacy_label">Конфиденциальность</string>
     <string name="reminders_label">Добавить напоминание</string>
     <string name="no_syncable_calendars">Нет календарей</string>
-    <string name="no_calendars_found">Добавить событие можно только в видимый календарь, связанный с аккаунтом Google. Нажмите \"Добавить аккаунт\" или, если аккаунт уже добавлен, дождитесь окончания синхронизации и повторите попытку. Либо нажмите \"Отмена\" и сделайте видимым хотя бы один календарь.</string>
+    <string name="no_calendars_found">Добавить событие можно только в видимый календарь, связанный с аккаунтом Google. Нажмите "Добавить аккаунт" или, если аккаунт уже добавлен, дождитесь окончания синхронизации и повторите попытку. Либо нажмите "Отмена" и сделайте видимым хотя бы один календарь.</string>
     <string name="create_an_account_desc">"Подключите календарь к аккаунту Google, чтобы:
 
 • Всегда иметь под рукой обновленные данные на любом устройстве.
@@ -172,7 +172,7 @@
     <string name="add_calendar">Подписка</string>
     <string name="exist_calendar">Уже существует</string>
     <string name="delete_calendar">Удалить подписку</string>
-    <string name="add_topic_unsuccess">Не удалось подписаться на \"%s\"</string>
+    <string name="add_topic_unsuccess">Не удалось подписаться на "%s"</string>
     <string name="calendar_server_error">Ошибка сети</string>
     <string name="calendar_network_error">Ошибка сети</string>
     <string name="label_recent_events">Недавние события</string>

@@ -5,8 +5,8 @@
         <item quantity="one">Нотаток: 1</item>
     </plurals>
     <plurals name="search_results_title">
-        <item quantity="other">Пошук \"%2$s\" (знайдено: %1$s)</item>
-        <item quantity="one">Пошук \"%2$s\" (знайдено: %1$s)</item>
+        <item quantity="other">Пошук "%2$s" (знайдено: %1$s)</item>
+        <item quantity="one">Пошук "%2$s" (знайдено: %1$s)</item>
     </plurals>
     <plurals name="note_terms">
         <item quantity="other">%1$s</item>

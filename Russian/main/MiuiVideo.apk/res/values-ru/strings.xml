@@ -117,7 +117,7 @@
     <string name="video_info_audio_null">Бесплатно</string>
     <string name="video_info_frame_rate_label">Частота кадров:</string>
     <string name="airkan_control_device_des">Вы можете использовать кнопки в нижней части экрана для управления воспроизведением видео.</string>
-    <string name="toast_back_key_pressed_notice">Нажмите повторно клавишу \"Назад\" для выхода</string>
+    <string name="toast_back_key_pressed_notice">Нажмите повторно клавишу "Назад" для выхода</string>
     <string name="adjust_position_prev_media_notice">Предыдущее</string>
     <string name="adjust_position_next_media_notice">Следующее</string>
     <string name="loading_video_netplay_label">Загрузка видео…</string>
@@ -196,7 +196,7 @@
     <string name="vp_confirm">ОК</string>
     <string name="vp_retry">Повтор</string>
     <string name="vp_cancel">Отмена</string>
-    <string name="vp_client_message">Установить \"%1$s\"?</string>
+    <string name="vp_client_message">Установить "%1$s"?</string>
     <string name="vp_plugin_message">Установить плагин для улучшения звука?</string>
     <string name="vp_closedialog">ОК</string>
     <string name="vp_hint">Предупреждение</string>
@@ -425,7 +425,7 @@
     <string name="manage_offline_media">Управление загрузками</string>
     <string name="my_video">Локально</string>
     <string name="offline_media_empty_hint">Нет видео</string>
-    <string name="offline_no_wifi">Вы не подключены к сети Wi-Fi. Для загрузки включите в настройках функцию \"Мобильный интернет\".</string>
+    <string name="offline_no_wifi">Вы не подключены к сети Wi-Fi. Для загрузки включите в настройках функцию "Мобильный интернет".</string>
     <string name="play_his_empty_hint">Нет видео</string>
     <string name="rank">Топ</string>
     <string name="recommend">Рекомендуемые</string>

@@ -43,7 +43,7 @@
     <string name="splitConfirmation">Вы хотите разделить контакт?</string>
     <string name="menu_joinAggregate">Объединить</string>
     <string name="titleJoinContactDataWith">Объединить контакты</string>
-    <string name="blurbJoinContactDataWith">Выберите контакт, который хотите объединить с \"%s\":</string>
+    <string name="blurbJoinContactDataWith">Выберите контакт, который хотите объединить с "%s":</string>
     <string name="showAllContactsJoinItem">Показать все контакты</string>
     <string name="separatorJoinAggregateSuggestions">Предлагаемые контакты</string>
     <string name="separatorJoinAggregateAll">Все контакты</string>
@@ -94,7 +94,7 @@
     <string name="listTotalAllContactsZero">Нет контактов</string>
     <string name="listTotalAllContactsZeroCustom">Нет видимых контактов</string>
     <string name="listTotalAllContactsZeroStarred">Нет избранных</string>
-    <string name="listTotalAllContactsZeroGroup">Нет контактов в \"%s\"</string>
+    <string name="listTotalAllContactsZeroGroup">Нет контактов в "%s"</string>
     <string name="listSingleContact">Одиночный контакт</string>
     <string name="listCustomView">Контакты в пользовательском виде</string>
     <string name="foundTooManyContacts">Найдено более %d</string>
@@ -200,7 +200,7 @@
     <string name="callDetailsDurationFormat" formatted="false">%s мин. %s сек.</string>
     <string name="favoritesFrequentContacted">Часто набираемые</string>
     <string name="favoritesFrequentCalled">Часто вызываемые</string>
-    <string name="add_contact_dlg_message_fmt">Добавить \"%s\" в контакты?</string>
+    <string name="add_contact_dlg_message_fmt">Добавить "%s" в контакты?</string>
     <string name="description_image_button_one">один</string>
     <string name="description_image_button_two">два</string>
     <string name="description_image_button_three">три</string>
@@ -231,7 +231,7 @@
     <string name="import_all_vcard_string">Импорт всех VCard</string>
     <string name="searching_vcard_message">Поиск данных vCard на накопителе…</string>
     <string name="scanning_sdcard_failed_title">Невозможно просканировать накопитель</string>
-    <string name="scanning_sdcard_failed_message">Причина: \"%s\".</string>
+    <string name="scanning_sdcard_failed_message">Причина: "%s".</string>
     <string name="fail_reason_io_error">Ошибка ввода-вывода</string>
     <string name="fail_reason_low_memory_during_import">Недостаточно памяти. Возможно файл слишком большой.</string>
     <string name="fail_reason_vcard_parse_error">Невозможно открыть vCard по неизвестным причинам</string>
@@ -244,19 +244,19 @@
     <string name="select_vcard_title">Выбор файла vCard</string>
     <string name="caching_vcard_title">Кэширование</string>
     <string name="caching_vcard_message">Кэширование файлов vCard в телефон…</string>
-    <string name="importing_vcard_description">Импортирование \"%s\"</string>
+    <string name="importing_vcard_description">Импортирование "%s"</string>
     <string name="reading_vcard_failed_title">Ошибка чтения vCard</string>
     <string name="reading_vcard_canceled_title">Чтение данных vCard отменено</string>
-    <string name="importing_vcard_finished_title">Импорт завершен: \"%s\"</string>
-    <string name="importing_vcard_canceled_title">Импорт отменен: \"%s\"</string>
-    <string name="vcard_import_will_start_message">Импорт \"%s\" начнется в ближайшее время</string>
+    <string name="importing_vcard_finished_title">Импорт завершен: "%s"</string>
+    <string name="importing_vcard_canceled_title">Импорт отменен: "%s"</string>
+    <string name="vcard_import_will_start_message">Импорт "%s" начнется в ближайшее время</string>
     <string name="vcard_import_will_start_message_with_default_name">Файл будет импортирован в ближайшее время</string>
     <string name="vcard_import_request_rejected_message">Импорт vCard отменен.</string>
-    <string name="vcard_export_will_start_message">Экспорт \"%s\" начнется в ближайшее время</string>
+    <string name="vcard_export_will_start_message">Экспорт "%s" начнется в ближайшее время</string>
     <string name="vcard_export_request_rejected_message">Экспорт vCard отменен</string>
     <string name="vcard_unknown_filename">контакт</string>
     <string name="confirm_export_title">Экспорт контактов</string>
-    <string name="confirm_export_message">Список контактов будет экспортирован в файл \"%s\"</string>
+    <string name="confirm_export_message">Список контактов будет экспортирован в файл "%s"</string>
     <string name="exporting_contact_failed_title">Не удалось экспортировать</string>
     <string name="exporting_contact_failed_message">"Не удалось экспортировать данные.
 Причина: %s"</string>
@@ -266,16 +266,16 @@
     <string name="exporting_vcard_finished_title">Экспортирование завершено: %s</string>
     <string name="exporting_vcard_canceled_title">Экспортирование отменено: %s</string>
     <string name="exporting_contact_list_title">Экспорт данных контакта</string>
-    <string name="exporting_contact_list_message">Экспортирование в \"%s\"</string>
+    <string name="exporting_contact_list_message">Экспортирование в "%s"</string>
     <string name="fail_reason_could_not_initialize_exporter">Не удается экспортировать: %s.</string>
     <string name="fail_reason_error_occurred_during_export">Ошибка при экспорте: %s.</string>
     <string name="composer_failed_to_get_database_infomation">База данных недоступна</string>
     <string name="composer_has_no_exportable_contact">Не найдены контакты для экспорта. Возможно, экспорт контактов с телефона не поддерживается поставщиком услуг передачи данных.</string>
     <string name="composer_not_initialized">Редактор vCard запущен некорректно</string>
-    <string name="fail_reason_could_not_open_file" formatted="false">Не удалось открыть \"%s\": %s.</string>
+    <string name="fail_reason_could_not_open_file" formatted="false">Не удалось открыть "%s": %s.</string>
     <string name="exporting_contact_list_progress" formatted="false">Контактов: %s из %s</string>
-    <string name="cancel_import_confirmation_message">Отменить импорт \"%s\"?</string>
-    <string name="cancel_export_confirmation_message">Отменить экспорт \"%s\"?</string>
+    <string name="cancel_import_confirmation_message">Отменить импорт "%s"?</string>
+    <string name="cancel_export_confirmation_message">Отменить экспорт "%s"?</string>
     <string name="cancel_vcard_import_or_export_failed">Не удалось отменить импорт/экспорт vCard</string>
     <string name="search_settings_description">Имена контактов</string>
     <string name="add_2sec_pause">Добавить 2-сек. паузу</string>
@@ -309,7 +309,7 @@
     <string name="display_more_groups">Другие группы…</string>
     <string name="display_ungrouped">Все остальные контакты</string>
     <string name="display_all_contacts">Все контакты</string>
-    <string name="display_warn_remove_ungrouped">Вместе с группой \"%s\" перестанут синхронизироваться контакты, не добавленные в группы</string>
+    <string name="display_warn_remove_ungrouped">Вместе с группой "%s" перестанут синхронизироваться контакты, не добавленные в группы</string>
     <string name="account_phone">Только телефон</string>
     <string name="call_custom">Вызов %s</string>
     <string name="call_home">Домашний телефон</string>
@@ -441,8 +441,8 @@
     <string name="aggregation_suggestion_join_dialog_message">Объединить текущий контакт с выбранным контактом?</string>
     <string name="aggregation_suggestion_edit_dialog_title">Редактировать выбранные контакты</string>
     <string name="aggregation_suggestion_edit_dialog_message">Переключиться на редактирование выбранного контакта? Введенная информация будет скопирована.</string>
-    <string name="menu_copyContact">Копировать в \"Мои контакты\"</string>
-    <string name="add_to_my_contacts">Добавить в \"Мои контакты\"</string>
+    <string name="menu_copyContact">Копировать в "Мои контакты"</string>
+    <string name="add_to_my_contacts">Добавить в "Мои контакты"</string>
     <string name="contact_directory_description">Каталог %1$s</string>
     <string name="directory_search_label">Каталог</string>
     <string name="local_search_label">Все контакты</string>
@@ -475,7 +475,7 @@
     <string name="create_group_dialog_title">Создание новой группы</string>
     <string name="create_group_item_label">Создать новую группу</string>
     <string name="delete_group_dialog_title">Удаление группы</string>
-    <string name="delete_group_dialog_message">Удалить группу \"%1$s\"? Контакты не будут удалены.</string>
+    <string name="delete_group_dialog_message">Удалить группу "%1$s"? Контакты не будут удалены.</string>
     <string name="toast_join_with_empty_contact">Укажите имя контакта, который хотите объединить</string>
     <string name="copy_text">Копировать</string>
     <string name="set_default">Установить как основной</string>
@@ -536,7 +536,7 @@
     <string name="generic_no_account_prompt">Держите свои контакты в безопасности, даже если Вы потеряете свой телефон: синхронизация с онлайн-сервисом</string>
     <string name="generic_no_account_prompt_title">Добавить аккаунт</string>
     <string name="contact_editor_prompt_zero_accounts">Резервная копия нового контакта не будет сохранена. Добавить аккаунт для сохранения контактов в Mi Cloud?</string>
-    <string name="contact_editor_prompt_one_account">Контакт будет добавлен в аккаунт \"%1$s\"</string>
+    <string name="contact_editor_prompt_one_account">Контакт будет добавлен в аккаунт "%1$s"</string>
     <string name="contact_editor_prompt_multiple_accounts">Выберите аккаунт</string>
     <string name="keep_local">Сохранить локально</string>
     <string name="add_account">Добавить аккаунт</string>
@@ -645,7 +645,7 @@
     <string name="miprofile_request_notification_title">Контактов с запросом на обмен визитками: %1$s</string>
     <string name="miprofile_request_notification_title_name">Контактов с запросом на обмен визитками: %1$s</string>
     <string name="miprofile_request_deleted">Визитка удалена</string>
-    <string name="miprofile_request_agreed">Контакт \"%1$s\" готов обменяться визитками</string>
+    <string name="miprofile_request_agreed">Контакт "%1$s" готов обменяться визитками</string>
     <string name="miprofile_error_not_opened">Визитка отключена</string>
     <string name="miprofile_error_not_set">Ваша визитка не синхронизирована с сервером</string>
     <string name="miprofile_error_accept_self">Не удается обменяться визитками</string>
@@ -709,8 +709,8 @@
     <string name="callrecordview_menu_show">Отображение вызовов</string>
     <string name="callrecordview_menu_paste">Вставить</string>
     <string name="openDialKeyboard">Клавиатура</string>
-    <string name="t9_search_guide_pinyin">Введите \"2\" и \"5\" для поиска \"Владимир Путин\"</string>
-    <string name="t9_search_guide_zhuyin">Введите \"2\" и \"5\" для поиска \"Владимир Путин\"</string>
+    <string name="t9_search_guide_pinyin">Введите "2" и "5" для поиска "Владимир Путин"</string>
+    <string name="t9_search_guide_zhuyin">Введите "2" и "5" для поиска "Владимир Путин"</string>
     <string name="date_time_set">Настроить</string>
     <string name="service_provider">Сервисные контакты</string>
     <string name="zero_items_selected">Выберите контакты</string>
@@ -756,7 +756,7 @@
     <string name="loading_group_members">Загрузка контактов…</string>
     <string name="loading_recent">Загрузка последних контактов…</string>
     <string name="contactMultiPickerActivityTitle">Выбрать контакты</string>
-    <string name="picker_join_title">Объединение с \"%s\"</string>
+    <string name="picker_join_title">Объединение с "%s"</string>
     <string name="picker_contact_title">Выберите контакт</string>
     <string name="picker_number_title">Выберите номер</string>
     <string name="group_add_fail_toast">Ошибка добавления контаков</string>
@@ -800,7 +800,7 @@
     <string name="pref_key_photo_word_summary">Создание иконки для контактов без фото</string>
     <string name="remove_duplicate">"Система поможет найти дубликаты контактов и объединить их.
 
-Нажмите кнопку \"Объединить\", чтобы продолжить."</string>
+Нажмите кнопку "Объединить", чтобы продолжить."</string>
     <string name="ic_menu_back">Назад</string>
     <string name="preference_display">Отображение</string>
     <string name="preference_simple_mode_title">Фото контактов в списке</string>
@@ -842,10 +842,10 @@
     <string name="option_rename_group">Переименовать</string>
     <string name="option_delete_group">Удалить группу</string>
     <string name="deleteConfirmation_title">Удаление контакта</string>
-    <string name="readOnlyContactDeleteConfirmationDetail">"Контакт \"%s\" содержит информацию в нескольких аккаунтах. 
+    <string name="readOnlyContactDeleteConfirmationDetail">"Контакт "%s" содержит информацию в нескольких аккаунтах. 
 Информация, доступная только для чтения, будет скрыта из списка контактов, но не будет удалена."</string>
-    <string name="multipleContactDeleteConfirmationDetail">Контакт содержит информацию из нескольких аккаунтов. Удаление \"%s\" приведет к очистке информации из всех аккаунтов.</string>
-    <string name="deleteConfirmationDetail">Удалить контакт \"%s\"?</string>
+    <string name="multipleContactDeleteConfirmationDetail">Контакт содержит информацию из нескольких аккаунтов. Удаление "%s" приведет к очистке информации из всех аккаунтов.</string>
+    <string name="deleteConfirmationDetail">Удалить контакт "%s"?</string>
     <string name="nickname_picker_name_column">Имя контакта</string>
     <string name="nickname_picker_nickname_column">Имя</string>
     <string name="not_applied">Не поддерживается</string>
@@ -982,7 +982,7 @@
     <string name="no_contact_in_other_phone">Нет контактов</string>
     <string name="import_weibo_dialog_title">Импорт контактов Sina Weibo</string>
     <string name="import_weibo_fetch_followers">Получение контактов Sina Weibo…</string>
-    <string name="import_weibo_progress_name">Совпадение \"%1$s\"…</string>
+    <string name="import_weibo_progress_name">Совпадение "%1$s"…</string>
     <string name="import_weibo_progress_percent">%1$d%%</string>
     <string name="import_weibo_notification_title_done">Обновлено контактов: %s</string>
     <string name="import_weibo_error_no_xiaomi_phone">Нет контактов в Mi аккаунте</string>
@@ -1178,7 +1178,7 @@
     <string name="resource_detail_comment_title">Отзывы</string>
     <string name="resource_detail_jump_to_online_title">Онлайн</string>
     <string name="resource_detail_jump_to_same_author_title">От автора</string>
-    <string name="resource_detail_recommend_desiner_other_themes">Другие темы от автора \"%1$s\"</string>
+    <string name="resource_detail_recommend_desiner_other_themes">Другие темы от автора "%1$s"</string>
     <string name="resource_detail_recommend_desiner_themes">Тем: %1$s</string>
     <string name="resource_detail_recommend_other_themes">Пользователям также понравилось</string>
     <string name="resource_detail_update_log_title">Обновления</string>
@@ -1250,7 +1250,7 @@
     <string name="resource_server_alert_dialog_title">Мы скоро вернемся…</string>
     <string name="resource_server_out_of_service">Сервис не доступен. Попробуйте позже.</string>
     <string name="resource_share_subject">Отправить тему: %1$s</string>
-    <string name="resource_share_text">Я отправил вам тему \"%1$s\". Скачать: %2$s</string>
+    <string name="resource_share_text">Я отправил вам тему "%1$s". Скачать: %2$s</string>
     <string name="resource_share_title">Отправить</string>
     <string name="resource_system_title">Системные</string>
     <string name="resource_tip_select_ringtone">Мелодия не выбрана</string>

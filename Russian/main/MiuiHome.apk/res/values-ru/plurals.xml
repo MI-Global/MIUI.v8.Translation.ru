@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="uninstall_dialog_title_format">
-        <item quantity="other">Удалить приложение \"%1$s\" и еще %2$d?</item>
-        <item quantity="one">Удалить приложение \"%s\"?</item>
+        <item quantity="other">Удалить приложение "%1$s" и еще %2$d?</item>
+        <item quantity="one">Удалить приложение "%s"?</item>
     </plurals>
     <plurals name="uninstall_result_succeeded">
         <item quantity="other">Приложений удалено: %1$d</item>
@@ -13,8 +13,8 @@
     </plurals>
     <plurals name="uninstall_result_failed">
         <item quantity="other">Не удалось удалить приложений: %2$d</item>
-        <item quantity="one">Не удалось удалить приложение \"%s\"</item>
-        <item quantity="two">Не удалось удалить приложение \"%s\" и 1 другое</item>
+        <item quantity="one">Не удалось удалить приложение "%s"</item>
+        <item quantity="two">Не удалось удалить приложение "%s" и 1 другое</item>
     </plurals>
     <plurals name="editing_mode_title">
         <item quantity="other">Выбрано: %1$d</item>

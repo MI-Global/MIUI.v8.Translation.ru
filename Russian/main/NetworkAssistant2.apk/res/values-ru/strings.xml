@@ -256,7 +256,7 @@
     <string name="datausage_purchase_pay_confirm">Купить</string>
     <string name="datausage_purchase_pay_hint">Отменить вызов %s</string>
     <string name="datausage_purchase_pay_captcha_hint">Введите проверочный код</string>
-    <string name="datausage_purchase_pay_captcha_tips">После ввода проверочного кода нажмите \"Купить\". Вы получите подтверждение в течение 10 минут.</string>
+    <string name="datausage_purchase_pay_captcha_tips">После ввода проверочного кода нажмите "Купить". Вы получите подтверждение в течение 10 минут.</string>
     <string name="datausage_purchase_get_captcha">Получить код (%d)</string>
     <string name="datausage_purchase_get_captcha_again">Повторить отправку</string>
     <string name="datausage_purchase_get_captcha_failed">Не удается получить проверочный код. Проверьте параметры сети.</string>
@@ -377,7 +377,7 @@
     <string name="tc_sms_report_notify_get_timeout_body">Время ожидания истекло. Убедитесь, что код запроса корректный.</string>
     <string name="tc_sms_report_notify_get_failure_title">Не удается получить отчет о трафике</string>
     <string name="tc_sms_report_notify_correction_failure_title">Не удается обновить информацию о трафике</string>
-    <string name="tc_sms_report_notify_correction_body">Перейдите в приложение \"Трафик\" и попробуйте обновить вручную</string>
+    <string name="tc_sms_report_notify_correction_body">Перейдите в приложение "Трафик" и попробуйте обновить вручную</string>
     <string name="tc_sms_report_notify_get_failure_body">Ваш оператор не предоставляет такую услугу</string>
     <string name="tc_sms_report_tips_dialog_title">Отчет о трафике по SMS</string>
     <string name="tc_sms_report_tips_dialog_message">Для получения информации о трафике от оператора используется специальный формат SMS. Если функция работает некорректно, попробуйте обновить формат SMS. Обновленный формат будет загружен на наш сервер.</string>

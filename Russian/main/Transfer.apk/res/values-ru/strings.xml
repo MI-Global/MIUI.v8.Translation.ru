@@ -29,7 +29,7 @@
      <string name="delete">Удалить</string>
      <string name="delete_history_message">Удалить всю историю?</string>
      <string name="device_name">Имя устройства</string>
-     <string name="device_name_tip">Имя устройства можно задать в пункте настроек \"О телефоне\"</string>
+     <string name="device_name_tip">Имя устройства можно задать в пункте настроек "О телефоне"</string>
      <string name="doc">Файлы</string>
      <string name="download">Скачать</string>
      <string name="download_complete">%1$s | %2$s скачано с: %3$s</string>

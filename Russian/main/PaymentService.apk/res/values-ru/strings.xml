@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="hfb_step_2">Следуйте инструкции</string>
-    <string name="hfb_step_3">Нажмите \"Купить\"</string>
+    <string name="hfb_step_3">Нажмите "Купить"</string>
     <string name="hfb_succ_service_phone_tip">Обслуживание клиентов: 4006125880 (Китай)</string>
     <string name="hfb_retry_query">Попробуйте снова</string>
     <string name="app_name">Mi Credits</string>

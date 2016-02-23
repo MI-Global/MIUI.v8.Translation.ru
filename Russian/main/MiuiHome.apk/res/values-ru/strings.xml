@@ -64,14 +64,14 @@
     <string name="cant_remove_system_app">Невозможно удалить системное приложение</string>
     <string name="cant_remove_retained_app">Не удалось удалить выбранное приложение</string>
     <string name="uninstall_dialog_message">Будут очищены все данные</string>
-    <string name="uninstall_dialog_title_format">Удалить \"%s\"?</string>
-    <string name="uninstall_dialog_title_multi_format" formatted="false">Удалить приложение \"%s\" и еще %d?</string>
+    <string name="uninstall_dialog_title_format">Удалить "%s"?</string>
+    <string name="uninstall_dialog_title_multi_format" formatted="false">Удалить приложение "%s" и еще %d?</string>
     <string name="uninstall">Удалить</string>
     <string name="uninstall_result_multi_succeeded">Приложений удалено: %1$d</string>
     <string name="uninstall_result_succeeded">Приложение удалено</string>
-    <string name="uninstall_result_failed">Не удалось удалить приложение \"%s\"</string>
-    <string name="uninstall_result_two_failed">Не удалось удалить приложение \"%s\" и 1 другое</string>
-    <string name="uninstall_result_other_failed" formatted="false">Не удалось удалить приложение \"%s\" и еще %d</string>
+    <string name="uninstall_result_failed">Не удалось удалить приложение "%s"</string>
+    <string name="uninstall_result_two_failed">Не удалось удалить приложение "%s" и 1 другое</string>
+    <string name="uninstall_result_other_failed" formatted="false">Не удалось удалить приложение "%s" и еще %d</string>
     <string name="starting_preset_app">Запуск…</string>
     <string name="install">Установить</string>
     <string name="cant_remove_folder">Невозможно удалить папку с приложениями</string>
@@ -203,7 +203,7 @@
     <string name="menu_customize">Настройки</string>
     <string name="menu_picktheme">Выбор темы</string>
     <string name="scroll_tip_format_when_announce_accessibility">Страница: %1$d, приложений: %2$d</string>
-    <string name="editing_mode_enter_tip_text">Используйте \"щипок\" для редактирования рабочего стола</string>
+    <string name="editing_mode_enter_tip_text">Используйте "щипок" для редактирования рабочего стола</string>
     <string name="delete">Удалить</string>
     <string name="delete_wallpaper_message">Удалить обои? (%1$d)</string>
     <string name="delete_wallpapers_message">Удалить обои? (%1$d)</string>
@@ -228,7 +228,7 @@
     <string name="default_name">По умолчанию</string>
     <string name="maml_component_customization_title">Настройки</string>
     <string name="resource_select">Выбрать</string>
-    <string name="screen_button_disabled_message">Кнопки внизу экрана отключены. Вы можете включить их снова, нажав клавиши \"Домой\" и \"Питание\".</string>
+    <string name="screen_button_disabled_message">Кнопки внизу экрана отключены. Вы можете включить их снова, нажав клавиши "Домой" и "Питание".</string>
     <string name="screen_button_enabled_message">Кнопки на нижней части экрана включены</string>
     <string name="screen_rotation_freeze_message">Поворот экрана заблокирован в ландшафтном режиме</string>
     <string name="status_bar_toggle_ac">Доступ</string>

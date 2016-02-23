@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="cta_dialog_title">Разрешить приложению доступ к интернету?</string>
-    <string name="cta_dialog_msg">Для использования некоторых сервисов приложения \"Безопасность\" требуется доступ к интернету</string>
+    <string name="cta_dialog_msg">Для использования некоторых сервисов приложения "Безопасность" требуется доступ к интернету</string>
     <string name="cta_checkbox_title">Запомнить</string>
     <string name="cta_button_text_cancel">Отмена</string>
     <string name="cta_button_text_agree">ОК</string>
@@ -28,11 +28,11 @@
     <string name="power_center_low_battery_title">Автопереключение</string>
     <string name="power_center_low_battery_summary_default">Включение режима экономии, когда батарея разряжена.</string>
     <string name="power_center_low_battery_summary_dynamic">"При %1$d%%
-Режим \"%2$s\""</string>
+Режим "%2$s""</string>
     <string name="power_center_on_time_title">Расписание</string>
     <string name="power_center_on_time_summary_default">Включение режима по времени</string>
     <string name="power_center_on_time_summary_dynamic">"С %1$s до %2$s
-Режим \"%3$s\""</string>
+Режим "%3$s""</string>
     <string name="power_center_state_on">Включено</string>
     <string name="power_center_state_off">Выключено</string>
     <string name="power_center_consume_time">Осталось: %1$s</string>
@@ -43,9 +43,9 @@
     <string name="power_chooser_check_box_summary">Выбор режима экономии батареи для продолжительной работы устройства</string>
     <string name="power_chooser_smart_title">Режим по умолчанию</string>
     <string name="power_chooser_smart_summary">Очистка процессов в заблокированном режиме</string>
-    <string name="power_chooser_standby_title">Режим \"Марафон\"</string>
+    <string name="power_chooser_standby_title">Режим "Марафон"</string>
     <string name="power_chooser_standby_summary">Отключение интернет сервисов</string>
-    <string name="power_chooser_sleep_title">Режим \"Сон\"</string>
+    <string name="power_chooser_sleep_title">Режим "Сон"</string>
     <string name="power_chooser_sleep_summary">Отключение всех функций устройства за исключением будильника</string>
     <string name="power_chooser_mine_title">Свой режим</string>
     <string name="power_chooser_mine_summary">Сохранение параметров системы по умолчанию</string>
@@ -87,7 +87,7 @@
     <string name="power_mode_vibration">Вибрация</string>
     <string name="power_mode_vibration_yes">Включена</string>
     <string name="power_mode_vibration_no">Отключена</string>
-    <string name="power_mode_vibration_silence">В режиме \"Без звука\"</string>
+    <string name="power_mode_vibration_silence">В режиме "Без звука"</string>
     <string name="power_mode_bluetooth">Bluetooth</string>
     <string name="power_mode_synchronization">Синхронизация</string>
     <string name="power_mode_gps">GPS</string>
@@ -161,9 +161,9 @@
     <string name="power_dialog_delete_dialog_cannot_delete_low_out_battery">Устройство настроено на переключение к этому режиму, когда батарея заряжается. Необходимо изменить параметры перед удалением.</string>
     <string name="power_dialog_delete_dialog_cannot_delete_on_out_time">Устройство настроено на переключение к этому режиму по расписанию. Необходимо изменить параметры перед удалением.</string>
     <string name="power_mode_chooser_button_text">Применить</string>
-    <string name="power_20s_enter_mode">При %1$d режим \"%2$s\"</string>
+    <string name="power_20s_enter_mode">При %1$d режим "%2$s"</string>
     <string name="power_notify_lowbattery">Заряд менее %1$d%%</string>
-    <string name="power_recovery_mode">Восстановлен \"%1$s\"</string>
+    <string name="power_recovery_mode">Восстановлен "%1$s"</string>
     <string name="power_subtitle_lowbattery">Энергосбережение при разряженной батарее</string>
     <string name="power_subtitle_ontime">Энергосбережение по расписанию</string>
     <string name="power_exitlowbattery_whencharge">Выход при зарядке</string>
@@ -450,19 +450,19 @@
     <string name="empty_title_root_apps">Нет приложений с ROOT доступом</string>
     <string name="hints_remember_choice">Запомнить</string>
     <string name="root_apply_title">Предупреждение</string>
-    <string name="root_apply_step_1">Приложение \"%s\" требует ROOT доступ</string>
+    <string name="root_apply_step_1">Приложение "%s" требует ROOT доступ</string>
     <string name="root_apply_step_2">Использование ROOT доступа может привести к нестабильной работе системы</string>
     <string name="root_apply_step_3">Ваши личные данные могут подвергаться риску</string>
     <string name="root_apply_step_4">Используйте доступ на свой страх и риск</string>
-    <string name="root_apply_step_5">Разрешить приложению \"%s\" ROOT доступ?</string>
+    <string name="root_apply_step_5">Разрешить приложению "%s" ROOT доступ?</string>
     <string name="button_text_accept">Разрешить</string>
     <string name="button_text_accept_timer">Разрешить (%d)</string>
     <string name="button_text_reject">Отмена</string>
     <string name="button_text_reject_timer">Отмена (%d)</string>
     <string name="button_text_next_step">Далее</string>
     <string name="button_text_next_step_timer">Далее (%d)</string>
-    <string name="toast_root_apply_accept">Приложению \"%s\" предоставлен ROOT доступ</string>
-    <string name="toast_root_apply_reject">Приложению \"%s\" запрещен ROOT доступ</string>
+    <string name="toast_root_apply_accept">Приложению "%s" предоставлен ROOT доступ</string>
+    <string name="toast_root_apply_reject">Приложению "%s" запрещен ROOT доступ</string>
     <string name="permission_send_sms_descx">Отправка SMS и MMS</string>
     <string name="empty_title_system_cache_list">Нет системного кэша</string>
     <string name="empty_title_system_process_list">Нет системных процессов</string>
@@ -566,14 +566,14 @@
     <string name="month_report_click_reconnect_network">Повтор</string>
     <string name="month_report_month_report_switch">Показать отчет за месяц</string>
     <string name="month_report_warning_dialog_title">Отчет за месяц</string>
-    <string name="month_report_warning_dialog_description">Для получения отчета за месяц необходимо включить эту функцию в настройках приложения \"Безопасность\"</string>
+    <string name="month_report_warning_dialog_description">Для получения отчета за месяц необходимо включить эту функцию в настройках приложения "Безопасность"</string>
     <string name="month_report_warning_dialog_positive">Включить</string>
     <string name="month_report_history_activity_label">Отчеты</string>
     <string name="month_report_result_share">Отправить</string>
     <string name="month_report_share_img_fail">Ошибка отправки</string>
     <string name="month_report_share_loading">Загрузка…</string>
     <string name="month_report_network_dialog_title">Не удается загрузить новости</string>
-    <string name="month_report_network_dialog_description">Разрешить приложению \"Безопасность\" доступ к интернету для загрузки новостей?</string>
+    <string name="month_report_network_dialog_description">Разрешить приложению "Безопасность" доступ к интернету для загрузки новостей?</string>
     <string name="month_report_network_dialog_positive">ОК</string>
     <string name="antivirus_choose_engine_settings">Настройки антивирусной базы</string>
     <string name="antivirus_choose_engine_title">Антивирусная база</string>
@@ -727,7 +727,7 @@
     <string name="toast_add_white_list_success">" добавлено в список исключений"</string>
     <string name="toast_app_no_residual_on_sdcard">Приложение не имеет данных на накопителе</string>
     <string name="toast_backup_is_running">Выполняется создание бэкапа. Повторите попытку позже.</string>
-    <string name="toast_backup_uninstall_failed">Не удалось создать бэкап приложения \"%d\". Повторите попытку позже.</string>
+    <string name="toast_backup_uninstall_failed">Не удалось создать бэкап приложения "%d". Повторите попытку позже.</string>
     <string name="toast_backup_uninstall_success">Создание бэкапа и удаление завершено</string>
     <string name="toast_garbage_cleanup_success">Очистка завершена</string>
     <string name="toast_garbage_list_empty">Очистка не требуется</string>

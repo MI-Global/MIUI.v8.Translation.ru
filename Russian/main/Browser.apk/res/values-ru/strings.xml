@@ -65,7 +65,7 @@
     <string name="webviewchromium_private_browsing_warning">Эта возможность не поддерживается на этой версии Android</string>
     <string name="last_month">Предыдущий месяц</string>
     <string name="older">Старые</string>
-    <string name="js_dialog_title">Уведомление страницы \" %s \":</string>
+    <string name="js_dialog_title">Уведомление страницы " %s ":</string>
     <string name="js_dialog_before_unload_title">Предупреждение</string>
     <string name="js_dialog_before_unload_positive_button">ОК</string>
     <string name="js_dialog_before_unload_negative_button">Отмена</string>
@@ -260,7 +260,7 @@
     <string name="empty_snapshot_hint">Пусто</string>
     <string name="empty_history_hint">Нет истории</string>
     <string name="enter_incongnito_mode">Режим инкогнито</string>
-    <string name="sign_in_to" formatted="false">Войти в %s1 \"%s2\"</string>
+    <string name="sign_in_to" formatted="false">Войти в %s1 "%s2"</string>
     <string name="username">Имя</string>
     <string name="password">Пароль</string>
     <string name="action">Войти</string>
@@ -346,7 +346,7 @@
     <string name="url_suggest_indicator_bookmark">Закладки/история</string>
     <string name="url_suggest_indicator_mostvisited">Наиболее посещаемые</string>
     <string name="url_find_on_page_result">Посмотреть в браузере</string>
-    <string name="url_find_on_page_result_item">Найти на странице весь текст \"%s\"</string>
+    <string name="url_find_on_page_result_item">Найти на странице весь текст "%s"</string>
     <string name="suggest_access_item_app_size">%.2f Мб</string>
     <string name="suggest_access_item_app_update">Обновлений: %s</string>
     <string name="suggest_access_item_singer_pop">Популярных треков: %d</string>
@@ -398,7 +398,7 @@
     <string name="download_dialog_file_length_nolength_error_txt">Не удалось определить размер файла</string>
     <string name="download_dialog_file_length_lessthan1kb">Меньше чем 1Kб</string>
     <string name="download_dialog_default_path_invalid">Путь для загрузки файла неверный. Будет использован путь по умолчанию.</string>
-    <string name="cannot_download">Загрузка возможна только с URL, начинающихся с \"http\" или \"https\"</string>
+    <string name="cannot_download">Загрузка возможна только с URL, начинающихся с "http" или "https"</string>
     <string name="download_pending">Загрузка…</string>
     <string name="notif_install_successful">Загрузка завершена</string>
     <string name="webpage_title">Закладки и история</string>
@@ -414,7 +414,7 @@
     <string name="new_folder_name_lable">Название</string>
     <string name="bookmark_rename_group">Переименовать</string>
     <string name="remove_bookmark_group">Удалить группу</string>
-    <string name="delete_bookmark_group_warning">Удалить \"%s\"? Все закладки из этой группы будут удалены.</string>
+    <string name="delete_bookmark_group_warning">Удалить "%s"? Все закладки из этой группы будут удалены.</string>
     <string name="bookmark_title_lable">Название</string>
     <string name="bookmark_url_lable">Адрес</string>
     <string name="bookmark_group_lable">Группа</string>
@@ -439,7 +439,7 @@
     <string name="add_to_bookmark">Добавить в закладки</string>
     <string name="same_bookmarks_warning">Эта закладка уже существует</string>
     <string name="remove_bookmark">Удалить закладку</string>
-    <string name="delete_bookmark_warning">Удалить закладку \"%s\"?</string>
+    <string name="delete_bookmark_warning">Удалить закладку "%s"?</string>
     <string name="added_to_bookmarks">Добавлено в закладки</string>
     <string name="removed_from_bookmarks">Удалено из закладок</string>
     <string name="clear_history">Очистить историю</string>
@@ -992,7 +992,7 @@
     <string name="webview_js_dialog_before_unload_negative_button">Остаться</string>
     <string name="webview_js_dialog_before_unload_positive_button">Покинуть</string>
     <string name="webview_js_dialog_before_unload_title">Подтверждение перехода</string>
-    <string name="webview_js_dialog_title">Страница \"%s\" отвечает:</string>
+    <string name="webview_js_dialog_title">Страница "%s" отвечает:</string>
     <string name="webview_js_dialog_title_default">JavaScript</string>
     <string name="webview_last_month">В прошлом месяце</string>
     <string name="webview_no_matches">Нет совпадений</string>
@@ -1234,6 +1234,6 @@
     <string name="miuichromium_error_page_unknown_error">Ошибка загрузки</string>
     <string name="secureaccess">Включить экономию трафика</string>
     <string name="secureaccess_cancel">Отмена</string>
-    <string name="switch_proxy_dialog_msg">Обнаружена атака сети. Используйте приложение \"Безопасность\" для сканирования вирусов.</string>
+    <string name="switch_proxy_dialog_msg">Обнаружена атака сети. Используйте приложение "Безопасность" для сканирования вирусов.</string>
     <string name="switch_proxy_dialog_title">Атака сети</string>
 </resources>

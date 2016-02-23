@@ -66,7 +66,7 @@
     <string name="menu_item_sort_by_gmt_offset">Совртировать по времени</string>
     <string name="menu_item_sort_by_name">Сортировать по названию</string>
     <string name="birthday_alarm">Праздничная мелодия</string>
-    <string name="birthday_alarm_summary">Играть мелодию \"С Днем Рождения\" вместо стандартной в день своего рождения</string>
+    <string name="birthday_alarm_summary">Играть мелодию "С Днем Рождения" вместо стандартной в день своего рождения</string>
     <string name="turn_off_a_repeat_alarm">Отключить повтор будильника</string>
     <string name="skip_alarm_once_hint">Отключить этот будильник в %s</string>
     <string name="skip_alarm_date_format">%1$s (%2$s)</string>
@@ -99,7 +99,7 @@
     <string name="minutes">%s мин.</string>
     <string name="every_day">Каждый день</string>
     <string name="never">Не выбраны</string>
-    <string name="day_concat">", \"</string>
+    <string name="day_concat">", "</string>
     <string name="analog_gadget">Часы</string>
     <string name="settings">Настройки</string>
     <string name="alarm_in_silent_mode_title">В режиме без звука</string>

@@ -322,7 +322,7 @@
     <string name="disable_notifications_dialog_message">Не дублировать уведомления об SMS из приложения обмена сообщениями по умолчанию</string>
     <string name="discard">Отменить</string>
     <string name="discard_slideshow">Отменить слайд-шоу</string>
-    <string name="dl_failure_notification">Не удалось загрузить сообщение \"%1$s\" от пользователя %2$s</string>
+    <string name="dl_failure_notification">Не удалось загрузить сообщение "%1$s" от пользователя %2$s</string>
     <string name="download">Загрузить</string>
     <string name="download_later">Не удалось загрузить сообщения. Повторите попытку позже.</string>
     <string name="downloading">Загрузка…</string>

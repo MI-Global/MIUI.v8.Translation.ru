@@ -19,7 +19,7 @@
 EEEE"</string>
     <string name="lockscreen_glogin_password_hint">Пароль</string>
     <string name="lockscreen_glogin_checking_password">Проверка…</string>
-    <string name="login_website_in_case_forget_password">Для сброса пароля, перейдите на сайт \"i.mi.com\".</string>
+    <string name="login_website_in_case_forget_password">Для сброса пароля, перейдите на сайт "i.mi.com".</string>
     <string name="experimental_validate_thanks">Спасибо!</string>
     <string name="experimental_validate_warning">Спасибо за помощь, вы помогаете сделать MIUI лучше!</string>
     <string name="experimental_validate">Проверка</string>
@@ -77,7 +77,7 @@ EEEE"</string>
     <string name="lockscreen_glogin_instructions">Войдите в Mi аккаунт для разблокировки</string>
     <string name="screen_on_proximity_sensor_title">Предотвращение случайных нажатий</string>
     <string name="screen_on_proximity_sensor_summary">Использовать датчик приближения для предотвращения случайных нажатий на экран заблокированного телефона</string>
-    <string name="screen_on_proximity_sensor_hint">Принудительный выход: нажмите кнопки \"Назад\"+\"Громкость +\"</string>
+    <string name="screen_on_proximity_sensor_hint">Принудительный выход: нажмите кнопки "Назад"+"Громкость +"</string>
     <string name="lockscreen_glogin_forgot_pattern">Разблокировать аккаунт</string>
     <string name="lockscreen_glogin_too_many_attempts">Слишком много попыток ввода</string>
     <string name="find_device_turn_off_flight_mode_instructions">"Ваш телефон заблокирован. 
