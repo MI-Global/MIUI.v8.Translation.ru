@@ -315,6 +315,8 @@
     <string name="contact_select">Выбрать контакты</string>
     <string name="content_description">%1$s о %2$s, %3$s в %4$s, %5$s</string>
     <string name="content_description_today">%1$s о %2$s, %3$s в %4$s, %5$s</string>
+	<string name="contextmenu_add">Добавить к контакту</string>
+    <string name="contextmenu_call">Набрать номер</string>
     <string name="contextmenu_add_contact">Добавить контакт</string>
     <string name="contextmenu_copy">Копировать</string>
     <string name="contextmenu_copylink">Копировать URL ссылки</string>
@@ -322,6 +324,7 @@
     <string name="contextmenu_feedback">Отправить отчет</string>
     <string name="contextmenu_help">Справка</string>
     <string name="contextmenu_map">Карта</string>
+	<string name="contextmenu_open">Открыть</string>
     <string name="contextmenu_openlink">Открыть в браузере</string>
     <string name="contextmenu_send_mail">Отправить сообщение</string>
     <string name="contextmenu_sharelink">Отправить ссылку</string>

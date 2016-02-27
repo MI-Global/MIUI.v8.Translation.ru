@@ -65,7 +65,10 @@
     <string name="install_failed_msg">Не удалось установить приложение "%1$s"</string>
     <string name="launch">Открыть</string>
     <string name="unknown_apps_dlg_title">Установка заблокирована</string>
-    <string name="unknown_apps_dlg_text">Для обеспечения безопасности на вашем телефоне заблокирована установка приложений, полученных не из Google Play</string>
+    <string name="unknown_apps_dlg_text">Из-за соображений безопасности на устройстве заблокирована установка приложений, полученных из неофициальных источников.</string>
+    <string name="unknown_apps_dlg_text1">"На Вашем устройстве заблокирована установка приложений, полученных из неофициальных источников. Вы можете отключить данную функцию в "</string>
+    <string name="unknown_apps_dlg_text2">\"Настройках\"</string>
+    <string name="unknown_apps_dlg_text3">.</string>
     <string name="ok">ОК</string>
     <string name="settings">Настройки</string>
     <string name="allow_source_dlg_title">Разрешить добавление нового источника для приложений?</string>
