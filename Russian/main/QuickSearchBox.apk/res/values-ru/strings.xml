@@ -29,8 +29,8 @@
     <string name="google_suggest_base">http://www.google.com/complete/search?hl=%1$s&amp;client=android&amp;q=</string>
     <string name="xiaomi_suggest_base">https://global.search.xiaomi.net/global/v3.1/sug</string>
     <string name="xiaomi_hot_query">localhost</string>
-    <string name="baidu_suggest_base">http://m.baidu.com/su?wd=%s&amp;action=opensearch</string>
-    <string name="baidu_search_url">https://m.baidu.com/s?from=1002253t&amp;word=%s&amp;tn=ins</string>
+    <string name="baidu_suggest_base">http://www.google.com/m?hl=%s</string>
+    <string name="baidu_search_url">https://www.google.ru/search?q=%s&amp;tn=ins</string>
     <string name="xiaomi_hint">localhost</string>
     <string name="app_name">Поиск</string>
     <string name="search_widget">Поиск</string>

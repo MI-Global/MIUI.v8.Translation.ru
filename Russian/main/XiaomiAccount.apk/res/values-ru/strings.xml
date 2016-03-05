@@ -103,8 +103,6 @@
     <string name="passport_skip_setup_account_title">Пропуск настройки</string>
     <string name="passport_skip_setup_account_msg">Вы можете настроить аккаунт позже в настройках</string>
     <string name="passport_xiaomi_account_dspt">Используйте свой Mi аккаунт для входа в Mi Cloud, MIUI Store и другие сервисы в любое время</string>
-    <string name="passport_xiaomi_account_sec_dspt" />
-    <string name="passport_xiaomi_account_sec_dspt2" />
     <string name="passport_remove_unactivated_account_notice">Ваш аккаунт не активирован. Удалить его?</string>
     <string name="passport_remove_confirm">Удалить</string>
     <string name="passport_find_password_on_web_msg">Посетите account.mi.com для восстановления пароля</string>
@@ -594,4 +592,20 @@
     <string name="data_wipe_from_phone">Удалить</string>
     <string name="mi_service">Поддержка</string>
     <string name="mi_support_service">Поддержка</string>
+	<string name="passport_login_check_find_device_failed">Не удалось проверить состояние «Поиска устройства». Проверьте подключение к сети.</string>
+    <string name="passport_login_find_device_bind">Это устройство уже привязано к Mi Аккаунту (%s). Войдите в аккаунт для активации устройства.</string>
+	<string name="passport_xiaomi_account_sec_dspt2">Для входа в Mi Аккаунт необходимо подключение к интернету. Доступ к местоположению, Mi Cloud и Mi VIP будут включены автоматически.</string>
+    <string name="passport_xiaomi_account_sec_dspt2_vip">Для входа в Mi Аккаунт необходимо подключение к интернету. Доступ к местоположению, Mi Cloud и Mi VIP будут включены автоматически.</string>
+	<string name="account_limit_update_birthday">Не удалось обновить</string>
+	<string name="input_email_address_notice">Адрес почты будет использован для проверки Вашего аккаунта</string>
+    <string name="send_email_activate_message">Отправить письмо с подтверждением</string>
+    <string name="activate_email_notice">Активируйте свою учетную запись в течение 24 часов</string>
+	<string name="resend_active_email">Отправить</string>
+    <string name="confirm_activate_email">Подтвердить</string>
+    <string name="resend_email_success">Повторить</string>
+    <string name="resend_email_reach_limit_title">"Не удается отправить"</string>
+	<string name="account_vip_achievements">Вложения</string>
+	<string name="internet_statement_title">Условия использования</string>
+    <string name="internet_statement_message">Для работы приложения необходим доступ к интернету.</string>
+	<string name="resend_email_reach_limit_message">"Вы запросили слишком много писем по проверке. Убедитесь, что проверка электронной почты не находится в вашей папке Спам."</string>
 </resources>

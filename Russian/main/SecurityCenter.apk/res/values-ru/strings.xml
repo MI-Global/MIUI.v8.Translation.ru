@@ -794,4 +794,20 @@
     <string name="toast_resolve_apk_error">Устранить ошибку apk</string>
 	<string name="menu_text_power_percent_title">Аккумулятор %s</string>
 	<string name="activity_title_network_speed_detail">Подключения</string>
+	<string name="prompt_input_time_illegal">Не удаётся установить время, попробуйте другое значение</string>
+	<string name="hints_need_regular_scan">Проверяйте устройство регулярно</string>
+    <string name="hints_need_quick_clean">Удалите опасные файлы</string>
+	<string name="activity_title_root_acquired">Предоставить права ROOT</string>
+    <string name="activity_title_root_note">О правах ROOT</string>
+	<string name="pm_root_success_notification_title">Права ROOT предоставлены</string>
+	<string name="reject_all">Запретить всем</string>
+    <string name="confirm_reject_all_permission">Запретить всем приложениям использовать эту функцию?</string>
+	<string name="summary_find_device">Удаленный поиск и блокировка устройства</string>
+    <string name="title_cloud_space_almost_full">Место в облаке почти заполнено, синхронизация может быть не выполнена</string>
+    <string name="summary_cloud_space_almost_full">Получить больше места для хранения</string>
+    <string name="title_cloud_space_full">Место в облаке заполнено, не удалось синхронизировать фото</string>
+    <string name="summary_cloud_space_full">Получить больше места для хранения и другие привилегии</string>
+	<string name="preferred_app_entries_launcher">Рабочий стол</string>
+	<string name="preferred_app_entries_messaging">Сообщения</string>
+	<string name="preferred_app_entries_music">Музыка</string>
 </resources>

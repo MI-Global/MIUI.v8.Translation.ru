@@ -1,5 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="miuishare_app_name">MiuiShare</string>
+    <string name="miuishare_title_more">Больше</string>
+    <string name="miuishare_title_share">Поделиться</string>
+    <string name="miuishare_account_login_ok">Войти</string>
+    <string name="miuishare_account_activate_ok">Активировать</string>
+    <string name="miuishare_account_login_cancel">Отмена</string>
+    <string name="miuishare_account_login_confirmation">Требуется вход</string>
+    <string name="miuishare_account_activate_confirmation">Требуется активация</string>
+    <string name="miuishare_account_need_login">Для того, чтобы поделиться в Weibo требует ваш аккаунт Weibo,который связан с аккаунтом Xiaomi. Войти, чтобы поделиться сейчас?</string>
+    <string name="miuishare_account_need_activate">Для того, чтобы поделиться в Weibo требует ваш аккаунт Weibo,который связан с аккаунтом Xiaomi, неактивированный в данный момент. Активируйте вашу учетную запись?</string>
+    <string name="miuishare_wechat_timeline_title">Wechat Timeline</string>
+    <string name="miuishare_weibo_title">Weibo</string>
+    <string name="miuishare_publish">Отправить</string>
+    <string name="miuishare_share_done">Share content is sent.</string>
+    <string name="miuishare_share_editor_title">Share</string>
+    <string name="miuishare_no_network">No network for share</string>
     <string name="cube_ptr_pull_down">Потяните вниз для обновления</string>
     <string name="cube_ptr_pull_down_to_refresh">Потяните вниз для обновления</string>
     <string name="cube_ptr_release_to_refresh">Отпустите для обновления</string>
@@ -64,4 +80,53 @@
     <string name="minutes">%d мин.</string>
     <string name="seconds">%d сек.</string>
     <string name="millis">%d мс.</string>
+	<string name="level_exp_value" formatted="false">Балы: %d/%d</string>
+    <string name="exp">Балы</string>
+	<string name="limit_task">Ограниченные проблемы</string>
+    <string name="privilege_detail">Детали</string>
+    <string name="privilege_eligibility">Право</string>
+    <string name="privilege_description">Детали</string>
+    <string name="privilege_prize">Награда</string>
+	<string name="copy_and_use">Выкупить</string>
+	<string name="no_achievements">Пусто.</string>
+    <string name="achievements">Награды</string>
+    <string name="achieved">ЗАРАБОТАННЫЕ</string>
+    <string name="unachieved">ДОСТУПНЫЕ</string>
+    <string name="achieve_condition">Награда за:</string>
+    <string name="achieved_time">Заработанно на %s</string>
+    <string name="earn_x_points">Заработанно %s баллов</string>
+    <string name="use_immediately">Использовать</string>
+    <string name="redeem">Выкупить</string>
+    <string name="acquired_time_x">Получил на %s</string>
+    <string name="awards">Призы</string>
+    <string name="achievement_progress" formatted="false">Прогресс: %d/%d</string>
+    <string name="device_usage_data">Статистика использования телефона</string>
+    <string name="device_charge_times">Раз взимается</string>
+    <string name="device_unlock_screen_times">Экран разблокирован</string>
+    <string name="device_answer_phone_times">На звонки отвечали</string>
+    <string name="share_button">Поделиться</string>
+    <string name="share">Поделиться</string>
+    <string name="rank">Рейтинги</string>
+    <string name="my_rank">Мой топ</string>
+    <string name="my_rank_not_ready">Нет данных</string>
+    <string name="rank_keeps">То же самое</string>
+    <string name="personal_info">Профиль</string>
+    <string name="button_confirm">Да</string>
+    <string name="button_cancel">Отмена</string>
+    <string name="button_previous">Предыдущий</string>
+    <string name="exchange_rules">Помощь</string>
+    <string name="exchange_traffic">Get mobile data</string>
+    <string name="more">Еще</string>
+    <string name="not_enough_pisces">Не хватает жетонов</string>
+    <string name="unlock_at_level_x">Уровень %d разблокирован</string>
+	<string name="start_activity_error">"Не удается запустить приложение: %s"</string>
+    <string name="downloading">Загрузка…</string>
+    <string name="download_title">Загрузить это приложение?</string>
+    <string name="download_message">Загружено %s?</string>
+    <string name="download_progress">%d%%</string>
+    <string name="daily_task">Задачи на день</string>
+    <string name="go">Прогресс...</string>
+    <string name="download_fail">"Не удается загрузить приложение: %s"</string>
+    <string name="input_empty">"Не может быть пустым"</string>
+    <string name="install_fail">"Не удается установить приложение: %s"</string>
 </resources>
