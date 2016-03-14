@@ -107,7 +107,7 @@
     <string name="share_button">Поделиться</string>
     <string name="share">Поделиться</string>
     <string name="rank">Рейтинги</string>
-    <string name="my_rank">Мой топ</string>
+    <string name="my_rank">Мой рейтинг</string>
     <string name="my_rank_not_ready">Нет данных</string>
     <string name="rank_keeps">То же самое</string>
     <string name="personal_info">Профиль</string>

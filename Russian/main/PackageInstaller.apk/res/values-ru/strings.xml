@@ -122,4 +122,30 @@
     <string name="update_title">%1$s обновлено</string>
     <string name="warn_message">Ваши личные данные более уязвимы для атак приложений из неизвестных источников</string>
     <string name="warn_title">Подозрительное приложение</string>
+	<string name="app_store_missing_title">Отсутствует Mi Магазин</string>
+    <string name="reboot_time">Перезагрузка через……(%1$s)</string>
+    <string name="app_store_missing_message">Mi Магазин не установлен на Вашем устройстве, установить сейчас?</string>
+	<string name="app_store_installing_message">Установка…</string>
+    <string name="btn_text_security_install">Заменить на безопасную версию</string>
+    <string name="btn_text_install_new_version">Последняя версия</string>
+    <string name="btn_text_install_origin">Оригинальная версия</string>
+    <string name="btn_text_install_security_version_in_appstore">Заменить на безопасную версию</string>
+    <string name="btn_text_scaning">Проверка…</string>
+    <string name="btn_text_full_scan">Полная проверка</string>
+    <string name="message_full_scanning">Полная проверка…</string>
+    <string name="message_quick_scanning">Быстрая проверка…</string>
+    <string name="message_install_in_market">Рекомендуем установить это приложение из Mi Маркета</string>
+    <string name="message_appstore_verify_has_new_version">Доступна новая версия этого приложения в Mi Маркете. Установить сейчас?</string>
+    <string name="message_appstore_verify_inconsistent">Это приложение имеет подпись, отличную от приложения в Mi Маркете. Для обеспечения безопасности мы рекомендуем установить это приложение из Mi Маркета.</string>
+    <string name="message_appstore_verify_ok">Это приложение прошло проверку безопасности.</string>
+    <string name="install_from_appstore_hint">Рекомендуем установить приложение из &lt;u>&lt;font color=#91c727>Mi Маркета&lt;/font>&lt;/u></string>
+    <string name="waiting_tip">Это займёт некоторое время</string>
+	<string name="activity_package_delete_confirm_title">Важное предупреждение</string>
+	<string name="button_text_cancel">Отмена</string>
+	<string name="button_text_delete">Удалить</string>
+    <string name="button_text_next_step_timer">Далее (%d)</string>
+	<string name="button_text_delete_timer">Удалить (%d)</string>
+    <string name="package_delete_confirm_step_1">Удалить %s?</string>
+    <string name="package_delete_confirm_step_2">Удаление этого приложения может привести к нестабильности в вашей системе.</string>
+    <string name="package_delete_confirm_step_3">Вы не сможете открыть это приложение после его удаления.</string>
 </resources>
