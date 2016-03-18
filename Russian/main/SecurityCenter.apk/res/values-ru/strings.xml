@@ -810,4 +810,11 @@
 	<string name="preferred_app_entries_launcher">Рабочий стол</string>
 	<string name="preferred_app_entries_messaging">Сообщения</string>
 	<string name="preferred_app_entries_music">Музыка</string>
+	<string name="security_scan_optimizing">Оптимизация…</string>
+    <string name="preferred_app_entries_dial">Вызовы</string>
+    <string name="preferred_app_entries_browser">Браузер</string>
+    <string name="preferred_app_entries_camera">Камера</string>
+    <string name="preferred_app_entries_gallery">Галерея</string>
+    <string name="preferred_app_entries_email">Email</string>
+	<string name="system_check_content_none">Безопасно</string>
 </resources>
