@@ -1,12 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="slideshow_time_entries">
-        <item>5 минут</item>
-        <item>15 минут</item>
-        <item>30 минут</item>
-        <item>1 час</item>
-        <item>Всегда</item>
-    </string-array>
     <string-array name="baby_sexy">
         <item>Мальчик</item>
         <item>Девочка</item>
@@ -14,9 +7,18 @@
     <string-array name="owner_relation">
         <item>Папа</item>
         <item>Мама</item>
-        <item>Дедушка</item>
-        <item>Бабушка</item>
-        <item>Дедушка</item>
-        <item>Бабушка</item>
+        <item>Дедушка по папе</item>
+        <item>Бабушка по папе</item>
+        <item>Дедушка по маме</item>
+        <item>Бабушка по маме</item>
+    </string-array>
+    <string-array name="relation_with_me">
+        <item>Я</item>
+        <item>Ребенок</item>
+        <item>Семья</item>
+        <item>Коллеги</item>
+        <item>Одноклассники</item>
+        <item>Друзья</item>
+        <item>Другие</item>
     </string-array>
 </resources>

@@ -579,7 +579,7 @@
     <string name="antivirus_choose_engine_title">Антивирусная база</string>
     <string name="antivirus_choose_engine_disable_toast">Невозможно сменить базу во время сканирования</string>
     <string name="antivirus_choose_engine_dialog_title">Выберите базу</string>
-    <string name="antivirus_choose_engine">Использовать %s</string>
+    <string name="antivirus_choose_engine">%s</string>
     <string name="antivirus_none_engine_dialog_title">Выберите базу</string>
     <string name="antivirus_none_engine_dialog_ok">ОК</string>
     <string name="antivirus_privacy_dialog_title">Политика конфиденциальности</string>
