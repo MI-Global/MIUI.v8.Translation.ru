@@ -1,5 +1,63 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="hints_traffic_enable_title">
+        <item quantity="other">Трафик не отслеживается для %d приложений</item>
+        <item quantity="one">Трафик не отслеживается для %d приложения</item>
+    </plurals>
+    <plurals name="hints_traffic_disable_title">
+        <item quantity="other">Трафик отслеживается для %d приложений</item>
+        <item quantity="one">"Трафик отслеживается  для %d приложения"</item>
+    </plurals>
+    <plurals name="hints_traffic_saving_optimized">
+        <item quantity="zero">%d приложений оптимизировано</item>
+        <item quantity="one">%d приложение оптимизировано</item>
+        <item quantity="few">%d приложения оптимизировано</item>
+        <item quantity="many">%d приложений оптимизировано</item>
+    </plurals>
+    <plurals name="hints_traffic_saving_need_optimize">
+        <item quantity="zero">Можно оптимизировать: %d</item>
+        <item quantity="one">Можно оптимизировать: %d</item>
+        <item quantity="few">Можно оптимизировать: %d</item>
+        <item quantity="many">Можно оптимизировать: %d</item>
+    </plurals>
+    <plurals name="hints_traffic_saving_enable_title">
+        <item quantity="zero">%d приложений использует сжатие</item>
+        <item quantity="one">%d приложение использует сжатие</item>
+        <item quantity="few">%d приложения использует сжатие</item>
+        <item quantity="many">%d приложений использует сжатие</item>
+    </plurals>
+    <plurals name="hints_traffic_saving_disable_title">
+        <item quantity="zero">%d приложений не использует сжатие</item>
+        <item quantity="one">%d приложение не использует сжатие</item>
+        <item quantity="few">%d приложения не использует сжатие</item>
+        <item quantity="many">%d приложений не использует сжатие</item>
+    </plurals>
+    <plurals name="hints_install_apps_interval">
+        <item quantity="zero">Использовалось %d дней назад</item>
+        <item quantity="one">Использовалось вчера</item>
+        <item quantity="few">Использовалось %d дня назад</item>
+        <item quantity="many">Использовалось %d дней назад</item>
+    </plurals>
+    <plurals name="search_app_count_txt_na">
+        <item quantity="zero">Поиск (%d приложений)</item>
+        <item quantity="one">Поиск (%d приложение)</item>
+        <item quantity="few">Поиск (%d приложения)</item>
+        <item quantity="many">Поиск (%d приложений)</item>
+    </plurals>
+    <plurals name="hints_roaming_enable_title">
+        <item quantity="other">%d прилож. может использ. моб. трафик в роуминге</item>
+        <item quantity="one">%d прилож. может использ. моб. трафик в роуминге</item>
+    </plurals>
+    <plurals name="hints_roaming_disable_title">
+        <item quantity="other">%d прилож. не может использ. моб. трафик в роуминге</item>
+        <item quantity="one">%d прилож. не может использ. моб. трафик в роуминге</item>
+    </plurals>
+    <plurals name="hints_roaming_found_app_count_title">
+        <item quantity="zero">Найдено %d приложений</item>
+        <item quantity="one">Найдено %d приложение</item>
+        <item quantity="few">Найдено %d приложения</item>
+        <item quantity="many">Найдено %d приложений</item>
+    </plurals>
     <plurals name="power_center_battery_day">
         <item quantity="other">"%d дн. "</item>
         <item quantity="one">"%d дн. "</item>
@@ -13,31 +71,97 @@
         <item quantity="one">"%d мин. "</item>
     </plurals>
     <plurals name="hints_auto_start_enable_title">
-        <item quantity="other">Приложения с автозапуском (%d)</item>
-        <item quantity="one">Приложения с автозапуском (%d)</item>
+        <item quantity="other">Приложений с разрешенным автозапуском: %d</item>
+        <item quantity="one">Приложений с разрешенным автозапуском: %d</item>
     </plurals>
     <plurals name="hints_auto_start_disable_title">
-        <item quantity="other">Приложения без автозапуска (%d)</item>
-        <item quantity="one">Приложения без автозапуска (%d)</item>
+        <item quantity="other">Приложений с запрещенным автозапуском: %d</item>
+        <item quantity="one">Приложений с запрещенным автозапуском: %d</item>
     </plurals>
     <plurals name="hints_apps_perm_count">
-        <item quantity="other">Разрешений: %d</item>
-        <item quantity="one">Разрешений: %d</item>
+        <item quantity="zero">Нет разрешений</item>
+        <item quantity="one">%d разрешение</item>
+        <item quantity="few">%d разрешения</item>
+        <item quantity="many">%d разрешений</item>
     </plurals>
     <plurals name="hints_permission_apps_count">
-        <item quantity="other">Приложений: %d</item>
-        <item quantity="one">Приложений: %d</item>
+        <item quantity="zero">Нет приложений</item>
+        <item quantity="one">%d приложение</item>
+        <item quantity="few">%d приложения</item>
+        <item quantity="many">%d приложений</item>
     </plurals>
     <plurals name="hints_get_root_enable_title">
-        <item quantity="other">Приложения с ROOT доступом (%d)</item>
-        <item quantity="one">Приложения с ROOT доступом (%d)</item>
+        <item quantity="other">Приложений с правами администратора: %d</item>
+        <item quantity="one">Приложений с правами администратора: %d</item>
     </plurals>
     <plurals name="hints_get_root_disable_title">
-        <item quantity="other">Приложения без ROOT доступа (%d)</item>
-        <item quantity="one">Приложения без ROOT доступа (%d)</item>
+        <item quantity="other">Приложений без прав администратора: %d</item>
+        <item quantity="one">Приложений без прав администратора: %d</item>
     </plurals>
     <plurals name="summary_app_update">
-        <item quantity="other">Доступны обновления приложений: %d</item>
-        <item quantity="one">Доступны обновления приложений: %d</item>
+        <item quantity="zero">Нет обновлений</item>
+        <item quantity="one">Доступно обновление для %d приложения</item>
+        <item quantity="few">Доступно обновление для %d приложений</item>
+        <item quantity="many">Доступно обновление для %d приложений</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">Пароль должен содержать хотя бы %d букв</item>
+        <item quantity="one">Пароль должен содержать хотя бы %d букву</item>
+        <item quantity="few">Пароль должен содержать хотя бы %d буквы</item>
+        <item quantity="many">Пароль должен содержать хотя бы %d букв</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">Пароль должен содержать хотя бы %d строчных букв</item>
+        <item quantity="one">Пароль должен содержать хотя бы %d строчную букву</item>
+        <item quantity="few">Пароль должен содержать хотя бы %d строчных буквы</item>
+        <item quantity="many">Пароль должен содержать хотя бы %d строчных букв</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">Пароль должен содержать хотя бы %d заглавных букв</item>
+        <item quantity="one">Пароль должен содержать хотя бы %d заглавную букву</item>
+        <item quantity="few">Пароль должен содержать хотя бы %d заглавных буквы</item>
+        <item quantity="many">Пароль должен содержать хотя бы %d заглавных букв</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">Пароль должен содержать хотя бы %d цифр</item>
+        <item quantity="one">Пароль должен содержать хотя бы %d цифру</item>
+        <item quantity="few">Пароль должен содержать хотя бы %d цифры</item>
+        <item quantity="many">Пароль должен содержать хотя бы %d цифр</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">Пароль должен содержать хотя бы %d спец. символов</item>
+        <item quantity="one">Пароль должен содержать хотя бы %d спец. символ</item>
+        <item quantity="few">Пароль должен содержать хотя бы %d спец. символа</item>
+        <item quantity="many">Пароль должен содержать хотя бы %d спец. символов</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">Пароль должен содержать хотя бы %d не букв</item>
+        <item quantity="one">Пароль должен содержать хотя бы %d не букву</item>
+        <item quantity="few">Пароль должен содержать хотя бы %d не буквы</item>
+        <item quantity="many">Пароль должен содержать хотя бы %d не букв</item>
+    </plurals>
+    <plurals name="number_locked">
+        <item quantity="other">%d приложений с блокировкой</item>
+        <item quantity="one">%d приложение с блокировкой</item>
+        <item quantity="few">%d приложения с блокировкой</item>
+        <item quantity="many">%d приложений с блокировкой</item>
+    </plurals>
+    <plurals name="number_to_lock">
+        <item quantity="other">%d приложений без блокировки</item>
+        <item quantity="one">%d приложение без блокировки</item>
+        <item quantity="few">%d приложения без блокировки</item>
+        <item quantity="many">%d приложений без блокировки</item>
+    </plurals>
+    <plurals name="find_applications">
+        <item quantity="zero">Поиск (%d приложений)</item>
+        <item quantity="one">Поиск (%d приложение)</item>
+        <item quantity="few">Поиск (%d приложения)</item>
+        <item quantity="many">Поиск (%d приложений)</item>
+    </plurals>
+    <plurals name="found_apps_title">
+        <item quantity="zero">Найдено %d приложений</item>
+        <item quantity="one">Найдено %d приложение</item>
+        <item quantity="few">Найдено %d приложения</item>
+        <item quantity="many">Найдено %d приложений</item>
     </plurals>
 </resources>

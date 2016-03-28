@@ -7,56 +7,120 @@
         <item>Через 30 минут</item>
         <item>Никогда</item>
     </string-array>
-    <string-array name="preferred_app_entries">
-        <item>Рабочий стол</item>
-        <item>Телефон</item>
-        <item>Сообщения</item>
-        <item>Браузер</item>
-        <item>Камера</item>
-        <item>Галерея</item>
-        <item>Музыка</item>
-        <item>Почта</item>
+    <string-array name="date_of_traffic_cmcc">
+        <item>"За неделю "</item>
+        <item>"Сегодня "</item>
+        <item>"За месяц "</item>
+    </string-array>
+    <string-array name="date_of_traffic">
+        <item>"Вчера "</item>
+        <item>"Сегодня "</item>
+        <item>"За месяц "</item>
+    </string-array>
+    <string-array name="date_of_traffic_prefix_cmcc">
+        <item>"За неделю: "</item>
+        <item>"Сегодня: "</item>
+        <item>"За месяц: "</item>
+    </string-array>
+    <string-array name="date_of_traffic_prefix">
+        <item>"Вчера: "</item>
+        <item>"Сегодня: "</item>
+        <item>"За месяц: "</item>
+    </string-array>
+    <string-array name="date_of_app_all">
+        <item>Вчера (моб.)</item>
+        <item>Сегодня (моб.)</item>
+        <item>За месяц (моб.)</item>
+        <item>Вчера (Wi-Fi)</item>
+        <item>Сегодня (Wi-Fi)</item>
+        <item>За месяц (Wi-Fi)</item>
+    </string-array>
+    <string-array name="date_of_app">
+        <item>Вчера (моб.)</item>
+        <item>Сегодня (моб.)</item>
+        <item>За месяц (моб.)</item>
+    </string-array>
+    <string-array name="network_speed_update_internals">
+        <item>3 сек.</item>
+        <item>4 сек.</item>
+        <item>5 сек.</item>
+        <item>6 сек.</item>
+        <item>7 сек.</item>
+        <item>8 сек.</item>
+        <item>9 сек.</item>
+    </string-array>
+    <string-array name="traffic_type">
+        <item>"Моб. трафик "</item>
+        <item>"Wi-Fi трафик "</item>
+        <item>"Сэкономлено "</item>
+    </string-array>
+    <string-array name="mi_service_traffic_type">
+        <item>"Моб. трафик "</item>
+        <item>"Wi-Fi трафик "</item>
+    </string-array>
+    <string-array name="traffic_sort_type">
+        <item>"Моб. трафик "</item>
+        <item>"Wi-Fi трафик "</item>
+        <item>"Сэкономлено "</item>
+    </string-array>
+    <string-array name="traffic_setting_sms_template">
+        <item>Получить автоматически</item>
+        <item>Установить вручную</item>
+    </string-array>
+    <string-array name="over_limit_traffic_waring_style">
+        <item>Предупредить</item>
+        <item>Откл. моб. интернет</item>
+    </string-array>
+    <string-array name="roaming_apps_sorted_type">
+        <item>По использованию</item>
+        <item>По названию</item>
+    </string-array>
+    <string-array name="traffic_saving_compress_level_string_array">
+        <item>Без сжатия</item>
+        <item>Низкое</item>
+        <item>Среднее</item>
+        <item>Высокое</item>
     </string-array>
     <string-array name="power_dialog_auto_clean_memory_items">
-        <item>Через 1 минуту</item>
-        <item>Через 5 минут</item>
-        <item>Через 10 минут</item>
+        <item>Через 1 мин.</item>
+        <item>Через 5 мин.</item>
+        <item>Через 10 мин.</item>
         <item>Никогда</item>
     </string-array>
     <string-array name="power_dialog_sleep_items">
-        <item>15 секунд</item>
-        <item>30 секунд</item>
-        <item>1 минута</item>
-        <item>2 минуы</item>
-        <item>5 минут</item>
-        <item>10 минут</item>
+        <item>15 сек.</item>
+        <item>30 сек.</item>
+        <item>1 мин.</item>
+        <item>2 мин.</item>
+        <item>5 мин.</item>
+        <item>10 мин.</item>
         <item>Никогда</item>
     </string-array>
     <string-array name="power_dialog_cpu_state_items">
-        <item>Высокое</item>
-        <item>Умеренное</item>
+        <item>Производительный</item>
+        <item>Сбалансированный</item>
     </string-array>
     <string-array name="power_dialog_wifi_internet_state_items">
         <item>Выключить</item>
         <item>Включить</item>
-        <item>По умолчанию</item>
+        <item>Не изменять</item>
     </string-array>
     <string-array name="power_dialog_vibration_items">
         <item>Никогда</item>
-        <item>В режиме без звука</item>
+        <item>В беззвучном режиме</item>
         <item>Всегда</item>
     </string-array>
     <string-array name="alarm_repeat_type">
-        <item>Однократно</item>
+        <item>Один раз</item>
         <item>Ежедневно</item>
-        <item>В рабочие дни</item>
-        <item>По будням</item>
+        <item>Рабочие дни</item>
+        <item>Понедельник-пятница</item>
         <item>Выбрать дни</item>
     </string-array>
     <string-array name="alarm_repeat_type_no_workdays">
-        <item>Однократно</item>
+        <item>Один раз</item>
         <item>Ежедневно</item>
-        <item>По будням</item>
+        <item>Понедельник-пятница</item>
         <item>Выбрать дни</item>
     </string-array>
 </resources>
