@@ -399,4 +399,10 @@
     <string name="empty_title_video">Пусто</string>
 	<string name="opened">Включено</string>
     <string name="pref_summary_auto_deepclean_and_alert">Уведомлять, когда свободной памяти осталось менее 1 Гб</string>
+	<string name="information_setting">Лента новостей</string>
+    <string name="load_only_under_wlan">Загружать новости при подключении к Wi-Fi</string>
+    <string name="recommend_news">Рекомендуемые источники</string>
+    <string name="dialog_title_stop_scan">Остановить поиск</string>
+    <string name="dialog_msg_stop_scan">Остановить поиск?</string>
+    <string name="recommend_the_following">Примите следующие меры, чтобы получить максимальную отдачу от вашего устройства</string>
 </resources>
