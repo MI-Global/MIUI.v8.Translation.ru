@@ -14,6 +14,31 @@
     <string name="cloud_app_restore_data">Восстановить приложения</string>
     <string name="cloud_app_dont_restore">Настроить как новое устройство</string>
     <string name="cloud_app_restore_wifi_prompt">Для восстановления приложений подключитесь к сети Wi-Fi</string>
+    <string name="cloud_backup_detail_state">Резервная копия Mi Cloud</string>
+    <string name="cloud_backup_detail_state_summary">Приложения, настройки рабочего стола и системы</string>
+    <string name="cloud_backup_detail_frequence">Расписание копирования</string>
+    <string name="cloud_back_up_interval_long">Каждые 7 дней</string>
+    <string name="cloud_back_up_interval_short">Каждый день</string>
+    <string name="cloud_backup_detail_frequence_day">Резервное копирование: %1$s</string>
+    <string name="cloud_backup_detail_time">, время: %1$s</string>
+    <string name="cloud_backup_detail_manage">Управление копиями</string>
+    <string name="cloud_backup_detail_manage_summary">Копий: %1$s, размер: %2$s</string>
+    <string name="cloud_back_up_opening">Подождите…</string>
+    <string name="cloud_back_up_no_network_warn">Не удается подключится к Wi-Fi</string>
+    <string name="cloud_back_up_ok_btn">OK</string>
+    <string name="cloud_back_up_frequence_choice_title">Расписание копирования</string>
+    <string name="cloud_back_up_frequence_long">Каждые 7 дней</string>
+    <string name="cloud_back_up_frequence_short">Каждый день</string>
+    <string name="cloud_back_up_share_activity_title">Обновить Mi Аккаунт</string>
+    <string name="cloud_back_up_share_activity_discription">Получить больше места для хранения резервных копий.</string>
+    <string name="cloud_back_up_share_activity_confirm">Обновить</string>
+    <string name="cloud_back_up_detail_discription">"Элементы, которые будут сохранены в Mi Cloud, когда устройство подключено к Wi-Fi:
+*				Приложения и настройки рабочего стола 
+*				Мелодии, обои и шрифты 
+*				Настройки часов и будильников 
+*				Настройки уведомлений 
+*				Настройки системы 
+Примечание: данные установленных Вами приложений не будут сохранены в Mi Cloud."</string>
     <string name="cloud_app_no_data">Нет ранее установленных приложений</string>
     <string name="cloud_app_restore_error">Ошибка восстановления</string>
     <string name="cloud_app_restore_success">Приложения восстановлены</string>
@@ -22,8 +47,11 @@
     <string name="cloud_app_no_network">Интернет недоступен</string>
     <string name="button_delete">Удалить</string>
     <string name="customization"><u>Настройки</u></string>
+    <string name="xiaomi_account_type">com.xiaomi</string>
     <string name="self_phone">Это устройство</string>
     <string name="process_whole_recovery">Восстановление "%s"</string>
+    <string name="device_xiaomi">Телефон</string>
+    <string name="miui_device_name">Ядро Android</string>
     <string name="recovering">Восстановление %s</string>
     <string name="start_recover">Восстановить %s</string>
     <string name="latest_backup_time_loading">Загрузка…</string>
@@ -53,6 +81,7 @@
     <string name="open_wifi_setting">Настройки Wi-Fi</string>
     <string name="name_model">%1$s %2$s</string>
     <string name="download_settings">Загрузка данных рабочего стола: %s%%</string>
+    <string name="cloud_back_up_date_format">HH:mm dd/MM/yyyy</string>
     <string name="recover_home_settings">Восстановить настройки рабочего стола</string>
     <string name="cancel_recover_settings"><u>Отмена</u></string>
     <string name="recover_settings_description">Не выключайте устройство</string>
@@ -70,31 +99,19 @@
     <string name="remove_task_unfinished">Удаление не завершено</string>
     <string name="back_up_task_unfinished">Создание резервной копии не завершено</string>
     <string name="about_to_recover">Подождите…</string>
-    <string name="recover_settings">Восстановить данные рабочего стола</string>
-	<string name="cloud_backup_detail_state">Резервная копия Mi Cloud</string>
-    <string name="cloud_backup_detail_state_summary">Приложения, настройки рабочего стола и системы</string>
-    <string name="cloud_backup_detail_frequence">Расписание копирования</string>
-    <string name="cloud_back_up_interval_long">Каждые 7 дней</string>
-    <string name="cloud_back_up_interval_short">Каждый день</string>
-    <string name="cloud_backup_detail_frequence_day">Резервное копирование: %1$s</string>
-    <string name="cloud_backup_detail_time">, время: %1$s</string>
-    <string name="cloud_backup_detail_manage">Управление копиями</string>
-    <string name="cloud_backup_detail_manage_summary">Копий: %1$s, размер: %2$s</string>
-    <string name="cloud_back_up_opening">Подождите…</string>
-    <string name="cloud_back_up_no_network_warn">Не удается подключится к Wi-Fi</string>
-    <string name="cloud_back_up_ok_btn">OK</string>
-    <string name="cloud_back_up_frequence_choice_title">Расписание копирования</string>
-    <string name="cloud_back_up_frequence_long">Каждые 7 дней</string>
-    <string name="cloud_back_up_frequence_short">Каждый день</string>
-    <string name="cloud_back_up_share_activity_title">Обновить Mi Аккаунт</string>
-    <string name="cloud_back_up_share_activity_discription">Получить больше места для хранения резервных копий.</string>
-    <string name="cloud_back_up_share_activity_confirm">Обновить</string>
-    <string name="cloud_back_up_detail_discription">"Элементы, которые будут сохранены в Mi Cloud, когда устройство подключено к Wi-Fi:
-*\u0009\u0009\u0009\u0009Приложения и настройки рабочего стола 
-*\u0009\u0009\u0009\u0009Мелодии, обои и шрифты 
-*\u0009\u0009\u0009\u0009Настройки часов и будильников 
-*\u0009\u0009\u0009\u0009Настройки уведомлений 
-*\u0009\u0009\u0009\u0009Настройки системы 
-Примечание: данные установленных Вами приложений не будут сохранены в Mi Cloud."</string>
-<string name="query_restore_back_view">Резервная копия Mi Cloud</string>
+    <string name="success_open_cloudbackup">Резервное копирование Рабочего стола включено</string>
+    <string name="as_new_device">Заменить предыдущий Рабочий стол и настройки</string>
+    <string name="as_new_device_summary">Стереть предыдущие резервные копии Mi Cloud</string>
+    <string name="restore_data_summary">Эта функция требует подключения к Интернету.</string>
+    <string name="query_restore_summary">Найдена резервная копия Mi Cloud для этого устройства. Восстановить Рабочий стол и настройки или восстановить копию для нового устройства и стереть предыдущие резервные копии Mi Cloud?</string>
+    <string name="query_restore_back_view">Резервная копия Mi Cloud</string>
+    <string name="restore_home_screen_apps">Восстановить из резервной копии Mi Cloud</string>
+    <string name="query_restore_description">Восстановите Рабочий стол, приложения и настройки из этой копии. Это перезапишет данные приложений для приложений, уже установленных на этом устройстве. Приложения не включеные в резервную копию будут перенесены на последний экран Рабочего стола.</string>
+    <string name="restore_from_this_device">Восстановить эту резервную копию</string>
+    <string name="confirm_restore_title">Восстановить</string>
+    <string name="confirm_restore_summary">Рабочий стол будет перезагружен и приложения будут загружаться автоматически при подключении к сети WLAN</string>
+    <string name="confirm_restore">Восстановить</string>
+    <string name="cloud_backup_have_data">Найдена резервная копия Mi Cloud</string>
+    <string name="cloud_backup_select_recover">Выберите резервную копию из Mi Cloud</string>
+    <string name="backup_finished_notification_content">Резервная копия Рабочего стола, приложений, системных настроек и т.д.</string>
 </resources>
