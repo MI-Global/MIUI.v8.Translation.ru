@@ -26,6 +26,9 @@
     <string name="preference_key_checkbox_apps_auto_clean_and_alert">key_checkbox_apps_auto_clean_content</string>
     <string name="preference_key_apps_cleanup_auto_check_time">key_apps_cleanup_auto_check_time</string>
     <string name="preference_key_apps_cleanup_auto_check_size">key_apps_cleanup_auto_check_size</string>
+	<string name="preference_category_information_setting">category_information_setting</string>
+    <string name="preference_key_information_setting_wlan">key_information_setting_wlan</string>
+    <string name="preference_key_information_setting_close">key_information_setting_close</string>
     <string name="activity_title_garbage_cleanup">Очистка</string>
     <string name="activity_title_scanfinish">Сканирование завершено</string>
     <string name="empty_title_garbage_cache">Кэш не найден</string>
@@ -336,6 +339,8 @@
     <string name="buy_immediately">Купить</string>
     <string name="title_of_auto_launch_manage">Автозапуск</string>
     <string name="tips_of_auto_launch_manage">Автозапуск приложений</string>
+	<string name="title_of_app_manage">Приложения</string>
+    <string name="tips_of_app_manage">Удалить редко используемые приложения для экономии памяти</string>
     <string name="title_of_traffic_notification">Уведомление статистики</string>
     <string name="tips_of_traffic_notification">Отображение трафика в панели уведомлений</string>
     <string name="title_of_package_set">Настройки тарифа</string>
@@ -405,4 +410,6 @@
     <string name="dialog_title_stop_scan">Остановить поиск</string>
     <string name="dialog_msg_stop_scan">Остановить поиск?</string>
     <string name="recommend_the_following">Примите следующие меры, чтобы получить максимальную отдачу от вашего устройства</string>
+	<string name="news_change">Изменить</string>
+	<string name="long_click_dialog_summary">Долгое нажатие для добавления к исключениям.</string>
 </resources>
